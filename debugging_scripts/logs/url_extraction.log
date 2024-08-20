@@ -1,0 +1,2177 @@
+2024-08-20 15:33:51,634 - INFO - ################################################################################
+2024-08-20 15:33:51,634 - INFO - Fetching and parsing Visit Chattanooga
+2024-08-20 15:33:51,634 - INFO - ################################################################################
+2024-08-20 15:33:51,784 - INFO - Chromedriver is already installed.
+2024-08-20 15:33:51,784 - INFO - ====== WebDriver manager ======
+2024-08-20 15:33:51,855 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:33:51,944 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:33:52,030 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-20 15:34:08,317 - INFO - https://www.visitchattanooga.com/events/ fetched
+2024-08-20 15:34:08,387 - INFO - ================================================================================
+2024-08-20 15:34:08,387 - INFO - Grid search result: entRender_type_widget contentRender_name_plugins_common_embed" data-sv-time="44" data-sv-index="16" data-gtm-vars="{ &quot;tCore&quot; : { &quot;contentNum&quot; : &quot;1&quot; } }"><div class="custom-embed" data-guid="c7dfe229-86a7-4af6-ba31-ae900a15d4a8">
+    <script id="cr-init__a35f8e0291db91cd" src="https://starling.crowdriff.com/js/crowdriff.js" async=""></script><div id="cr__a35f8e0291db91cd"><div id="cr__app" class="cr__gallery cr__gallery__isGalleryRefresh" style="overflow-x: hidden;"><div class="cr__grid clearfix" id="a35f8e0291db91cd" style="margin: 0px -2.5px; padding-top: 2.5px; padding-bottom: 2.5px; position: relative;"><div class="erd_scroll_detection_container erd_scroll_detection_container_animation_active" style="visibility: hidden; display: inline; width: 0px; height: 0px; z-index: -1; overflow: hidden; margin: 0px; padding: 0px;"><div dir="ltr" class="erd_scroll_detection_container" style="position: absolute; flex: 0 0 auto; overflow: hidden; z-index: -1; visibility: hidden; width: 100%; height: 100%; left: 0px; top: 0px;"><div class="erd_scroll_detection_container" style="position: absolute; flex: 0 0 auto; overflow: hidden; z-index: -1; visibility: hidden; inset: -16px -15px -15px -16px;"><div style="position: absolute; flex: 0 0 auto; overflow: scroll; z-index: -1; visibility: hidden; width: 100%; height: 100%;"><div style="position: absolute; left: 0px; top: 0px; width: 1659px; height: 318px;"></div></div><div style="position: absolute; flex: 0 0 auto; overflow: scroll; z-index: 
+2024-08-20 15:34:08,387 - INFO - ================================================================================
+2024-08-20 15:34:08,440 - INFO - Found iframe: //www.googletagmanager.com/ns.html?id=GTM-MQX2GG
+2024-08-20 15:34:08,441 - INFO - Found iframe: //www.googletagmanager.com/ns.html?id=GTM-NFBVG93
+2024-08-20 15:34:08,441 - INFO - Found iframe: javascript:false
+2024-08-20 15:34:08,441 - INFO - Found iframe: //20832837p.rfihub.com/ca.html?rb=44011&ca=20832837&_o=44011&_t=20832837&ra=1340829829
+2024-08-20 15:34:08,441 - INFO - Found iframe: //20832838p.rfihub.com/ca.html?rb=44011&ca=20832838&_o=44011&_t=20832838&ra=2141367157
+2024-08-20 15:34:08,441 - INFO - Found iframe: https://6447211.fls.doubleclick.net/activityi;src=6447211;type=homep0;cat=dcmfl00;ord=8702990644555;npa=0;auiddc=1092161994.1724182433;ps=1;pcor=1119438544;uaa=x86;uab=64;uafvl=Not)A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B127.0.6533.119%7CChromium%3B127.0.6533.119;uamb=0;uam=;uap=Linux;uapv=6.8.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe48j0v9189051306z871860688za201zb71860688;gcd=13l3l3l3l1l1;dma=0;tag_exp=0;epver=2;~oref=https%3A%2F%2Fwww.visitchattanooga.com%2Fevents%2F?
+2024-08-20 15:34:08,441 - INFO - Found iframe: https://9715013.fls.doubleclick.net/activityi;src=9715013;type=universa;cat=unive0;ord=7580599097370;npa=0;auiddc=1092161994.1724182433;ps=1;pcor=2019255526;uaa=x86;uab=64;uafvl=Not)A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B127.0.6533.119%7CChromium%3B127.0.6533.119;uamb=0;uam=;uap=Linux;uapv=6.8.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe48j0v9189896283z871860688za201zb71860688;gcd=13l3l3l3l1l1;dma=0;tag_exp=0;epver=2;~oref=https%3A%2F%2Fwww.visitchattanooga.com%2Fevents%2F?
+2024-08-20 15:34:08,441 - INFO - Found iframe: javascript:false
+2024-08-20 15:34:08,441 - INFO - Found iframe: https://wsv3cdn.audioeye.com/v2/frame/cookieStorage.html?build=prod/m&pscb=&cb=bf8f99d
+2024-08-20 15:34:08,441 - INFO - Found iframe: about:blank
+2024-08-20 15:34:08,441 - INFO - ================================================================================
+2024-08-20 15:34:08,441 - INFO - #### HTML PARSED ####
+2024-08-20 15:34:08,441 - INFO - ################################################################################
+2024-08-20 15:34:08,528 - INFO - title_tag: a
+2024-08-20 15:34:08,528 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,528 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/alien%3a-romulus-in-imax!/21332/">Alien: Romulus in IMAX!</a>
+2024-08-20 15:34:08,528 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,528 - INFO - date_tag: span
+2024-08-20 15:34:08,528 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,528 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,528 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,528 - INFO - date: N/A
+2024-08-20 15:34:08,528 - INFO - ********************************************************************************
+2024-08-20 15:34:08,528 - INFO - title_tag: a
+2024-08-20 15:34:08,528 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,528 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/chickamauga-dam-lock-through-kayak-tour-with-chattanooga-guided-adventures/19807/">Chickamauga Dam Lock Through Kayak Tour with Chattanooga Guided Adventures</a>
+2024-08-20 15:34:08,528 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,528 - INFO - date_tag: span
+2024-08-20 15:34:08,528 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,528 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,528 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,528 - INFO - date: N/A
+2024-08-20 15:34:08,528 - INFO - ********************************************************************************
+2024-08-20 15:34:08,528 - INFO - title_tag: a
+2024-08-20 15:34:08,528 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,528 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/exhibit-admission/17763/">Exhibit Admission</a>
+2024-08-20 15:34:08,528 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,528 - INFO - date_tag: span
+2024-08-20 15:34:08,528 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,528 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,528 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,528 - INFO - date: N/A
+2024-08-20 15:34:08,528 - INFO - ********************************************************************************
+2024-08-20 15:34:08,528 - INFO - title_tag: a
+2024-08-20 15:34:08,528 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,528 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/live-music-every-tuesday-%26-saturday-at-honey-seed/20185/">Live Music every Tuesday &amp; Saturday at Honey Seed</a>
+2024-08-20 15:34:08,528 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,528 - INFO - date_tag: span
+2024-08-20 15:34:08,528 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,528 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,528 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,528 - INFO - date: N/A
+2024-08-20 15:34:08,528 - INFO - ********************************************************************************
+2024-08-20 15:34:08,528 - INFO - title_tag: a
+2024-08-20 15:34:08,528 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,528 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/mountain-bike-rental-with-chattanooga-guided-adventures/19809/">Mountain Bike Rental with Chattanooga Guided Adventures</a>
+2024-08-20 15:34:08,528 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,528 - INFO - date_tag: span
+2024-08-20 15:34:08,528 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,529 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,529 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,529 - INFO - date: N/A
+2024-08-20 15:34:08,529 - INFO - ********************************************************************************
+2024-08-20 15:34:08,529 - INFO - title_tag: a
+2024-08-20 15:34:08,529 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,529 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/nickajack-bat-cave-kayak-tour-with-chattanooga-guided-adventures/19747/">Nickajack Bat Cave Kayak Tour with Chattanooga Guided Adventures</a>
+2024-08-20 15:34:08,529 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,529 - INFO - date_tag: span
+2024-08-20 15:34:08,529 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,529 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,529 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,529 - INFO - date: N/A
+2024-08-20 15:34:08,529 - INFO - ********************************************************************************
+2024-08-20 15:34:08,529 - INFO - title_tag: a
+2024-08-20 15:34:08,529 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,529 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/night-ranger-live-in-concert/21020/">Night Ranger Live In Concert</a>
+2024-08-20 15:34:08,529 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,529 - INFO - date_tag: span
+2024-08-20 15:34:08,529 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,529 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,529 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,529 - INFO - date: N/A
+2024-08-20 15:34:08,529 - INFO - ********************************************************************************
+2024-08-20 15:34:08,529 - INFO - title_tag: a
+2024-08-20 15:34:08,529 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,529 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/ruby-falls-history-exhibit%3a-celebrating-95-years-of-wonder!/20838/">Ruby Falls History Exhibit: Celebrating 95 Years of Wonder!</a>
+2024-08-20 15:34:08,529 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,529 - INFO - date_tag: span
+2024-08-20 15:34:08,529 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,529 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,529 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,529 - INFO - date: N/A
+2024-08-20 15:34:08,529 - INFO - ********************************************************************************
+2024-08-20 15:34:08,529 - INFO - title_tag: a
+2024-08-20 15:34:08,529 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,529 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/home-and-away/21247/">"Home and Away"</a>
+2024-08-20 15:34:08,529 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,529 - INFO - date_tag: span
+2024-08-20 15:34:08,529 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,529 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">20</span></span>
+2024-08-20 15:34:08,529 - INFO - date_text: Aug 20
+2024-08-20 15:34:08,529 - INFO - date: N/A
+2024-08-20 15:34:08,529 - INFO - ********************************************************************************
+2024-08-20 15:34:08,529 - INFO - title_tag: a
+2024-08-20 15:34:08,529 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,529 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/live-music-with-eric-kirkendoll/21264/">Live Music with Eric Kirkendoll</a>
+2024-08-20 15:34:08,529 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,529 - INFO - date_tag: span
+2024-08-20 15:34:08,529 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,529 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">21</span></span>
+2024-08-20 15:34:08,529 - INFO - date_text: Aug 21
+2024-08-20 15:34:08,529 - INFO - date: N/A
+2024-08-20 15:34:08,529 - INFO - ********************************************************************************
+2024-08-20 15:34:08,529 - INFO - title_tag: a
+2024-08-20 15:34:08,529 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,529 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/pic-o-dixie-senior-classic/20925/">Pic-O-Dixie Senior Classic</a>
+2024-08-20 15:34:08,529 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,529 - INFO - date_tag: span
+2024-08-20 15:34:08,529 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,530 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">21</span></span>
+2024-08-20 15:34:08,530 - INFO - date_text: Aug 21
+2024-08-20 15:34:08,530 - INFO - date: N/A
+2024-08-20 15:34:08,530 - INFO - ********************************************************************************
+2024-08-20 15:34:08,530 - INFO - title_tag: a
+2024-08-20 15:34:08,530 - INFO - title_attrs: {'class': 'title truncate'}
+2024-08-20 15:34:08,530 - INFO - title_element: <a class="title truncate" data-gtm-click="" data-gtm-vars='{"tCore":{"action":"layoutjs_list_item_title","actionType":"detail"}}' href="/event/songwriters-collective/18777/">Songwriters Collective</a>
+2024-08-20 15:34:08,530 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'span', 'attrs': {'class': 'mini-date-container'}}
+2024-08-20 15:34:08,530 - INFO - date_tag: span
+2024-08-20 15:34:08,530 - INFO - date_attrs: {'class': 'mini-date-container'}
+2024-08-20 15:34:08,530 - INFO - date_element: <span class="mini-date-container"><span class="month">Aug</span> <span class="day">21</span></span>
+2024-08-20 15:34:08,530 - INFO - date_text: Aug 21
+2024-08-20 15:34:08,530 - INFO - date: N/A
+2024-08-20 15:34:08,530 - INFO - ********************************************************************************
+2024-08-20 15:34:08,530 - INFO - Extracted 12 events from Visit Chattanooga
+2024-08-20 15:34:08,530 - INFO - Title: Alien: Romulus in IMAX!
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Chickamauga Dam Lock Through Kayak Tour with Chattanooga Guided Adventures
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Exhibit Admission
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Live Music every Tuesday & Saturday at Honey Seed
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Mountain Bike Rental with Chattanooga Guided Adventures
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Nickajack Bat Cave Kayak Tour with Chattanooga Guided Adventures
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Night Ranger Live In Concert
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Ruby Falls History Exhibit: Celebrating 95 Years of Wonder!
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: "Home and Away"
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Live Music with Eric Kirkendoll
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Pic-O-Dixie Senior Classic
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - Title: Songwriters Collective
+2024-08-20 15:34:08,530 - INFO - Date: N/A
+2024-08-20 15:34:08,530 - INFO - ----------------------------------------
+2024-08-20 15:34:08,530 - INFO - ################################################################################
+2024-08-20 15:34:08,530 - INFO - Fetching and parsing CHA Guide Events
+2024-08-20 15:34:08,530 - INFO - ################################################################################
+2024-08-20 15:34:08,674 - INFO - Chromedriver is already installed.
+2024-08-20 15:34:08,674 - INFO - ====== WebDriver manager ======
+2024-08-20 15:34:08,759 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:34:08,844 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:34:08,935 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-20 15:34:24,266 - INFO - https://www.cha.guide/events fetched
+2024-08-20 15:34:24,346 - INFO - ================================================================================
+2024-08-20 15:34:24,347 - INFO - Could not find 'grid' class in the HTML
+2024-08-20 15:34:24,347 - INFO - ================================================================================
+2024-08-20 15:34:24,427 - INFO - No iframes found in HTML
+2024-08-20 15:34:24,427 - INFO - ================================================================================
+2024-08-20 15:34:24,427 - INFO - #### HTML PARSED ####
+2024-08-20 15:34:24,427 - INFO - ################################################################################
+2024-08-20 15:34:24,565 - INFO - title_tag: h3
+2024-08-20 15:34:24,565 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,566 - INFO - title_element: <h3 class="event-title">Night Ranger @ Walker Theatre</h3>
+2024-08-20 15:34:24,566 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,566 - INFO - date_tag: div
+2024-08-20 15:34:24,566 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,566 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">20</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,566 - INFO - date_text: 20Aug
+2024-08-20 15:34:24,566 - INFO - date: N/A
+2024-08-20 15:34:24,566 - INFO - ********************************************************************************
+2024-08-20 15:34:24,566 - INFO - title_tag: h3
+2024-08-20 15:34:24,566 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,566 - INFO - title_element: <h3 class="event-title">Chattanooga Market at Erlanger</h3>
+2024-08-20 15:34:24,566 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,566 - INFO - date_tag: div
+2024-08-20 15:34:24,566 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,566 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">21</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,566 - INFO - date_text: 21Aug
+2024-08-20 15:34:24,566 - INFO - date: N/A
+2024-08-20 15:34:24,566 - INFO - ********************************************************************************
+2024-08-20 15:34:24,566 - INFO - title_tag: h3
+2024-08-20 15:34:24,566 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,566 - INFO - title_element: <h3 class="event-title">Jazz Futures</h3>
+2024-08-20 15:34:24,566 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,566 - INFO - date_tag: div
+2024-08-20 15:34:24,566 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,566 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">22</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,566 - INFO - date_text: 22Aug
+2024-08-20 15:34:24,566 - INFO - date: N/A
+2024-08-20 15:34:24,566 - INFO - ********************************************************************************
+2024-08-20 15:34:24,566 - INFO - title_tag: h3
+2024-08-20 15:34:24,566 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,566 - INFO - title_element: <h3 class="event-title">Gentle Walking Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,566 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,566 - INFO - date_tag: div
+2024-08-20 15:34:24,566 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,566 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">22</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,566 - INFO - date_text: 22Aug
+2024-08-20 15:34:24,566 - INFO - date: N/A
+2024-08-20 15:34:24,566 - INFO - ********************************************************************************
+2024-08-20 15:34:24,566 - INFO - title_tag: h3
+2024-08-20 15:34:24,566 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,566 - INFO - title_element: <h3 class="event-title">The Guess Who in Chattanooga</h3>
+2024-08-20 15:34:24,566 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,566 - INFO - date_tag: div
+2024-08-20 15:34:24,566 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,567 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">22</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,567 - INFO - date_text: 22Aug
+2024-08-20 15:34:24,567 - INFO - date: N/A
+2024-08-20 15:34:24,567 - INFO - ********************************************************************************
+2024-08-20 15:34:24,567 - INFO - title_tag: h3
+2024-08-20 15:34:24,567 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,567 - INFO - title_element: <h3 class="event-title">Nightfall 2024</h3>
+2024-08-20 15:34:24,567 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,567 - INFO - date_tag: div
+2024-08-20 15:34:24,567 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,567 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">23</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,567 - INFO - date_text: 23Aug
+2024-08-20 15:34:24,567 - INFO - date: N/A
+2024-08-20 15:34:24,567 - INFO - ********************************************************************************
+2024-08-20 15:34:24,567 - INFO - title_tag: h3
+2024-08-20 15:34:24,567 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,567 - INFO - title_element: <h3 class="event-title">EVENING RIDGE RUNNER</h3>
+2024-08-20 15:34:24,567 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,567 - INFO - date_tag: div
+2024-08-20 15:34:24,567 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,567 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">23</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,567 - INFO - date_text: 23Aug
+2024-08-20 15:34:24,567 - INFO - date: N/A
+2024-08-20 15:34:24,567 - INFO - ********************************************************************************
+2024-08-20 15:34:24,567 - INFO - title_tag: h3
+2024-08-20 15:34:24,567 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,567 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,567 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,567 - INFO - date_tag: div
+2024-08-20 15:34:24,567 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,567 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">23</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,567 - INFO - date_text: 23Aug
+2024-08-20 15:34:24,567 - INFO - date: N/A
+2024-08-20 15:34:24,567 - INFO - ********************************************************************************
+2024-08-20 15:34:24,567 - INFO - title_tag: h3
+2024-08-20 15:34:24,567 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,567 - INFO - title_element: <h3 class="event-title">Mold! / Briteboy / The Ego Museum - Live at Yellow Racket!</h3>
+2024-08-20 15:34:24,567 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,567 - INFO - date_tag: div
+2024-08-20 15:34:24,567 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,567 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">23</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,567 - INFO - date_text: 23Aug
+2024-08-20 15:34:24,567 - INFO - date: N/A
+2024-08-20 15:34:24,567 - INFO - ********************************************************************************
+2024-08-20 15:34:24,567 - INFO - title_tag: h3
+2024-08-20 15:34:24,567 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,568 - INFO - title_element: <h3 class="event-title">Nightlife: Aquarium After-Hours</h3>
+2024-08-20 15:34:24,568 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,568 - INFO - date_tag: div
+2024-08-20 15:34:24,568 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,568 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">23</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,568 - INFO - date_text: 23Aug
+2024-08-20 15:34:24,568 - INFO - date: N/A
+2024-08-20 15:34:24,568 - INFO - ********************************************************************************
+2024-08-20 15:34:24,568 - INFO - title_tag: h3
+2024-08-20 15:34:24,568 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,568 - INFO - title_element: <h3 class="event-title">Patrick Sweany @ Songbirds</h3>
+2024-08-20 15:34:24,568 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,568 - INFO - date_tag: div
+2024-08-20 15:34:24,568 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,568 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">23</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,568 - INFO - date_text: 23Aug
+2024-08-20 15:34:24,568 - INFO - date: N/A
+2024-08-20 15:34:24,568 - INFO - ********************************************************************************
+2024-08-20 15:34:24,568 - INFO - title_tag: h3
+2024-08-20 15:34:24,568 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,568 - INFO - title_element: <h3 class="event-title">Chattanooga River Market</h3>
+2024-08-20 15:34:24,568 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,568 - INFO - date_tag: div
+2024-08-20 15:34:24,568 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,568 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,568 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,568 - INFO - date: N/A
+2024-08-20 15:34:24,568 - INFO - ********************************************************************************
+2024-08-20 15:34:24,568 - INFO - title_tag: h3
+2024-08-20 15:34:24,568 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,568 - INFO - title_element: <h3 class="event-title"> Chickamauga Turn</h3>
+2024-08-20 15:34:24,568 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,568 - INFO - date_tag: div
+2024-08-20 15:34:24,568 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,568 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,568 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,568 - INFO - date: N/A
+2024-08-20 15:34:24,568 - INFO - ********************************************************************************
+2024-08-20 15:34:24,568 - INFO - title_tag: h3
+2024-08-20 15:34:24,568 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,568 - INFO - title_element: <h3 class="event-title">Riverfront Nights</h3>
+2024-08-20 15:34:24,568 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,568 - INFO - date_tag: div
+2024-08-20 15:34:24,568 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,568 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,568 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,569 - INFO - date: N/A
+2024-08-20 15:34:24,569 - INFO - ********************************************************************************
+2024-08-20 15:34:24,569 - INFO - title_tag: h3
+2024-08-20 15:34:24,569 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,569 - INFO - title_element: <h3 class="event-title">EVENING RIDGE RUNNER</h3>
+2024-08-20 15:34:24,569 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,569 - INFO - date_tag: div
+2024-08-20 15:34:24,569 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,569 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,569 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,569 - INFO - date: N/A
+2024-08-20 15:34:24,569 - INFO - ********************************************************************************
+2024-08-20 15:34:24,569 - INFO - title_tag: h3
+2024-08-20 15:34:24,569 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,569 - INFO - title_element: <h3 class="event-title">Nate Jackson @ Walker Theatre</h3>
+2024-08-20 15:34:24,569 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,569 - INFO - date_tag: div
+2024-08-20 15:34:24,569 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,569 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,569 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,569 - INFO - date: N/A
+2024-08-20 15:34:24,569 - INFO - ********************************************************************************
+2024-08-20 15:34:24,569 - INFO - title_tag: h3
+2024-08-20 15:34:24,569 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,569 - INFO - title_element: <h3 class="event-title">Chocolate Festival</h3>
+2024-08-20 15:34:24,569 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,569 - INFO - date_tag: div
+2024-08-20 15:34:24,569 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,569 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,569 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,569 - INFO - date: N/A
+2024-08-20 15:34:24,569 - INFO - ********************************************************************************
+2024-08-20 15:34:24,569 - INFO - title_tag: h3
+2024-08-20 15:34:24,569 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,569 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,569 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,569 - INFO - date_tag: div
+2024-08-20 15:34:24,569 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,569 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,569 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,569 - INFO - date: N/A
+2024-08-20 15:34:24,569 - INFO - ********************************************************************************
+2024-08-20 15:34:24,569 - INFO - title_tag: h3
+2024-08-20 15:34:24,569 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,569 - INFO - title_element: <h3 class="event-title">OPEN SCRIBZ OPEN MIC</h3>
+2024-08-20 15:34:24,569 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,569 - INFO - date_tag: div
+2024-08-20 15:34:24,569 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,570 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,570 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,570 - INFO - date: N/A
+2024-08-20 15:34:24,570 - INFO - ********************************************************************************
+2024-08-20 15:34:24,570 - INFO - title_tag: h3
+2024-08-20 15:34:24,570 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,570 - INFO - title_element: <h3 class="event-title">Rail &amp; Hops Brewers Festival</h3>
+2024-08-20 15:34:24,570 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,570 - INFO - date_tag: div
+2024-08-20 15:34:24,570 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,570 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,570 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,570 - INFO - date: N/A
+2024-08-20 15:34:24,570 - INFO - ********************************************************************************
+2024-08-20 15:34:24,570 - INFO - title_tag: h3
+2024-08-20 15:34:24,570 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,570 - INFO - title_element: <h3 class="event-title">The Zeitgeist</h3>
+2024-08-20 15:34:24,570 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,570 - INFO - date_tag: div
+2024-08-20 15:34:24,570 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,570 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,570 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,570 - INFO - date: N/A
+2024-08-20 15:34:24,570 - INFO - ********************************************************************************
+2024-08-20 15:34:24,570 - INFO - title_tag: h3
+2024-08-20 15:34:24,570 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,570 - INFO - title_element: <h3 class="event-title">Inaugural Watermelon Festival</h3>
+2024-08-20 15:34:24,570 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,570 - INFO - date_tag: div
+2024-08-20 15:34:24,570 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,570 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,570 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,570 - INFO - date: N/A
+2024-08-20 15:34:24,570 - INFO - ********************************************************************************
+2024-08-20 15:34:24,570 - INFO - title_tag: h3
+2024-08-20 15:34:24,570 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,570 - INFO - title_element: <h3 class="event-title">Chocolate Festival</h3>
+2024-08-20 15:34:24,570 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,570 - INFO - date_tag: div
+2024-08-20 15:34:24,570 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,570 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">24</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,570 - INFO - date_text: 24Aug
+2024-08-20 15:34:24,570 - INFO - date: N/A
+2024-08-20 15:34:24,570 - INFO - ********************************************************************************
+2024-08-20 15:34:24,570 - INFO - title_tag: h3
+2024-08-20 15:34:24,570 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,570 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,570 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,570 - INFO - date_tag: div
+2024-08-20 15:34:24,570 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,571 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">25</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,571 - INFO - date_text: 25Aug
+2024-08-20 15:34:24,571 - INFO - date: N/A
+2024-08-20 15:34:24,571 - INFO - ********************************************************************************
+2024-08-20 15:34:24,571 - INFO - title_tag: h3
+2024-08-20 15:34:24,571 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,571 - INFO - title_element: <h3 class="event-title">SHADES OF POETRY ARTIST TALK AND PERFORMANCE SHOWCASE</h3>
+2024-08-20 15:34:24,571 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,571 - INFO - date_tag: div
+2024-08-20 15:34:24,571 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,571 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">25</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,571 - INFO - date_text: 25Aug
+2024-08-20 15:34:24,571 - INFO - date: N/A
+2024-08-20 15:34:24,571 - INFO - ********************************************************************************
+2024-08-20 15:34:24,571 - INFO - title_tag: h3
+2024-08-20 15:34:24,571 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,571 - INFO - title_element: <h3 class="event-title">History Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,571 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,571 - INFO - date_tag: div
+2024-08-20 15:34:24,571 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,571 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">26</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,571 - INFO - date_text: 26Aug
+2024-08-20 15:34:24,571 - INFO - date: N/A
+2024-08-20 15:34:24,571 - INFO - ********************************************************************************
+2024-08-20 15:34:24,571 - INFO - title_tag: h3
+2024-08-20 15:34:24,571 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,571 - INFO - title_element: <h3 class="event-title">Chattanooga Market at Erlanger</h3>
+2024-08-20 15:34:24,571 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,571 - INFO - date_tag: div
+2024-08-20 15:34:24,571 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,571 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">28</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,571 - INFO - date_text: 28Aug
+2024-08-20 15:34:24,571 - INFO - date: N/A
+2024-08-20 15:34:24,571 - INFO - ********************************************************************************
+2024-08-20 15:34:24,571 - INFO - title_tag: h3
+2024-08-20 15:34:24,571 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,571 - INFO - title_element: <h3 class="event-title">Ben Sollee @ Songbirds</h3>
+2024-08-20 15:34:24,571 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,571 - INFO - date_tag: div
+2024-08-20 15:34:24,571 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,571 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">28</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,571 - INFO - date_text: 28Aug
+2024-08-20 15:34:24,571 - INFO - date: N/A
+2024-08-20 15:34:24,571 - INFO - ********************************************************************************
+2024-08-20 15:34:24,571 - INFO - title_tag: h3
+2024-08-20 15:34:24,571 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,571 - INFO - title_element: <h3 class="event-title">Gentle Walking Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,571 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,571 - INFO - date_tag: div
+2024-08-20 15:34:24,571 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,572 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">29</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,572 - INFO - date_text: 29Aug
+2024-08-20 15:34:24,572 - INFO - date: N/A
+2024-08-20 15:34:24,572 - INFO - ********************************************************************************
+2024-08-20 15:34:24,572 - INFO - title_tag: h3
+2024-08-20 15:34:24,572 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,572 - INFO - title_element: <h3 class="event-title">National Treasures: Party at Point Park</h3>
+2024-08-20 15:34:24,572 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,572 - INFO - date_tag: div
+2024-08-20 15:34:24,572 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,572 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">29</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,572 - INFO - date_text: 29Aug
+2024-08-20 15:34:24,572 - INFO - date: N/A
+2024-08-20 15:34:24,572 - INFO - ********************************************************************************
+2024-08-20 15:34:24,572 - INFO - title_tag: h3
+2024-08-20 15:34:24,572 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,572 - INFO - title_element: <h3 class="event-title">Nightfall 2024</h3>
+2024-08-20 15:34:24,572 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,572 - INFO - date_tag: div
+2024-08-20 15:34:24,572 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,572 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">30</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,572 - INFO - date_text: 30Aug
+2024-08-20 15:34:24,572 - INFO - date: N/A
+2024-08-20 15:34:24,572 - INFO - ********************************************************************************
+2024-08-20 15:34:24,572 - INFO - title_tag: h3
+2024-08-20 15:34:24,572 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,572 - INFO - title_element: <h3 class="event-title">EVENING RIDGE RUNNER</h3>
+2024-08-20 15:34:24,572 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,572 - INFO - date_tag: div
+2024-08-20 15:34:24,572 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,572 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">30</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,572 - INFO - date_text: 30Aug
+2024-08-20 15:34:24,572 - INFO - date: N/A
+2024-08-20 15:34:24,572 - INFO - ********************************************************************************
+2024-08-20 15:34:24,572 - INFO - title_tag: h3
+2024-08-20 15:34:24,572 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,572 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,572 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,572 - INFO - date_tag: div
+2024-08-20 15:34:24,572 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,572 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">30</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,572 - INFO - date_text: 30Aug
+2024-08-20 15:34:24,572 - INFO - date: N/A
+2024-08-20 15:34:24,572 - INFO - ********************************************************************************
+2024-08-20 15:34:24,572 - INFO - title_tag: h3
+2024-08-20 15:34:24,572 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,572 - INFO - title_element: <h3 class="event-title">Yoga On The Bluff</h3>
+2024-08-20 15:34:24,572 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,573 - INFO - date_tag: div
+2024-08-20 15:34:24,573 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,573 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">30</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,573 - INFO - date_text: 30Aug
+2024-08-20 15:34:24,573 - INFO - date: N/A
+2024-08-20 15:34:24,573 - INFO - ********************************************************************************
+2024-08-20 15:34:24,573 - INFO - title_tag: h3
+2024-08-20 15:34:24,573 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,573 - INFO - title_element: <h3 class="event-title">Chattanooga River Market</h3>
+2024-08-20 15:34:24,573 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,573 - INFO - date_tag: div
+2024-08-20 15:34:24,573 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,573 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">31</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,573 - INFO - date_text: 31Aug
+2024-08-20 15:34:24,573 - INFO - date: N/A
+2024-08-20 15:34:24,573 - INFO - ********************************************************************************
+2024-08-20 15:34:24,573 - INFO - title_tag: h3
+2024-08-20 15:34:24,573 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,573 - INFO - title_element: <h3 class="event-title"> Chickamauga Turn</h3>
+2024-08-20 15:34:24,573 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,573 - INFO - date_tag: div
+2024-08-20 15:34:24,573 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,573 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">31</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,573 - INFO - date_text: 31Aug
+2024-08-20 15:34:24,573 - INFO - date: N/A
+2024-08-20 15:34:24,573 - INFO - ********************************************************************************
+2024-08-20 15:34:24,573 - INFO - title_tag: h3
+2024-08-20 15:34:24,573 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,573 - INFO - title_element: <h3 class="event-title">Riverfront Nights</h3>
+2024-08-20 15:34:24,573 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,573 - INFO - date_tag: div
+2024-08-20 15:34:24,573 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,573 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">31</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,573 - INFO - date_text: 31Aug
+2024-08-20 15:34:24,573 - INFO - date: N/A
+2024-08-20 15:34:24,573 - INFO - ********************************************************************************
+2024-08-20 15:34:24,573 - INFO - title_tag: h3
+2024-08-20 15:34:24,573 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,573 - INFO - title_element: <h3 class="event-title">EVENING RIDGE RUNNER</h3>
+2024-08-20 15:34:24,573 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,573 - INFO - date_tag: div
+2024-08-20 15:34:24,573 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,573 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">31</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,573 - INFO - date_text: 31Aug
+2024-08-20 15:34:24,573 - INFO - date: N/A
+2024-08-20 15:34:24,573 - INFO - ********************************************************************************
+2024-08-20 15:34:24,573 - INFO - title_tag: h3
+2024-08-20 15:34:24,573 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,573 - INFO - title_element: <h3 class="event-title">Battle of the Food Trucks Festival</h3>
+2024-08-20 15:34:24,574 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,574 - INFO - date_tag: div
+2024-08-20 15:34:24,574 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,574 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">31</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,574 - INFO - date_text: 31Aug
+2024-08-20 15:34:24,574 - INFO - date: N/A
+2024-08-20 15:34:24,574 - INFO - ********************************************************************************
+2024-08-20 15:34:24,574 - INFO - title_tag: h3
+2024-08-20 15:34:24,574 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,574 - INFO - title_element: <h3 class="event-title">The Grand Market</h3>
+2024-08-20 15:34:24,574 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,574 - INFO - date_tag: div
+2024-08-20 15:34:24,574 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,574 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">31</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,574 - INFO - date_text: 31Aug
+2024-08-20 15:34:24,574 - INFO - date: N/A
+2024-08-20 15:34:24,574 - INFO - ********************************************************************************
+2024-08-20 15:34:24,574 - INFO - title_tag: h3
+2024-08-20 15:34:24,574 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,574 - INFO - title_element: <h3 class="event-title">Open Gate Day</h3>
+2024-08-20 15:34:24,574 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,574 - INFO - date_tag: div
+2024-08-20 15:34:24,574 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,574 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">31</div><div class="event-month">Aug</div></div>
+2024-08-20 15:34:24,574 - INFO - date_text: 31Aug
+2024-08-20 15:34:24,574 - INFO - date: N/A
+2024-08-20 15:34:24,574 - INFO - ********************************************************************************
+2024-08-20 15:34:24,574 - INFO - title_tag: h3
+2024-08-20 15:34:24,574 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,574 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,574 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,574 - INFO - date_tag: div
+2024-08-20 15:34:24,574 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,574 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">1</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,574 - INFO - date_text: 1Sep
+2024-08-20 15:34:24,574 - INFO - date: N/A
+2024-08-20 15:34:24,574 - INFO - ********************************************************************************
+2024-08-20 15:34:24,574 - INFO - title_tag: h3
+2024-08-20 15:34:24,574 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,574 - INFO - title_element: <h3 class="event-title">Open Gate Day</h3>
+2024-08-20 15:34:24,574 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,574 - INFO - date_tag: div
+2024-08-20 15:34:24,574 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,574 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">1</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,574 - INFO - date_text: 1Sep
+2024-08-20 15:34:24,574 - INFO - date: N/A
+2024-08-20 15:34:24,574 - INFO - ********************************************************************************
+2024-08-20 15:34:24,574 - INFO - title_tag: h3
+2024-08-20 15:34:24,574 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,575 - INFO - title_element: <h3 class="event-title">Labor Day Brunch at Whitebird/The Edwin Hotel</h3>
+2024-08-20 15:34:24,575 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,575 - INFO - date_tag: div
+2024-08-20 15:34:24,575 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,575 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">2</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,575 - INFO - date_text: 2Sep
+2024-08-20 15:34:24,575 - INFO - date: N/A
+2024-08-20 15:34:24,575 - INFO - ********************************************************************************
+2024-08-20 15:34:24,575 - INFO - title_tag: h3
+2024-08-20 15:34:24,575 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,575 - INFO - title_element: <h3 class="event-title">History Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,575 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,575 - INFO - date_tag: div
+2024-08-20 15:34:24,575 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,575 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">2</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,575 - INFO - date_text: 2Sep
+2024-08-20 15:34:24,575 - INFO - date: N/A
+2024-08-20 15:34:24,575 - INFO - ********************************************************************************
+2024-08-20 15:34:24,575 - INFO - title_tag: h3
+2024-08-20 15:34:24,575 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,575 - INFO - title_element: <h3 class="event-title">Chattanooga Market at Erlanger</h3>
+2024-08-20 15:34:24,575 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,575 - INFO - date_tag: div
+2024-08-20 15:34:24,575 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,575 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">4</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,575 - INFO - date_text: 4Sep
+2024-08-20 15:34:24,575 - INFO - date: N/A
+2024-08-20 15:34:24,575 - INFO - ********************************************************************************
+2024-08-20 15:34:24,575 - INFO - title_tag: h3
+2024-08-20 15:34:24,575 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,575 - INFO - title_element: <h3 class="event-title">Candlelight: Tribute to Beyoncé</h3>
+2024-08-20 15:34:24,575 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,575 - INFO - date_tag: div
+2024-08-20 15:34:24,575 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,575 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">5</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,575 - INFO - date_text: 5Sep
+2024-08-20 15:34:24,575 - INFO - date: N/A
+2024-08-20 15:34:24,575 - INFO - ********************************************************************************
+2024-08-20 15:34:24,575 - INFO - title_tag: h3
+2024-08-20 15:34:24,575 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,575 - INFO - title_element: <h3 class="event-title">Gentle Walking Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,575 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,575 - INFO - date_tag: div
+2024-08-20 15:34:24,575 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,575 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">5</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,575 - INFO - date_text: 5Sep
+2024-08-20 15:34:24,575 - INFO - date: N/A
+2024-08-20 15:34:24,575 - INFO - ********************************************************************************
+2024-08-20 15:34:24,575 - INFO - title_tag: h3
+2024-08-20 15:34:24,576 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,576 - INFO - title_element: <h3 class="event-title">Daniel Champagne @ Songbirds</h3>
+2024-08-20 15:34:24,576 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,576 - INFO - date_tag: div
+2024-08-20 15:34:24,576 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,576 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">5</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,576 - INFO - date_text: 5Sep
+2024-08-20 15:34:24,576 - INFO - date: N/A
+2024-08-20 15:34:24,576 - INFO - ********************************************************************************
+2024-08-20 15:34:24,576 - INFO - title_tag: h3
+2024-08-20 15:34:24,576 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,576 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,576 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,576 - INFO - date_tag: div
+2024-08-20 15:34:24,576 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,576 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">6</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,576 - INFO - date_text: 6Sep
+2024-08-20 15:34:24,576 - INFO - date: N/A
+2024-08-20 15:34:24,576 - INFO - ********************************************************************************
+2024-08-20 15:34:24,576 - INFO - title_tag: h3
+2024-08-20 15:34:24,576 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,576 - INFO - title_element: <h3 class="event-title">Citizens @ Songbirds</h3>
+2024-08-20 15:34:24,576 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,576 - INFO - date_tag: div
+2024-08-20 15:34:24,576 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,576 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">6</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,576 - INFO - date_text: 6Sep
+2024-08-20 15:34:24,576 - INFO - date: N/A
+2024-08-20 15:34:24,576 - INFO - ********************************************************************************
+2024-08-20 15:34:24,576 - INFO - title_tag: h3
+2024-08-20 15:34:24,576 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,576 - INFO - title_element: <h3 class="event-title">Chattanooga River Market</h3>
+2024-08-20 15:34:24,576 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,576 - INFO - date_tag: div
+2024-08-20 15:34:24,576 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,576 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,576 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,576 - INFO - date: N/A
+2024-08-20 15:34:24,576 - INFO - ********************************************************************************
+2024-08-20 15:34:24,576 - INFO - title_tag: h3
+2024-08-20 15:34:24,576 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,576 - INFO - title_element: <h3 class="event-title"> Chickamauga Turn</h3>
+2024-08-20 15:34:24,576 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,576 - INFO - date_tag: div
+2024-08-20 15:34:24,576 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,576 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,576 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,576 - INFO - date: N/A
+2024-08-20 15:34:24,576 - INFO - ********************************************************************************
+2024-08-20 15:34:24,577 - INFO - title_tag: h3
+2024-08-20 15:34:24,577 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,577 - INFO - title_element: <h3 class="event-title">EVENING RIDGE RUNNER</h3>
+2024-08-20 15:34:24,577 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,577 - INFO - date_tag: div
+2024-08-20 15:34:24,577 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,577 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,577 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,577 - INFO - date: N/A
+2024-08-20 15:34:24,577 - INFO - ********************************************************************************
+2024-08-20 15:34:24,577 - INFO - title_tag: h3
+2024-08-20 15:34:24,577 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,577 - INFO - title_element: <h3 class="event-title">BEND &amp; BOOCH ( YOGA X KOMBUCHA)</h3>
+2024-08-20 15:34:24,577 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,577 - INFO - date_tag: div
+2024-08-20 15:34:24,577 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,577 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,577 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,577 - INFO - date: N/A
+2024-08-20 15:34:24,577 - INFO - ********************************************************************************
+2024-08-20 15:34:24,577 - INFO - title_tag: h3
+2024-08-20 15:34:24,577 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,577 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,577 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,577 - INFO - date_tag: div
+2024-08-20 15:34:24,577 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,577 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,577 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,577 - INFO - date: N/A
+2024-08-20 15:34:24,577 - INFO - ********************************************************************************
+2024-08-20 15:34:24,577 - INFO - title_tag: h3
+2024-08-20 15:34:24,577 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,577 - INFO - title_element: <h3 class="event-title">Fall Market at the Greenway</h3>
+2024-08-20 15:34:24,577 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,577 - INFO - date_tag: div
+2024-08-20 15:34:24,577 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,577 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,577 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,577 - INFO - date: N/A
+2024-08-20 15:34:24,577 - INFO - ********************************************************************************
+2024-08-20 15:34:24,577 - INFO - title_tag: h3
+2024-08-20 15:34:24,577 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,577 - INFO - title_element: <h3 class="event-title">Chickamauga Jeep and Music Fest</h3>
+2024-08-20 15:34:24,577 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,577 - INFO - date_tag: div
+2024-08-20 15:34:24,577 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,577 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,578 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,578 - INFO - date: N/A
+2024-08-20 15:34:24,578 - INFO - ********************************************************************************
+2024-08-20 15:34:24,578 - INFO - title_tag: h3
+2024-08-20 15:34:24,578 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,578 - INFO - title_element: <h3 class="event-title">Open Gate Day</h3>
+2024-08-20 15:34:24,578 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,578 - INFO - date_tag: div
+2024-08-20 15:34:24,578 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,578 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,578 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,578 - INFO - date: N/A
+2024-08-20 15:34:24,578 - INFO - ********************************************************************************
+2024-08-20 15:34:24,578 - INFO - title_tag: h3
+2024-08-20 15:34:24,578 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,578 - INFO - title_element: <h3 class="event-title">Open Gate Day</h3>
+2024-08-20 15:34:24,578 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,578 - INFO - date_tag: div
+2024-08-20 15:34:24,578 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,578 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,578 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,578 - INFO - date: N/A
+2024-08-20 15:34:24,578 - INFO - ********************************************************************************
+2024-08-20 15:34:24,578 - INFO - title_tag: h3
+2024-08-20 15:34:24,578 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,578 - INFO - title_element: <h3 class="event-title">Surviving &amp; Thriving 2024- EXHIBITORS</h3>
+2024-08-20 15:34:24,578 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,578 - INFO - date_tag: div
+2024-08-20 15:34:24,578 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,578 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">7</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,578 - INFO - date_text: 7Sep
+2024-08-20 15:34:24,578 - INFO - date: N/A
+2024-08-20 15:34:24,578 - INFO - ********************************************************************************
+2024-08-20 15:34:24,578 - INFO - title_tag: h3
+2024-08-20 15:34:24,578 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,578 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,578 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,578 - INFO - date_tag: div
+2024-08-20 15:34:24,578 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,578 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">8</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,578 - INFO - date_text: 8Sep
+2024-08-20 15:34:24,578 - INFO - date: N/A
+2024-08-20 15:34:24,578 - INFO - ********************************************************************************
+2024-08-20 15:34:24,578 - INFO - title_tag: h3
+2024-08-20 15:34:24,578 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,578 - INFO - title_element: <h3 class="event-title">Grandparents' Day @ CDM</h3>
+2024-08-20 15:34:24,578 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,578 - INFO - date_tag: div
+2024-08-20 15:34:24,578 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,579 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">8</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,579 - INFO - date_text: 8Sep
+2024-08-20 15:34:24,579 - INFO - date: N/A
+2024-08-20 15:34:24,579 - INFO - ********************************************************************************
+2024-08-20 15:34:24,579 - INFO - title_tag: h3
+2024-08-20 15:34:24,579 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,579 - INFO - title_element: <h3 class="event-title">Alison Brown @ Songbirds</h3>
+2024-08-20 15:34:24,579 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,579 - INFO - date_tag: div
+2024-08-20 15:34:24,579 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,579 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">8</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,579 - INFO - date_text: 8Sep
+2024-08-20 15:34:24,579 - INFO - date: N/A
+2024-08-20 15:34:24,579 - INFO - ********************************************************************************
+2024-08-20 15:34:24,579 - INFO - title_tag: h3
+2024-08-20 15:34:24,579 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,579 - INFO - title_element: <h3 class="event-title">History Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,579 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,579 - INFO - date_tag: div
+2024-08-20 15:34:24,579 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,579 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">9</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,579 - INFO - date_text: 9Sep
+2024-08-20 15:34:24,579 - INFO - date: N/A
+2024-08-20 15:34:24,579 - INFO - ********************************************************************************
+2024-08-20 15:34:24,579 - INFO - title_tag: h3
+2024-08-20 15:34:24,579 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,579 - INFO - title_element: <h3 class="event-title">Chattanooga Market at Erlanger</h3>
+2024-08-20 15:34:24,579 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,579 - INFO - date_tag: div
+2024-08-20 15:34:24,579 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,579 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">11</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,579 - INFO - date_text: 11Sep
+2024-08-20 15:34:24,579 - INFO - date: N/A
+2024-08-20 15:34:24,579 - INFO - ********************************************************************************
+2024-08-20 15:34:24,579 - INFO - title_tag: h3
+2024-08-20 15:34:24,579 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,579 - INFO - title_element: <h3 class="event-title">Gentle Walking Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,579 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,579 - INFO - date_tag: div
+2024-08-20 15:34:24,579 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,579 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">12</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,579 - INFO - date_text: 12Sep
+2024-08-20 15:34:24,579 - INFO - date: N/A
+2024-08-20 15:34:24,579 - INFO - ********************************************************************************
+2024-08-20 15:34:24,579 - INFO - title_tag: h3
+2024-08-20 15:34:24,579 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,579 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,579 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,579 - INFO - date_tag: div
+2024-08-20 15:34:24,579 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,580 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">13</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,580 - INFO - date_text: 13Sep
+2024-08-20 15:34:24,580 - INFO - date: N/A
+2024-08-20 15:34:24,580 - INFO - ********************************************************************************
+2024-08-20 15:34:24,580 - INFO - title_tag: h3
+2024-08-20 15:34:24,580 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,580 - INFO - title_element: <h3 class="event-title">Southern Drawl — Music + Food Series @ Songbirds</h3>
+2024-08-20 15:34:24,580 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,580 - INFO - date_tag: div
+2024-08-20 15:34:24,580 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,580 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">13</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,580 - INFO - date_text: 13Sep
+2024-08-20 15:34:24,580 - INFO - date: N/A
+2024-08-20 15:34:24,580 - INFO - ********************************************************************************
+2024-08-20 15:34:24,580 - INFO - title_tag: h3
+2024-08-20 15:34:24,580 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,580 - INFO - title_element: <h3 class="event-title">Mali Velasquez, Bloomsday</h3>
+2024-08-20 15:34:24,580 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,580 - INFO - date_tag: div
+2024-08-20 15:34:24,580 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,580 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">13</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,580 - INFO - date_text: 13Sep
+2024-08-20 15:34:24,580 - INFO - date: N/A
+2024-08-20 15:34:24,580 - INFO - ********************************************************************************
+2024-08-20 15:34:24,580 - INFO - title_tag: h3
+2024-08-20 15:34:24,580 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,580 - INFO - title_element: <h3 class="event-title">Chattanooga River Market</h3>
+2024-08-20 15:34:24,580 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,580 - INFO - date_tag: div
+2024-08-20 15:34:24,580 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,580 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">14</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,580 - INFO - date_text: 14Sep
+2024-08-20 15:34:24,580 - INFO - date: N/A
+2024-08-20 15:34:24,580 - INFO - ********************************************************************************
+2024-08-20 15:34:24,580 - INFO - title_tag: h3
+2024-08-20 15:34:24,580 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,580 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,580 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,580 - INFO - date_tag: div
+2024-08-20 15:34:24,580 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,580 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">14</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,580 - INFO - date_text: 14Sep
+2024-08-20 15:34:24,580 - INFO - date: N/A
+2024-08-20 15:34:24,580 - INFO - ********************************************************************************
+2024-08-20 15:34:24,580 - INFO - title_tag: h3
+2024-08-20 15:34:24,580 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,580 - INFO - title_element: <h3 class="event-title">Andy McKee with Trevor Gordon Hall @ Songbirds</h3>
+2024-08-20 15:34:24,580 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,580 - INFO - date_tag: div
+2024-08-20 15:34:24,580 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,581 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">14</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,581 - INFO - date_text: 14Sep
+2024-08-20 15:34:24,581 - INFO - date: N/A
+2024-08-20 15:34:24,581 - INFO - ********************************************************************************
+2024-08-20 15:34:24,581 - INFO - title_tag: h3
+2024-08-20 15:34:24,581 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,581 - INFO - title_element: <h3 class="event-title">Paddle for PanCAN 2024</h3>
+2024-08-20 15:34:24,581 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,581 - INFO - date_tag: div
+2024-08-20 15:34:24,581 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,581 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">14</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,581 - INFO - date_text: 14Sep
+2024-08-20 15:34:24,581 - INFO - date: N/A
+2024-08-20 15:34:24,581 - INFO - ********************************************************************************
+2024-08-20 15:34:24,581 - INFO - title_tag: h3
+2024-08-20 15:34:24,581 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,581 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,581 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,581 - INFO - date_tag: div
+2024-08-20 15:34:24,581 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,581 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">15</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,581 - INFO - date_text: 15Sep
+2024-08-20 15:34:24,581 - INFO - date: N/A
+2024-08-20 15:34:24,581 - INFO - ********************************************************************************
+2024-08-20 15:34:24,581 - INFO - title_tag: h3
+2024-08-20 15:34:24,581 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,581 - INFO - title_element: <h3 class="event-title">History Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,581 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,581 - INFO - date_tag: div
+2024-08-20 15:34:24,581 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,581 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">16</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,581 - INFO - date_text: 16Sep
+2024-08-20 15:34:24,581 - INFO - date: N/A
+2024-08-20 15:34:24,581 - INFO - ********************************************************************************
+2024-08-20 15:34:24,581 - INFO - title_tag: h3
+2024-08-20 15:34:24,581 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,581 - INFO - title_element: <h3 class="event-title">Chattanooga Market at Erlanger</h3>
+2024-08-20 15:34:24,581 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,581 - INFO - date_tag: div
+2024-08-20 15:34:24,581 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,581 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">18</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,581 - INFO - date_text: 18Sep
+2024-08-20 15:34:24,581 - INFO - date: N/A
+2024-08-20 15:34:24,581 - INFO - ********************************************************************************
+2024-08-20 15:34:24,581 - INFO - title_tag: h3
+2024-08-20 15:34:24,581 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,581 - INFO - title_element: <h3 class="event-title">Gentle Walking Tour (Ruby Falls)</h3>
+2024-08-20 15:34:24,581 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,581 - INFO - date_tag: div
+2024-08-20 15:34:24,581 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,582 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">19</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,582 - INFO - date_text: 19Sep
+2024-08-20 15:34:24,582 - INFO - date: N/A
+2024-08-20 15:34:24,582 - INFO - ********************************************************************************
+2024-08-20 15:34:24,582 - INFO - title_tag: h3
+2024-08-20 15:34:24,582 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,582 - INFO - title_element: <h3 class="event-title">THE HOMEFRONT TEA ROOM</h3>
+2024-08-20 15:34:24,582 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,582 - INFO - date_tag: div
+2024-08-20 15:34:24,582 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,582 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">20</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,582 - INFO - date_text: 20Sep
+2024-08-20 15:34:24,582 - INFO - date: N/A
+2024-08-20 15:34:24,582 - INFO - ********************************************************************************
+2024-08-20 15:34:24,582 - INFO - title_tag: h3
+2024-08-20 15:34:24,582 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:34:24,582 - INFO - title_element: <h3 class="event-title">Chattanooga River Market</h3>
+2024-08-20 15:34:24,582 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-date-div'}}
+2024-08-20 15:34:24,582 - INFO - date_tag: div
+2024-08-20 15:34:24,582 - INFO - date_attrs: {'class': 'event-date-div'}
+2024-08-20 15:34:24,582 - INFO - date_element: <div class="event-date-div"><div class="event-card-date">21</div><div class="event-month">Sep</div></div>
+2024-08-20 15:34:24,582 - INFO - date_text: 21Sep
+2024-08-20 15:34:24,582 - INFO - date: N/A
+2024-08-20 15:34:24,582 - INFO - ********************************************************************************
+2024-08-20 15:34:24,582 - INFO - Extracted 80 events from CHA Guide Events
+2024-08-20 15:34:24,582 - INFO - Title: Night Ranger @ Walker Theatre
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Jazz Futures
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: The Guess Who in Chattanooga
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Nightfall 2024
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Mold! / Briteboy / The Ego Museum - Live at Yellow Racket!
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Nightlife: Aquarium After-Hours
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Patrick Sweany @ Songbirds
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Chattanooga River Market
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Chickamauga Turn
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Riverfront Nights
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Nate Jackson @ Walker Theatre
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Chocolate Festival
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: OPEN SCRIBZ OPEN MIC
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Rail & Hops Brewers Festival
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: The Zeitgeist
+2024-08-20 15:34:24,582 - INFO - Date: N/A
+2024-08-20 15:34:24,582 - INFO - ----------------------------------------
+2024-08-20 15:34:24,582 - INFO - Title: Inaugural Watermelon Festival
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chocolate Festival
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: SHADES OF POETRY ARTIST TALK AND PERFORMANCE SHOWCASE
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: History Tour (Ruby Falls)
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Ben Sollee @ Songbirds
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: National Treasures: Party at Point Park
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Nightfall 2024
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Yoga On The Bluff
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chattanooga River Market
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chickamauga Turn
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Riverfront Nights
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Battle of the Food Trucks Festival
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: The Grand Market
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Open Gate Day
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Open Gate Day
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Labor Day Brunch at Whitebird/The Edwin Hotel
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: History Tour (Ruby Falls)
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Candlelight: Tribute to Beyoncé
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Daniel Champagne @ Songbirds
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Citizens @ Songbirds
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chattanooga River Market
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chickamauga Turn
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: BEND & BOOCH ( YOGA X KOMBUCHA)
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Fall Market at the Greenway
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chickamauga Jeep and Music Fest
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Open Gate Day
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Open Gate Day
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Surviving & Thriving 2024- EXHIBITORS
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Grandparents' Day @ CDM
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Alison Brown @ Songbirds
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: History Tour (Ruby Falls)
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,583 - INFO - ----------------------------------------
+2024-08-20 15:34:24,583 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-20 15:34:24,583 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Southern Drawl — Music + Food Series @ Songbirds
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Mali Velasquez, Bloomsday
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Chattanooga River Market
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Andy McKee with Trevor Gordon Hall @ Songbirds
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Paddle for PanCAN 2024
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: History Tour (Ruby Falls)
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - Title: Chattanooga River Market
+2024-08-20 15:34:24,584 - INFO - Date: N/A
+2024-08-20 15:34:24,584 - INFO - ----------------------------------------
+2024-08-20 15:34:24,584 - INFO - ################################################################################
+2024-08-20 15:34:24,584 - INFO - Fetching and parsing Chattanooga Pulse
+2024-08-20 15:34:24,584 - INFO - ################################################################################
+2024-08-20 15:34:24,728 - INFO - Chromedriver is already installed.
+2024-08-20 15:34:24,728 - INFO - ====== WebDriver manager ======
+2024-08-20 15:34:24,824 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:34:24,938 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:34:25,027 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-20 15:34:38,688 - INFO - https://www.chattanoogapulse.com/search/event/the-pulse-event-search/#page=1 fetched
+2024-08-20 15:34:38,762 - INFO - ================================================================================
+2024-08-20 15:34:38,762 - INFO - Could not find 'grid' class in the HTML
+2024-08-20 15:34:38,762 - INFO - ================================================================================
+2024-08-20 15:34:38,775 - INFO - Found iframe: https://www.googletagmanager.com/ns.html?id=GTM-WL6W234
+2024-08-20 15:34:38,775 - INFO - Found iframe: No src attribute
+2024-08-20 15:34:38,775 - INFO - Found iframe: No src attribute
+2024-08-20 15:34:38,775 - INFO - Found iframe: No src attribute
+2024-08-20 15:34:38,775 - INFO - Found iframe: No src attribute
+2024-08-20 15:34:38,775 - INFO - Found iframe: No src attribute
+2024-08-20 15:34:38,775 - INFO - Found iframe: No src attribute
+2024-08-20 15:34:38,775 - INFO - Found iframe: https://www.google.com/recaptcha/api2/aframe
+2024-08-20 15:34:38,775 - INFO - Found iframe: https://securepubads.g.doubleclick.net/static/topics/topics_frame.html
+2024-08-20 15:34:38,775 - INFO - ================================================================================
+2024-08-20 15:34:38,775 - INFO - #### HTML PARSED ####
+2024-08-20 15:34:38,775 - INFO - ################################################################################
+2024-08-20 15:34:38,793 - INFO - title_tag: h4
+2024-08-20 15:34:38,794 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,794 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/joggers-lagers_2/?occ_dtstart=2024-08-20T18:00">Joggers &amp; Lagers</a></h4>
+2024-08-20 15:34:38,794 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,794 - INFO - date_tag: p
+2024-08-20 15:34:38,794 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,794 - INFO - date_element: None
+2024-08-20 15:34:38,794 - INFO - ********************************************************************************
+2024-08-20 15:34:38,794 - INFO - title_tag: h4
+2024-08-20 15:34:38,794 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,794 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/paths-pints-along-riverwalk/?occ_dtstart=2024-08-20T18:30">Paths to Pints along the Riverwalk</a></h4>
+2024-08-20 15:34:38,794 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,794 - INFO - date_tag: p
+2024-08-20 15:34:38,794 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,794 - INFO - date_element: None
+2024-08-20 15:34:38,794 - INFO - ********************************************************************************
+2024-08-20 15:34:38,794 - INFO - title_tag: h4
+2024-08-20 15:34:38,794 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,794 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/danimal-and-friends_2/?occ_dtstart=2024-08-20T19:00">Danimal And Friends</a></h4>
+2024-08-20 15:34:38,794 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,794 - INFO - date_tag: p
+2024-08-20 15:34:38,794 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,794 - INFO - date_element: None
+2024-08-20 15:34:38,794 - INFO - ********************************************************************************
+2024-08-20 15:34:38,794 - INFO - title_tag: h4
+2024-08-20 15:34:38,794 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,794 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/introduction-calm-abiding-meditation/?occ_dtstart=2024-08-20T19:00">Introduction to Calm Abiding Meditation</a></h4>
+2024-08-20 15:34:38,794 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,794 - INFO - date_tag: p
+2024-08-20 15:34:38,794 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,794 - INFO - date_element: None
+2024-08-20 15:34:38,794 - INFO - ********************************************************************************
+2024-08-20 15:34:38,794 - INFO - title_tag: h4
+2024-08-20 15:34:38,794 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,794 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/bat-cave-kayak-tour-chattanooga-guided-adventures/?occ_dtstart=2024-08-20T19:00">Bat Cave Kayak Tour with Chattanooga Guided Adventures</a></h4>
+2024-08-20 15:34:38,794 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,794 - INFO - date_tag: p
+2024-08-20 15:34:38,794 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,794 - INFO - date_element: None
+2024-08-20 15:34:38,794 - INFO - ********************************************************************************
+2024-08-20 15:34:38,794 - INFO - title_tag: h4
+2024-08-20 15:34:38,794 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,794 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/alien-romulus-imax/?occ_dtstart=2024-08-20T20:45">Alien: Romulus in IMAX!</a></h4>
+2024-08-20 15:34:38,794 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,794 - INFO - date_tag: p
+2024-08-20 15:34:38,794 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,794 - INFO - date_element: None
+2024-08-20 15:34:38,794 - INFO - ********************************************************************************
+2024-08-20 15:34:38,794 - INFO - title_tag: h4
+2024-08-20 15:34:38,794 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,794 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/chickamauga-dam-lock-kayak-tour/?occ_dtstart=2024-08-20T00:00">Chickamauga Dam Lock Kayak Tour</a></h4>
+2024-08-20 15:34:38,794 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,794 - INFO - date_tag: p
+2024-08-20 15:34:38,794 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,794 - INFO - date_element: None
+2024-08-20 15:34:38,795 - INFO - ********************************************************************************
+2024-08-20 15:34:38,795 - INFO - title_tag: h4
+2024-08-20 15:34:38,795 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,795 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/chickamauga-dam-lock-kayak-tour/?occ_dtstart=2024-08-21T00:00">Chickamauga Dam Lock Kayak Tour</a></h4>
+2024-08-20 15:34:38,795 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,795 - INFO - date_tag: p
+2024-08-20 15:34:38,795 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,795 - INFO - date_element: None
+2024-08-20 15:34:38,795 - INFO - ********************************************************************************
+2024-08-20 15:34:38,795 - INFO - title_tag: h4
+2024-08-20 15:34:38,795 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,795 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/main-street-farmers-market_13/?occ_dtstart=2024-08-21T16:00">Main Street Farmers Market</a></h4>
+2024-08-20 15:34:38,795 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,795 - INFO - date_tag: p
+2024-08-20 15:34:38,795 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,795 - INFO - date_element: None
+2024-08-20 15:34:38,795 - INFO - ********************************************************************************
+2024-08-20 15:34:38,795 - INFO - title_tag: h4
+2024-08-20 15:34:38,795 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,795 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/live-music-eric-kirkendoll-6/?occ_dtstart=2024-08-21T18:00">Live Music with Eric Kirkendoll</a></h4>
+2024-08-20 15:34:38,795 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,795 - INFO - date_tag: p
+2024-08-20 15:34:38,795 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,795 - INFO - date_element: None
+2024-08-20 15:34:38,795 - INFO - ********************************************************************************
+2024-08-20 15:34:38,795 - INFO - title_tag: h4
+2024-08-20 15:34:38,795 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,795 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/fleet-feet-x-oddstory-pub-run/?occ_dtstart=2024-08-21T18:00">Fleet Feet x Oddstory Pub Run</a></h4>
+2024-08-20 15:34:38,795 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,795 - INFO - date_tag: p
+2024-08-20 15:34:38,795 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,795 - INFO - date_element: None
+2024-08-20 15:34:38,795 - INFO - ********************************************************************************
+2024-08-20 15:34:38,795 - INFO - title_tag: h4
+2024-08-20 15:34:38,795 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,795 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/board-game-night/?occ_dtstart=2024-08-21T18:30">Board Game Night</a></h4>
+2024-08-20 15:34:38,795 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,795 - INFO - date_tag: p
+2024-08-20 15:34:38,795 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,795 - INFO - date_element: None
+2024-08-20 15:34:38,795 - INFO - ********************************************************************************
+2024-08-20 15:34:38,795 - INFO - title_tag: h4
+2024-08-20 15:34:38,795 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,795 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/bat-cave-kayak-tour-chattanooga-guided-adventures/?occ_dtstart=2024-08-21T19:00">Bat Cave Kayak Tour with Chattanooga Guided Adventures</a></h4>
+2024-08-20 15:34:38,795 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,795 - INFO - date_tag: p
+2024-08-20 15:34:38,795 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,795 - INFO - date_element: None
+2024-08-20 15:34:38,795 - INFO - ********************************************************************************
+2024-08-20 15:34:38,795 - INFO - title_tag: h4
+2024-08-20 15:34:38,795 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,795 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/josey-clay-doc-holidays-bar-grill/?occ_dtstart=2024-08-21T19:00">Josey Clay</a></h4>
+2024-08-20 15:34:38,795 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,795 - INFO - date_tag: p
+2024-08-20 15:34:38,795 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,795 - INFO - date_element: None
+2024-08-20 15:34:38,795 - INFO - ********************************************************************************
+2024-08-20 15:34:38,795 - INFO - title_tag: h4
+2024-08-20 15:34:38,795 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,795 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/alien-romulus-imax/?occ_dtstart=2024-08-21T20:45">Alien: Romulus in IMAX!</a></h4>
+2024-08-20 15:34:38,795 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,795 - INFO - date_tag: p
+2024-08-20 15:34:38,796 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,796 - INFO - date_element: None
+2024-08-20 15:34:38,796 - INFO - ********************************************************************************
+2024-08-20 15:34:38,796 - INFO - title_tag: h4
+2024-08-20 15:34:38,796 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,796 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/chickamauga-dam-lock-kayak-tour/?occ_dtstart=2024-08-22T00:00">Chickamauga Dam Lock Kayak Tour</a></h4>
+2024-08-20 15:34:38,796 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,796 - INFO - date_tag: p
+2024-08-20 15:34:38,796 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,796 - INFO - date_element: None
+2024-08-20 15:34:38,796 - INFO - ********************************************************************************
+2024-08-20 15:34:38,796 - INFO - title_tag: h4
+2024-08-20 15:34:38,796 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,796 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/ooltewah-farmers-market/?occ_dtstart=2024-08-22T15:00">Ooltewah Farmers Market</a></h4>
+2024-08-20 15:34:38,796 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,796 - INFO - date_tag: p
+2024-08-20 15:34:38,796 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,796 - INFO - date_element: None
+2024-08-20 15:34:38,796 - INFO - ********************************************************************************
+2024-08-20 15:34:38,796 - INFO - title_tag: h4
+2024-08-20 15:34:38,796 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,796 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/make-take-natural-skincare-0/?occ_dtstart=2024-08-22T18:00">Make &amp; Take: Natural Skincare</a></h4>
+2024-08-20 15:34:38,796 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,796 - INFO - date_tag: p
+2024-08-20 15:34:38,796 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,796 - INFO - date_element: None
+2024-08-20 15:34:38,796 - INFO - ********************************************************************************
+2024-08-20 15:34:38,796 - INFO - title_tag: h4
+2024-08-20 15:34:38,796 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,796 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/make-take-natural-skincare/?occ_dtstart=2024-08-22T18:00">Make &amp; Take: Natural Skincare</a></h4>
+2024-08-20 15:34:38,796 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,796 - INFO - date_tag: p
+2024-08-20 15:34:38,796 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,796 - INFO - date_element: None
+2024-08-20 15:34:38,796 - INFO - ********************************************************************************
+2024-08-20 15:34:38,796 - INFO - title_tag: h4
+2024-08-20 15:34:38,796 - INFO - title_attrs: {'class': 'event_title'}
+2024-08-20 15:34:38,796 - INFO - title_element: <h4 class="event_title"><a href="https://www.chattanoogapulse.com/events/thursday-night-music-zech-dallas/?occ_dtstart=2024-08-22T18:30">Thursday Night Music with Zech Dallas</a></h4>
+2024-08-20 15:34:38,796 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'p', 'attrs': {'class': 'event-date'}}
+2024-08-20 15:34:38,796 - INFO - date_tag: p
+2024-08-20 15:34:38,796 - INFO - date_attrs: {'class': 'event-date'}
+2024-08-20 15:34:38,796 - INFO - date_element: None
+2024-08-20 15:34:38,796 - INFO - ********************************************************************************
+2024-08-20 15:34:38,796 - INFO - Extracted 20 events from Chattanooga Pulse
+2024-08-20 15:34:38,796 - INFO - Title: Joggers & Lagers
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Paths to Pints along the Riverwalk
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Danimal And Friends
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Introduction to Calm Abiding Meditation
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Bat Cave Kayak Tour with Chattanooga Guided Adventures
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Alien: Romulus in IMAX!
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Chickamauga Dam Lock Kayak Tour
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Chickamauga Dam Lock Kayak Tour
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Main Street Farmers Market
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Live Music with Eric Kirkendoll
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Fleet Feet x Oddstory Pub Run
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Board Game Night
+2024-08-20 15:34:38,796 - INFO - Date: N/A
+2024-08-20 15:34:38,796 - INFO - ----------------------------------------
+2024-08-20 15:34:38,796 - INFO - Title: Bat Cave Kayak Tour with Chattanooga Guided Adventures
+2024-08-20 15:34:38,797 - INFO - Date: N/A
+2024-08-20 15:34:38,797 - INFO - ----------------------------------------
+2024-08-20 15:34:38,797 - INFO - Title: Josey Clay
+2024-08-20 15:34:38,797 - INFO - Date: N/A
+2024-08-20 15:34:38,797 - INFO - ----------------------------------------
+2024-08-20 15:34:38,797 - INFO - Title: Alien: Romulus in IMAX!
+2024-08-20 15:34:38,797 - INFO - Date: N/A
+2024-08-20 15:34:38,797 - INFO - ----------------------------------------
+2024-08-20 15:34:38,797 - INFO - Title: Chickamauga Dam Lock Kayak Tour
+2024-08-20 15:34:38,797 - INFO - Date: N/A
+2024-08-20 15:34:38,797 - INFO - ----------------------------------------
+2024-08-20 15:34:38,797 - INFO - Title: Ooltewah Farmers Market
+2024-08-20 15:34:38,797 - INFO - Date: N/A
+2024-08-20 15:34:38,797 - INFO - ----------------------------------------
+2024-08-20 15:34:38,797 - INFO - Title: Make & Take: Natural Skincare
+2024-08-20 15:34:38,797 - INFO - Date: N/A
+2024-08-20 15:34:38,797 - INFO - ----------------------------------------
+2024-08-20 15:34:38,797 - INFO - Title: Make & Take: Natural Skincare
+2024-08-20 15:34:38,797 - INFO - Date: N/A
+2024-08-20 15:34:38,797 - INFO - ----------------------------------------
+2024-08-20 15:34:38,797 - INFO - Title: Thursday Night Music with Zech Dallas
+2024-08-20 15:34:38,797 - INFO - Date: N/A
+2024-08-20 15:34:38,797 - INFO - ----------------------------------------
+2024-08-20 15:34:38,797 - INFO - ################################################################################
+2024-08-20 15:34:38,797 - INFO - Fetching and parsing Chatt Library
+2024-08-20 15:34:38,797 - INFO - ################################################################################
+2024-08-20 15:34:38,942 - INFO - Chromedriver is already installed.
+2024-08-20 15:34:38,942 - INFO - ====== WebDriver manager ======
+2024-08-20 15:34:39,030 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:34:39,121 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:34:39,222 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-20 15:34:55,311 - INFO - https://chattlibrary.org/events/ fetched
+2024-08-20 15:34:55,380 - INFO - ================================================================================
+2024-08-20 15:34:55,380 - INFO - Could not find 'grid' class in the HTML
+2024-08-20 15:34:55,380 - INFO - ================================================================================
+2024-08-20 15:34:55,408 - INFO - No iframes found in HTML
+2024-08-20 15:34:55,409 - INFO - ================================================================================
+2024-08-20 15:34:55,409 - INFO - #### HTML PARSED ####
+2024-08-20 15:34:55,409 - INFO - ################################################################################
+2024-08-20 15:34:55,451 - INFO - title_tag: a
+2024-08-20 15:34:55,451 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,451 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/full-steam-ahead-eastgate/2024-08-20/" rel="bookmark" title="Full Steam Ahead Eastgate">
+		Full Steam Ahead Eastgate	</a>
+2024-08-20 15:34:55,451 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,451 - INFO - date_tag: time
+2024-08-20 15:34:55,451 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,451 - INFO - date_element: None
+2024-08-20 15:34:55,451 - INFO - ********************************************************************************
+2024-08-20 15:34:55,451 - INFO - title_tag: a
+2024-08-20 15:34:55,451 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,451 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/steam-powered-fun-eastgate-2/2024-08-20/" rel="bookmark" title="STEAM-Powered Fun Eastgate">
+		STEAM-Powered Fun Eastgate	</a>
+2024-08-20 15:34:55,451 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,451 - INFO - date_tag: time
+2024-08-20 15:34:55,451 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,451 - INFO - date_element: None
+2024-08-20 15:34:55,451 - INFO - ********************************************************************************
+2024-08-20 15:34:55,451 - INFO - title_tag: a
+2024-08-20 15:34:55,451 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,451 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/teen-volunteer-orientation/2024-08-20/" rel="bookmark" title="Teen Volunteer Orientation">
+		Teen Volunteer Orientation	</a>
+2024-08-20 15:34:55,451 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,451 - INFO - date_tag: time
+2024-08-20 15:34:55,451 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,452 - INFO - date_element: None
+2024-08-20 15:34:55,452 - INFO - ********************************************************************************
+2024-08-20 15:34:55,452 - INFO - title_tag: a
+2024-08-20 15:34:55,452 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,452 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/toddler-time-at-northgate-tuesday-10am-2/2024-08-21/" rel="bookmark" title="Toddler Time at Northgate Wednesday 10am">
+		Toddler Time at Northgate Wednesday 10am	</a>
+2024-08-20 15:34:55,452 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,452 - INFO - date_tag: time
+2024-08-20 15:34:55,452 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,452 - INFO - date_element: None
+2024-08-20 15:34:55,452 - INFO - ********************************************************************************
+2024-08-20 15:34:55,452 - INFO - title_tag: a
+2024-08-20 15:34:55,452 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,452 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/toddler-time-at-eastgate-wednesday-10am/2024-08-21/" rel="bookmark" title="Toddler Time at Eastgate Wednesday 10am">
+		Toddler Time at Eastgate Wednesday 10am	</a>
+2024-08-20 15:34:55,452 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,452 - INFO - date_tag: time
+2024-08-20 15:34:55,452 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,452 - INFO - date_element: None
+2024-08-20 15:34:55,452 - INFO - ********************************************************************************
+2024-08-20 15:34:55,452 - INFO - title_tag: a
+2024-08-20 15:34:55,452 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,452 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/outdoor-storytime-with-south-chatt-3/2024-08-21/" rel="bookmark" title="Outdoor Storytime with South Chatt">
+		Outdoor Storytime with South Chatt	</a>
+2024-08-20 15:34:55,452 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,452 - INFO - date_tag: time
+2024-08-20 15:34:55,452 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,452 - INFO - date_element: None
+2024-08-20 15:34:55,452 - INFO - ********************************************************************************
+2024-08-20 15:34:55,452 - INFO - title_tag: a
+2024-08-20 15:34:55,452 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,452 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/preschool-storytime-at-downtown-wednesdays-10am/2024-08-21/" rel="bookmark" title="Preschool Storytime at Downtown Wednesdays 10am">
+		Preschool Storytime at Downtown Wednesdays 10am	</a>
+2024-08-20 15:34:55,452 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,452 - INFO - date_tag: time
+2024-08-20 15:34:55,452 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,452 - INFO - date_element: None
+2024-08-20 15:34:55,452 - INFO - ********************************************************************************
+2024-08-20 15:34:55,452 - INFO - title_tag: a
+2024-08-20 15:34:55,452 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,452 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/computer-literacy-workshops-2/2024-08-21/" rel="bookmark" title="Computer Literacy Workshops">
+		Computer Literacy Workshops	</a>
+2024-08-20 15:34:55,452 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,452 - INFO - date_tag: time
+2024-08-20 15:34:55,452 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,452 - INFO - date_element: None
+2024-08-20 15:34:55,452 - INFO - ********************************************************************************
+2024-08-20 15:34:55,452 - INFO - title_tag: a
+2024-08-20 15:34:55,452 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,452 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/toddler-time-at-northgate-tuesday-11am-2/2024-08-21/" rel="bookmark" title="Toddler Time at Northgate Wednesday 11am">
+		Toddler Time at Northgate Wednesday 11am	</a>
+2024-08-20 15:34:55,452 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,452 - INFO - date_tag: time
+2024-08-20 15:34:55,452 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,452 - INFO - date_element: None
+2024-08-20 15:34:55,452 - INFO - ********************************************************************************
+2024-08-20 15:34:55,452 - INFO - title_tag: a
+2024-08-20 15:34:55,452 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,452 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/meet-the-branches-south-chatt-party/" rel="bookmark" title="Meet the Branches South Chatt Party!">
+		Meet the Branches South Chatt Party!	</a>
+2024-08-20 15:34:55,452 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,453 - INFO - date_tag: time
+2024-08-20 15:34:55,453 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,453 - INFO - date_element: None
+2024-08-20 15:34:55,453 - INFO - ********************************************************************************
+2024-08-20 15:34:55,453 - INFO - title_tag: a
+2024-08-20 15:34:55,453 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,453 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/steamgineers-at-avondale/2024-08-21/" rel="bookmark" title="STEAM-Powered Fun Avondale">
+		STEAM-Powered Fun Avondale	</a>
+2024-08-20 15:34:55,453 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,453 - INFO - date_tag: time
+2024-08-20 15:34:55,453 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,453 - INFO - date_element: None
+2024-08-20 15:34:55,453 - INFO - ********************************************************************************
+2024-08-20 15:34:55,453 - INFO - title_tag: a
+2024-08-20 15:34:55,453 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,453 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/steam-powered-fun-northgate/2024-08-21/" rel="bookmark" title="STEAM-Powered Fun Northgate">
+		STEAM-Powered Fun Northgate	</a>
+2024-08-20 15:34:55,453 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,453 - INFO - date_tag: time
+2024-08-20 15:34:55,453 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,453 - INFO - date_element: None
+2024-08-20 15:34:55,453 - INFO - ********************************************************************************
+2024-08-20 15:34:55,453 - INFO - title_tag: a
+2024-08-20 15:34:55,453 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,453 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/baby-bounce-at-downtown-monday-thursday-and-saturday-10am/2024-08-22/" rel="bookmark" title="Baby Bounce at Downtown Monday, Thursday and Saturday 10am">
+		Baby Bounce at Downtown Monday, Thursday and Saturday 10am	</a>
+2024-08-20 15:34:55,453 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,453 - INFO - date_tag: time
+2024-08-20 15:34:55,453 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,453 - INFO - date_element: None
+2024-08-20 15:34:55,453 - INFO - ********************************************************************************
+2024-08-20 15:34:55,453 - INFO - title_tag: a
+2024-08-20 15:34:55,453 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,453 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/baby-bounce-at-northgate-thursdays-10am/2024-08-22/" rel="bookmark" title="Baby Bounce at Northgate Thursdays 10am">
+		Baby Bounce at Northgate Thursdays 10am	</a>
+2024-08-20 15:34:55,453 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,453 - INFO - date_tag: time
+2024-08-20 15:34:55,453 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,453 - INFO - date_element: None
+2024-08-20 15:34:55,453 - INFO - ********************************************************************************
+2024-08-20 15:34:55,453 - INFO - title_tag: a
+2024-08-20 15:34:55,453 - INFO - title_attrs: {'class': 'tribe-events-calendar-list__event-title-link tribe-common-anchor-thin'}
+2024-08-20 15:34:55,453 - INFO - title_element: <a class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin" href="https://chattlibrary.org/event/family-storytime-eastgate/2024-08-22/" rel="bookmark" title="Family Storytime Eastgate">
+		Family Storytime Eastgate	</a>
+2024-08-20 15:34:55,453 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'time', 'attrs': {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}
+2024-08-20 15:34:55,453 - INFO - date_tag: time
+2024-08-20 15:34:55,453 - INFO - date_attrs: {'class': "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+2024-08-20 15:34:55,453 - INFO - date_element: None
+2024-08-20 15:34:55,453 - INFO - ********************************************************************************
+2024-08-20 15:34:55,453 - INFO - Extracted 15 events from Chatt Library
+2024-08-20 15:34:55,453 - INFO - Title: Full Steam Ahead Eastgate
+2024-08-20 15:34:55,453 - INFO - Date: N/A
+2024-08-20 15:34:55,453 - INFO - ----------------------------------------
+2024-08-20 15:34:55,453 - INFO - Title: STEAM-Powered Fun Eastgate
+2024-08-20 15:34:55,453 - INFO - Date: N/A
+2024-08-20 15:34:55,453 - INFO - ----------------------------------------
+2024-08-20 15:34:55,453 - INFO - Title: Teen Volunteer Orientation
+2024-08-20 15:34:55,453 - INFO - Date: N/A
+2024-08-20 15:34:55,453 - INFO - ----------------------------------------
+2024-08-20 15:34:55,453 - INFO - Title: Toddler Time at Northgate Wednesday 10am
+2024-08-20 15:34:55,453 - INFO - Date: N/A
+2024-08-20 15:34:55,453 - INFO - ----------------------------------------
+2024-08-20 15:34:55,453 - INFO - Title: Toddler Time at Eastgate Wednesday 10am
+2024-08-20 15:34:55,453 - INFO - Date: N/A
+2024-08-20 15:34:55,453 - INFO - ----------------------------------------
+2024-08-20 15:34:55,453 - INFO - Title: Outdoor Storytime with South Chatt
+2024-08-20 15:34:55,453 - INFO - Date: N/A
+2024-08-20 15:34:55,453 - INFO - ----------------------------------------
+2024-08-20 15:34:55,453 - INFO - Title: Preschool Storytime at Downtown Wednesdays 10am
+2024-08-20 15:34:55,453 - INFO - Date: N/A
+2024-08-20 15:34:55,453 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - Title: Computer Literacy Workshops
+2024-08-20 15:34:55,454 - INFO - Date: N/A
+2024-08-20 15:34:55,454 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - Title: Toddler Time at Northgate Wednesday 11am
+2024-08-20 15:34:55,454 - INFO - Date: N/A
+2024-08-20 15:34:55,454 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - Title: Meet the Branches South Chatt Party!
+2024-08-20 15:34:55,454 - INFO - Date: N/A
+2024-08-20 15:34:55,454 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - Title: STEAM-Powered Fun Avondale
+2024-08-20 15:34:55,454 - INFO - Date: N/A
+2024-08-20 15:34:55,454 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - Title: STEAM-Powered Fun Northgate
+2024-08-20 15:34:55,454 - INFO - Date: N/A
+2024-08-20 15:34:55,454 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - Title: Baby Bounce at Downtown Monday, Thursday and Saturday 10am
+2024-08-20 15:34:55,454 - INFO - Date: N/A
+2024-08-20 15:34:55,454 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - Title: Baby Bounce at Northgate Thursdays 10am
+2024-08-20 15:34:55,454 - INFO - Date: N/A
+2024-08-20 15:34:55,454 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - Title: Family Storytime Eastgate
+2024-08-20 15:34:55,454 - INFO - Date: N/A
+2024-08-20 15:34:55,454 - INFO - ----------------------------------------
+2024-08-20 15:34:55,454 - INFO - ################################################################################
+2024-08-20 15:34:55,454 - INFO - Fetching and parsing Chattanooga Chamber
+2024-08-20 15:34:55,454 - INFO - ################################################################################
+2024-08-20 15:34:55,593 - INFO - Chromedriver is already installed.
+2024-08-20 15:34:55,593 - INFO - ====== WebDriver manager ======
+2024-08-20 15:34:55,701 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:34:55,809 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:34:55,901 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-20 15:35:04,778 - INFO - https://web.chattanoogachamber.com/events/ fetched
+2024-08-20 15:35:04,841 - INFO - ================================================================================
+2024-08-20 15:35:04,841 - INFO - Grid search result: widget-header fc-mon"><span>Mon</span></th><th class="fc-day-header fc-widget-header fc-tue"><span>Tue</span></th><th class="fc-day-header fc-widget-header fc-wed"><span>Wed</span></th><th class="fc-day-header fc-widget-header fc-thu"><span>Thu</span></th><th class="fc-day-header fc-widget-header fc-fri"><span>Fri</span></th><th class="fc-day-header fc-widget-header fc-sat"><span>Sat</span></th></tr></thead></table></div></td></tr></thead><tbody class="fc-body"><tr><td class="fc-widget-content"><div class="fc-scroller fc-day-grid-container" style="overflow: hidden; height: 560.609px;"><div class="fc-day-grid fc-unselectable"><div class="fc-row fc-week fc-widget-content" style=""><div class="fc-bg"><table><tbody><tr><td class="fc-day fc-widget-content fc-sun fc-other-month fc-past" data-date="2024-07-28"></td><td class="fc-day fc-widget-content fc-mon fc-other-month fc-past" data-date="2024-07-29"></td><td class="fc-day fc-widget-content fc-tue fc-other-month fc-past" data-date="2024-07-30"></td><td class="fc-day fc-widget-content fc-wed fc-other-month fc-past" data-date="2024-07-31"></td><td class="fc-day fc-widget-content fc-thu fc-past" data-date="2024-08-01"></td><td class="fc-day fc-widget-content fc-fri fc-past" data-date="2024-08-02"></td><td class="fc-day fc-widget-content fc-sat fc-past" data-date="2024-08-03"></td></tr></tbody></table></div><div class="fc-content-skeleton"><table><thead><tr><td class="fc-day-top fc-sun fc-other-month fc-past" data-date="2024-07-28"><span class="fc-day-number">28</span></td><td c
+2024-08-20 15:35:04,841 - INFO - ================================================================================
+2024-08-20 15:35:04,879 - INFO - Found iframe: https://www.googletagmanager.com/ns.html?id=GTM-NPF95RT
+2024-08-20 15:35:04,879 - INFO - ================================================================================
+2024-08-20 15:35:04,879 - INFO - #### HTML PARSED ####
+2024-08-20 15:35:04,879 - INFO - ################################################################################
+2024-08-20 15:35:04,924 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">Ribbon Cutting for Acme Fusion Cafe</span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">Downtown Council</span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">Ooltewah/Collegedale Council Coffee</span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">Tropical Smoothie Cafe </span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">East Ridge Council Meeting</span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">Franchise Tax Lunch and Learn</span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">Member Orientation</span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">AM Networking | America's Home Place</span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,925 - INFO - title_element: <span class="fc-title">South Chattanooga Council Meeting</span>
+2024-08-20 15:35:04,925 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,925 - INFO - date_tag: td
+2024-08-20 15:35:04,925 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,925 - INFO - date_element: None
+2024-08-20 15:35:04,925 - INFO - ********************************************************************************
+2024-08-20 15:35:04,925 - INFO - title_tag: span
+2024-08-20 15:35:04,925 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">Ribbon Cutting for (Be)Caffeinated </span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">North Chattanooga Council Meeting</span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">Ribbon Cutting for Days Inn Lookout Mountain West</span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">YPC + After Hours: Fifty Fifty Wine and Martini Bar</span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">Hixson Council Coffee</span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">Enterprise/Gateway Council Coffee and Connections</span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">East Ridge Council Coffee</span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">Ribbon Cutting for NoogaLights </span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">MidTown Council Meeting</span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,926 - INFO - date_tag: td
+2024-08-20 15:35:04,926 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,926 - INFO - date_element: None
+2024-08-20 15:35:04,926 - INFO - ********************************************************************************
+2024-08-20 15:35:04,926 - INFO - title_tag: span
+2024-08-20 15:35:04,926 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,926 - INFO - title_element: <span class="fc-title">North Hamilton County Council - Cancelled</span>
+2024-08-20 15:35:04,926 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">Business After Hours | Big Chicken</span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">East Brainerd Council Meeting</span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">Ooltewah/Collegedale Council Meeting</span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">Enterprise/Gateway Council Meeting</span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">East Brainerd Council Coffee</span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">Hixson Council Meeting</span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">Ribbon Cutting for Malone's/Harry's </span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">Community Career &amp; Eats - Job Fair</span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,927 - INFO - title_tag: span
+2024-08-20 15:35:04,927 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,927 - INFO - title_element: <span class="fc-title">Ribbon Cutting for Big Mattress Outlet </span>
+2024-08-20 15:35:04,927 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,927 - INFO - date_tag: td
+2024-08-20 15:35:04,927 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,927 - INFO - date_element: None
+2024-08-20 15:35:04,927 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - title_tag: span
+2024-08-20 15:35:04,928 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,928 - INFO - title_element: <span class="fc-title">Ribbon Cutting for Warren &amp; Griffin, P.C. </span>
+2024-08-20 15:35:04,928 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,928 - INFO - date_tag: td
+2024-08-20 15:35:04,928 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,928 - INFO - date_element: None
+2024-08-20 15:35:04,928 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - title_tag: span
+2024-08-20 15:35:04,928 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,928 - INFO - title_element: <span class="fc-title">Member Orientation</span>
+2024-08-20 15:35:04,928 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,928 - INFO - date_tag: td
+2024-08-20 15:35:04,928 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,928 - INFO - date_element: None
+2024-08-20 15:35:04,928 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - title_tag: span
+2024-08-20 15:35:04,928 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,928 - INFO - title_element: <span class="fc-title">Business After Hours | Element Chattanooga East</span>
+2024-08-20 15:35:04,928 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,928 - INFO - date_tag: td
+2024-08-20 15:35:04,928 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,928 - INFO - date_element: None
+2024-08-20 15:35:04,928 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - title_tag: span
+2024-08-20 15:35:04,928 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,928 - INFO - title_element: <span class="fc-title">Downtown Council</span>
+2024-08-20 15:35:04,928 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,928 - INFO - date_tag: td
+2024-08-20 15:35:04,928 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,928 - INFO - date_element: None
+2024-08-20 15:35:04,928 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - title_tag: span
+2024-08-20 15:35:04,928 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,928 - INFO - title_element: <span class="fc-title">Ooltewah/Collegedale Council Coffee</span>
+2024-08-20 15:35:04,928 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,928 - INFO - date_tag: td
+2024-08-20 15:35:04,928 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,928 - INFO - date_element: None
+2024-08-20 15:35:04,928 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - title_tag: span
+2024-08-20 15:35:04,928 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,928 - INFO - title_element: <span class="fc-title">North Side Business Council Meeting</span>
+2024-08-20 15:35:04,928 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,928 - INFO - date_tag: td
+2024-08-20 15:35:04,928 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,928 - INFO - date_element: None
+2024-08-20 15:35:04,928 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - title_tag: span
+2024-08-20 15:35:04,928 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,928 - INFO - title_element: <span class="fc-title">College and Career Fair- 2024</span>
+2024-08-20 15:35:04,928 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,928 - INFO - date_tag: td
+2024-08-20 15:35:04,928 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,928 - INFO - date_element: None
+2024-08-20 15:35:04,928 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - title_tag: span
+2024-08-20 15:35:04,928 - INFO - title_attrs: {'class': 'fc-title'}
+2024-08-20 15:35:04,928 - INFO - title_element: <span class="fc-title">East Ridge Council Meeting</span>
+2024-08-20 15:35:04,928 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'td', 'attrs': {'class': 'fc-day-top'}}
+2024-08-20 15:35:04,928 - INFO - date_tag: td
+2024-08-20 15:35:04,928 - INFO - date_attrs: {'class': 'fc-day-top'}
+2024-08-20 15:35:04,928 - INFO - date_element: None
+2024-08-20 15:35:04,928 - INFO - ********************************************************************************
+2024-08-20 15:35:04,928 - INFO - Extracted 36 events from Chattanooga Chamber
+2024-08-20 15:35:04,928 - INFO - Title: Ribbon Cutting for Acme Fusion Cafe
+2024-08-20 15:35:04,928 - INFO - Date: N/A
+2024-08-20 15:35:04,928 - INFO - ----------------------------------------
+2024-08-20 15:35:04,928 - INFO - Title: Downtown Council
+2024-08-20 15:35:04,928 - INFO - Date: N/A
+2024-08-20 15:35:04,928 - INFO - ----------------------------------------
+2024-08-20 15:35:04,928 - INFO - Title: Ooltewah/Collegedale Council Coffee
+2024-08-20 15:35:04,928 - INFO - Date: N/A
+2024-08-20 15:35:04,928 - INFO - ----------------------------------------
+2024-08-20 15:35:04,928 - INFO - Title: Tropical Smoothie Cafe
+2024-08-20 15:35:04,928 - INFO - Date: N/A
+2024-08-20 15:35:04,928 - INFO - ----------------------------------------
+2024-08-20 15:35:04,928 - INFO - Title: East Ridge Council Meeting
+2024-08-20 15:35:04,928 - INFO - Date: N/A
+2024-08-20 15:35:04,928 - INFO - ----------------------------------------
+2024-08-20 15:35:04,928 - INFO - Title: Franchise Tax Lunch and Learn
+2024-08-20 15:35:04,928 - INFO - Date: N/A
+2024-08-20 15:35:04,928 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Member Orientation
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: AM Networking | America's Home Place
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: South Chattanooga Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Ribbon Cutting for (Be)Caffeinated
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: North Chattanooga Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Ribbon Cutting for Days Inn Lookout Mountain West
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: YPC + After Hours: Fifty Fifty Wine and Martini Bar
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Hixson Council Coffee
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Enterprise/Gateway Council Coffee and Connections
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: East Ridge Council Coffee
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Ribbon Cutting for NoogaLights
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: MidTown Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: North Hamilton County Council - Cancelled
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Business After Hours | Big Chicken
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: East Brainerd Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Ooltewah/Collegedale Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Enterprise/Gateway Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: East Brainerd Council Coffee
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Hixson Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Ribbon Cutting for Malone's/Harry's
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Community Career & Eats - Job Fair
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Ribbon Cutting for Big Mattress Outlet
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Ribbon Cutting for Warren & Griffin, P.C.
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Member Orientation
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Business After Hours | Element Chattanooga East
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Downtown Council
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: Ooltewah/Collegedale Council Coffee
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: North Side Business Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: College and Career Fair- 2024
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - Title: East Ridge Council Meeting
+2024-08-20 15:35:04,929 - INFO - Date: N/A
+2024-08-20 15:35:04,929 - INFO - ----------------------------------------
+2024-08-20 15:35:04,929 - INFO - ################################################################################
+2024-08-20 15:35:04,929 - INFO - Fetching and parsing CHA Guide Things To Do
+2024-08-20 15:35:04,929 - INFO - ################################################################################
+2024-08-20 15:35:05,064 - INFO - Chromedriver is already installed.
+2024-08-20 15:35:05,064 - INFO - ====== WebDriver manager ======
+2024-08-20 15:35:05,145 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:35:05,234 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-20 15:35:05,321 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-20 15:35:18,178 - INFO - https://www.cha.guide/explore/things-to-do-in-chattanooga-this-week fetched
+2024-08-20 15:35:18,245 - INFO - ================================================================================
+2024-08-20 15:35:18,245 - INFO - Could not find 'grid' class in the HTML
+2024-08-20 15:35:18,245 - INFO - ================================================================================
+2024-08-20 15:35:18,262 - INFO - No iframes found in HTML
+2024-08-20 15:35:18,262 - INFO - ================================================================================
+2024-08-20 15:35:18,262 - INFO - #### HTML PARSED ####
+2024-08-20 15:35:18,262 - INFO - ################################################################################
+2024-08-20 15:35:18,314 - INFO - title_tag: h3
+2024-08-20 15:35:18,314 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:35:18,314 - INFO - title_element: <h3 class="event-title">Nightfall 2024</h3>
+2024-08-20 15:35:18,314 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-card-date'}}
+2024-08-20 15:35:18,314 - INFO - date_tag: div
+2024-08-20 15:35:18,314 - INFO - date_attrs: {'class': 'event-card-date'}
+2024-08-20 15:35:18,314 - INFO - date_element: <div class="event-card-date">23</div>
+2024-08-20 15:35:18,314 - INFO - date_text: 23
+2024-08-20 15:35:18,314 - INFO - date: N/A
+2024-08-20 15:35:18,314 - INFO - ********************************************************************************
+2024-08-20 15:35:18,314 - INFO - title_tag: h3
+2024-08-20 15:35:18,314 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:35:18,314 - INFO - title_element: <h3 class="event-title">Riverfront Nights</h3>
+2024-08-20 15:35:18,314 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-card-date'}}
+2024-08-20 15:35:18,314 - INFO - date_tag: div
+2024-08-20 15:35:18,314 - INFO - date_attrs: {'class': 'event-card-date'}
+2024-08-20 15:35:18,314 - INFO - date_element: <div class="event-card-date">24</div>
+2024-08-20 15:35:18,314 - INFO - date_text: 24
+2024-08-20 15:35:18,314 - INFO - date: N/A
+2024-08-20 15:35:18,314 - INFO - ********************************************************************************
+2024-08-20 15:35:18,314 - INFO - title_tag: h3
+2024-08-20 15:35:18,314 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:35:18,314 - INFO - title_element: <h3 class="event-title">OPEN SCRIBZ OPEN MIC</h3>
+2024-08-20 15:35:18,314 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-card-date'}}
+2024-08-20 15:35:18,314 - INFO - date_tag: div
+2024-08-20 15:35:18,314 - INFO - date_attrs: {'class': 'event-card-date'}
+2024-08-20 15:35:18,315 - INFO - date_element: <div class="event-card-date">24</div>
+2024-08-20 15:35:18,315 - INFO - date_text: 24
+2024-08-20 15:35:18,315 - INFO - date: N/A
+2024-08-20 15:35:18,315 - INFO - ********************************************************************************
+2024-08-20 15:35:18,315 - INFO - title_tag: h3
+2024-08-20 15:35:18,315 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:35:18,315 - INFO - title_element: <h3 class="event-title">Rail &amp; Hops Brewers Festival</h3>
+2024-08-20 15:35:18,315 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-card-date'}}
+2024-08-20 15:35:18,315 - INFO - date_tag: div
+2024-08-20 15:35:18,315 - INFO - date_attrs: {'class': 'event-card-date'}
+2024-08-20 15:35:18,315 - INFO - date_element: <div class="event-card-date">24</div>
+2024-08-20 15:35:18,315 - INFO - date_text: 24
+2024-08-20 15:35:18,315 - INFO - date: N/A
+2024-08-20 15:35:18,315 - INFO - ********************************************************************************
+2024-08-20 15:35:18,315 - INFO - title_tag: h3
+2024-08-20 15:35:18,315 - INFO - title_attrs: {'class': 'event-title'}
+2024-08-20 15:35:18,315 - INFO - title_element: <h3 class="event-title">SHADES OF POETRY ARTIST TALK AND PERFORMANCE SHOWCASE</h3>
+2024-08-20 15:35:18,315 - INFO - date_config: {'parse_method': 'data-date', 'tag': 'div', 'attrs': {'class': 'event-card-date'}}
+2024-08-20 15:35:18,315 - INFO - date_tag: div
+2024-08-20 15:35:18,315 - INFO - date_attrs: {'class': 'event-card-date'}
+2024-08-20 15:35:18,315 - INFO - date_element: <div class="event-card-date">25</div>
+2024-08-20 15:35:18,315 - INFO - date_text: 25
+2024-08-20 15:35:18,315 - INFO - date: N/A
+2024-08-20 15:35:18,315 - INFO - ********************************************************************************
+2024-08-20 15:35:18,315 - INFO - Extracted 5 events from CHA Guide Things To Do
+2024-08-20 15:35:18,315 - INFO - Title: Nightfall 2024
+2024-08-20 15:35:18,315 - INFO - Date: N/A
+2024-08-20 15:35:18,315 - INFO - ----------------------------------------
+2024-08-20 15:35:18,315 - INFO - Title: Riverfront Nights
+2024-08-20 15:35:18,315 - INFO - Date: N/A
+2024-08-20 15:35:18,315 - INFO - ----------------------------------------
+2024-08-20 15:35:18,315 - INFO - Title: OPEN SCRIBZ OPEN MIC
+2024-08-20 15:35:18,315 - INFO - Date: N/A
+2024-08-20 15:35:18,315 - INFO - ----------------------------------------
+2024-08-20 15:35:18,315 - INFO - Title: Rail & Hops Brewers Festival
+2024-08-20 15:35:18,315 - INFO - Date: N/A
+2024-08-20 15:35:18,315 - INFO - ----------------------------------------
+2024-08-20 15:35:18,315 - INFO - Title: SHADES OF POETRY ARTIST TALK AND PERFORMANCE SHOWCASE
+2024-08-20 15:35:18,315 - INFO - Date: N/A
+2024-08-20 15:35:18,315 - INFO - ----------------------------------------

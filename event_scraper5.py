@@ -55,7 +55,11 @@ SITES = {
         "content_list_class": {"div": {"class": "content grid"}},
         "item_attr": {"div": {"data-type": "events"}},
         "title": {"a": {"class": "title truncate"}},
-        "event_url": {"h4": {"role": "heading"}, "a": {"href": True}},
+        "event_url": {
+            "tag": "h4",
+            "attrs": {"role": "heading"}, "a": {"href": True}
+            },
+        
         "date": {"span": {"class": "mini-date-container"}}, 
         "time": {},
         "img": { 
@@ -74,7 +78,11 @@ SITES = {
         "content_list_class": {"div": {"class": "flex-table w-dyn-items"}},
         "item_attr": {"div": {"role": "listitem"}},
         "title": {"h3": {"class": "event-title"}},
-        "event_url": {"a": {"class": "event-card horizontal-image w-inline-block", "href": True}},
+        "event_url": {
+            "base_url": "https://www.cha.guide",
+            "tag": "a", 
+            "attrs": {"class": "event-card horizontal-image w-inline-block", "href": True}
+        },
         "date": {"div": {"class": "event-date-div"}}, 
         "time": {},
         "img": {
@@ -330,22 +338,23 @@ def extract_title(item, config):
     return title
 
 def extract_event_url(item, config):
-    url_tag, url_attrs = next(iter(config.get('event_url', {}).items()), (None, None))
+    url_config = config.get('event_url', {})
+    base_url = url_config.get('base_url', '')    
+    url_tag = url_config.get('tag')
+    url_attrs = url_config.get('attrs', {})
+
     if not url_tag:
         return "N/A"
     
     url_element = item.find(url_tag, **url_attrs)
-    if not url_element:
+    if not url_element or 'href' not in url_element.attrs:
         return "N/A"
     
-    a_tag = url_element.find('a', href=True) if url_element.name != 'a' else url_element
-    if not a_tag or 'href' not in a_tag.attrs:
-        return "N/A"
+    url = url_element['href']
     
-    url = a_tag['href']
-    
-    base_url = config.get("url", "")
-    url = base_url + url if url != "N/A" and not url.startswith(('http://', 'https://')) else url
+    base_url = config.get("base_url", "")
+    if base_url and not url.startswith(('http://', 'https://')):
+        url = f"{base_url.rstrip('/')}/{url.lstrip('/')}"
     
     return url
 
@@ -670,4 +679,28 @@ if __name__ == "__main__":
     - found: network connection broken by 'NewConnectionError'
 - refactored debugging calls (may still need more, may be fine as is)
 - implimented create_all_events_dataframe and save_all_events_to_csv functions
+---
+
+# 8-19-24
+
+- set up script for debugging and fine-tuning url extraction
+- fixed url extraction for:
+    - visit chattanooga
+    - chatt library
+---
+
+# 8-20-24
+
+- fixed url extraction for:
+    - CHA Guide Events
+    - Chattanooga Pulse
+    - CHA Guide Things To Do
+
+- spent time on url extraction for Chattanooga Chamber
+    - failed to extract url but fixed bug of only populating 5 events
+
+- set up script for debugging date and time
+- refactored date funtion to use parse_method
+---
+
 '''

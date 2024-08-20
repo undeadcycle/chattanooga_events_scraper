@@ -32,16 +32,15 @@ if not os.path.exists(DATA_FOLDER):
 logging.basicConfig(
     level = logging.INFO, 
     format = '%(asctime)s - %(levelname)s - %(message)s',
-    filename = os.path.join(LOG_FOLDER, 'web_scraper.log'),  
+    filename = os.path.join(LOG_FOLDER, 'url_extraction.log'),  
     filemode = 'w'  # 'w' to overwrite the log file each time, 'a' to append to it
 )
 
 # DEBUGGING BOOLEANS
-execute_debugging = False
-
+execute_debugging = True
 execute_scroll_page = True
 execute_save_html =True
-execute_save_events_to_csv = True
+execute_save_events_to_csv = False
 
 
 
@@ -55,8 +54,18 @@ SITES = {
         "content_list_class": {"div": {"class": "content grid"}},
         "item_attr": {"div": {"data-type": "events"}},
         "title": {"a": {"class": "title truncate"}},
-        "event_url": {"h4": {"role": "heading"}, "a": {"href": True}},
-        "date": {"span": {"class": "mini-date-container"}}, 
+        "event_url": {
+            "parse_method": "title",
+            "base_url": "https://www.visitchattanooga.com",
+            "tag": "h4",
+            "attrs": {"role": "heading"}, "a": {"href": True}
+            },
+        
+        "date": {
+            "parse_method": "data-date",
+            "tag": "span",
+            "attrs": {"class": "mini-date-container"}
+            }, 
         "time": {},
         "img": { 
             "img": {"class": "thumb"},
@@ -74,9 +83,19 @@ SITES = {
         "content_list_class": {"div": {"class": "flex-table w-dyn-items"}},
         "item_attr": {"div": {"role": "listitem"}},
         "title": {"h3": {"class": "event-title"}},
-        "event_url": {"a": {"class": "event-card horizontal-image w-inline-block", "href": True}},
-        "date": {"div": {"class": "event-date-div"}}, 
-        "time": {},
+        "event_url": {
+            "parse_method": "tag",
+            "base_url": "https://www.cha.guide",
+            "tag": "a", 
+            "attrs": {"href": True}
+        },
+        "date": {
+            "parse_method": "data-date",
+            "tag": "div",
+            "attrs": {"class": "event-date-div"}
+            }, 
+        
+        "time": {"div": {"class": "in-line right-margin---5px"}}, # endswith"</div> ??
         "img": {
             "container": {"div": {"class": "event-image---horizontal"}},
             "parse_method": "style_background",
@@ -93,8 +112,16 @@ SITES = {
         "content_list_class": {"div": {"id": "event_list_div"}},
         "item_attr": {"div": {"class": "event_result"}},
         "title": {"h4": {"class": "event_title"}},
-        "event_url": {"h4": {"class": "event_title"}, "a": {"href": True}},
-        "date": {"p": {"class": "event_date"}}, 
+        "event_url": {
+            "parse_method": "title",
+            "base_url": "",
+            },
+        "date": {
+            "parse_method": "data-date",
+            "tag": "p",
+            "attrs": {"class": "event-date"}
+            }, 
+        
         "time": {"p": {"class": "event_date"}},
         "img": { 
             "container": {"div": {"class": "event_thumb"}},
@@ -110,36 +137,54 @@ SITES = {
 
     },
 
-'Chatt Library': {
-	'url': 'https://chattlibrary.org/events/',
-	"content_list_class": {"div": {"class": "tribe-events-calendar-list"}},
-	"item_attr": {"div": {"class": "tribe-common-g-row tribe-events-calendar-list__event-row"}},
-	"title": {"a": {"class": "tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"}},
-	"event_url": {"h3": {"class": "tribe-events-calendar-list__event-title"}, "a": {"href": True}},
-	"date": {"time": {"class": "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}}, 
-	"time": {"time": {"class": "tribe-events-calendar-list__event-datetime', 'attribute': 'datetime"}},
-	"img": {
-		"parse_method": "none",
-		"container": {"div": {"class": "tribe-events-calendar-list__event-featured-image-wrapper tribe-common-g-col"}},
-		"tag": "img",
-		"attr": "src",
-		"???": {"class": "tribe-events-calendar-list__event-featured-image-link"},
-	},
-	"location": {"span": {"class": "tribe-events-calendar-list__event-venue-title tribe-common-b2--bold"}},
-	"recurrence": {}, 
-	"category": {},
-	"details": {"div": {"class": "tribe-events-calendar-list__event-description tribe-common-b2 tribe-common-a11y-hidden"}},
-	"price": {},
+    'Chatt Library': {
+        'url': 'https://chattlibrary.org/events/',
+        "content_list_class": {"div": {"class": "tribe-events-calendar-list"}},
+        "item_attr": {"div": {"class": "tribe-common-g-row tribe-events-calendar-list__event-row"}},
+        "title": {"a": {"class": "tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"}},
+        "event_url": {
+            "parse_method": "title",
+            "base_url": ""
+            },
+        "date": {
+            "parse_method": "data-date",
+            "tag": "time",
+            "attrs": {"class": "tribe-events-calendar-list__event-date-tag-datetime', 'attribute': 'datetime"}
+            }, 
+        
+        "time": {"span": {"class": "tribe-event-date-start"}}, # end time: span class="tribe-event-time"
+        "img": {
+            "parse_method": "none",
+            "container": {"div": {"class": "tribe-events-calendar-list__event-featured-image-wrapper tribe-common-g-col"}},
+            "tag": "img",
+            "attr": "src",
+            "???": {"class": "tribe-events-calendar-list__event-featured-image-link"},
+        },
+        "location": {"span": {"class": "tribe-events-calendar-list__event-venue-title tribe-common-b2--bold"}},
+        "recurrence": {}, 
+        "category": {},
+        "details": {"div": {"class": "tribe-events-calendar-list__event-description tribe-common-b2 tribe-common-a11y-hidden"}},
+        "price": {},
 
-},
+    },
     
     "Chattanooga Chamber": {
         "url": "https://web.chattanoogachamber.com/events/",
-        "content_list_class": {"div": {"class": "fc-content-skeleton"}},
+        "content_list_class": {"div": {"class": "fc-month-view"}},
         "item_attr": {"a": {"class": "fc-day-grid-event"}},
         "title": {"span": {"class": "fc-title"}},
-        "event_url": {},
-        "date": {"td": {"class": "fc-day-top", "data-date": True}},
+        "event_url": {
+            "parse_method": "tag",
+            "base_url": "https://web.chattanoogachamber.com",
+            "tag": "a", 
+            "attrs": {"a": {"class": "fc-day-grid-event", "href": True}}
+        },
+        "date": {
+            "parse_method": "data-date",
+            "tag": "td",
+            "attrs": {"class": "fc-day-top"}
+            }, 
+        
         "time": {"span": {"class": "fc-time"}},
         "img": {
             "parse_method": "none",
@@ -156,9 +201,19 @@ SITES = {
         "content_list_class": {"div": {"class": "flex-table centered w-dyn-items"}},
         "item_attr": {"div": {"role": "listitem"}},
         "title": {"h3": {"class": "event-title"}},
-        "event_url": {},
-        "date": {"div": {"class": "event-card-date"}},
-        "time": {"div": {"class": "smaller-text bottom-margin---10px"}},
+        "event_url": {
+            "parse_method": "tag",
+            "base_url": "https://www.cha.guide",
+            "tag": "a", 
+            "attrs": {"class": "event-card horizontal-image w-inline-block", "href": True}
+        },
+        "date": {
+            "parse_method": "data-date",
+            "tag": "div",
+            "attrs": {"class": "event-card-date"}
+            }, 
+        
+        "time": {"div": {"class": "in-line right-margin---5px"}}, # endswith"</div> ??
         "img": {
             "container": {"div": {"class": "event-image---horizontal"}},
             "parse_method": "style_background",
@@ -228,18 +283,8 @@ def fetch_page(url):
         logging.error(f"Error fetching the page: {e}")
         return None, driver
     finally:
+        logging.info(f"{url} fetched")
         driver.quit()
-
-
-def parse_html(html_content):
-    return BeautifulSoup(html_content, 'html.parser')
-
-def find_shadow_element(driver, selectors):
-    element = driver
-    for selector in selectors:
-        element = element.find_element(By.CSS_SELECTOR, selector)
-        element = driver.execute_script("return arguments[0].shadowRoot", element)
-    return element
 
 
 
@@ -257,9 +302,14 @@ def grid_search(html_content):
         logging.info("Could not find 'grid' class in the HTML")
 
 def find_iframes(html_content):
-    iframes = html_content.find_all('iframe')
-    for iframe in iframes:
-        logging.info(f"Found iframe: {iframe.get('src', 'No src attribute')}")
+    soup = BeautifulSoup(html_content, 'html.parser')
+    iframes = soup.find_all('iframe')
+    if iframes:
+        for iframe in iframes:
+            logging.info(f"Found iframe: {iframe.get('src', 'No src attribute')}")
+    else:
+        logging.info("No iframes found in HTML")
+
 
 def check_shadow_dom(driver):
     shadow_hosts = driver.execute_script("""
@@ -283,6 +333,11 @@ def save_html(html_content, site_name):
     file_name = os.path.join(LOG_FOLDER, f"{site_name}.html")
     with open(file_name, 'w', encoding='utf-8') as f:
         f.write(html_content)
+
+def save_parsed(parsed_content, site_name):
+    file_name = os.path.join(LOG_FOLDER, f"{site_name}_parsed.html")
+    with open(file_name, 'w', encoding='utf-8') as f:
+        f.write(parsed_content.prettify())
 
 def capture_network_requests(site_name, driver):
     network_file = os.path.join(DATA_FOLDER, f"{site_name}_network_request.txt")
@@ -309,178 +364,104 @@ def save_events_to_csv(events, site_name):
         for event in events:
             writer.writerow(event)
 
-
-
 ####################
 # EXTRACTION 
 ####################
 
+def parse_html(html_content):
+    logging.info("#### HTML PARSED ####")
+    logging.info("#" * 80)
+    return BeautifulSoup(html_content, 'html.parser')
+
+def find_shadow_element(driver, selectors):
+    element = driver
+    for selector in selectors:
+        element = element.find_element(By.CSS_SELECTOR, selector)
+        element = driver.execute_script("return arguments[0].shadowRoot", element)
+    return element
+
 def extract_title(item, config):
     title_tag, title_attrs = next(iter(config.get('title', {}).items()), (None, None))
+    logging.info(f"title_tag: {title_tag}")
+    logging.info(f"title_attrs: {title_attrs}")
     if not title_tag:
         return "N/A"
     
     title_element = item.find(title_tag, **title_attrs)
+    logging.info(f"title_element: {title_element}")
     if not title_element:
         return "N/A"
     
     a_tag = title_element.find('a') if title_element.name != 'a' else title_element
     title = a_tag.text.strip() if a_tag else title_element.text.strip()
     
-    return title
-
-def extract_event_url(item, config):
-    url_tag, url_attrs = next(iter(config.get('event_url', {}).items()), (None, None))
-    if not url_tag:
-        return "N/A"
-    
-    url_element = item.find(url_tag, **url_attrs)
-    if not url_element:
-        return "N/A"
-    
-    a_tag = url_element.find('a', href=True) if url_element.name != 'a' else url_element
-    if not a_tag or 'href' not in a_tag.attrs:
-        return "N/A"
-    
-    url = a_tag['href']
-    
-    base_url = config.get("url", "")
-    url = base_url + url if url != "N/A" and not url.startswith(('http://', 'https://')) else url
-    
-    return url
-
+    return title, title_element
+####################
+# function to debug
+####################
 
 def parse_date_range(date_text):
     try:
         date_info = parser.parse(date_text, fuzzy=True)
+        logging.info(f"date_info: {date_info}")
         date = date_info.strftime("%Y-%m-%d")
+        logging.info(f"date: {date}")
+        logging.info("*" * 80)
         return {
             'date': date,
-            'start_time': date_info.strftime("%H:%M") if date_info.hour else None,
-            'end_time': None
+            'time': date_info.strftime("%H:%M") if date_info.hour else None,
+            
         }
     except ValueError:
         logging.error(f"Couldn't parse date: {date_text}")
         return {
             'date': None,
-            'start_time': None,
-            'end_time': None
+            'time': None,
+            
         }
 
 def extract_date_and_time(item, config):
-    date_tag, date_attrs = next(iter(config.get('date', {}).items()), (None, None))
+    date_config = config.get('date', {})
+    logging.info(f"date_config: {date_config}")
+    parse_method = date_config.get('parse_method')
+    date_tag = date_config.get('tag')
+    date_attrs = date_config.get('attrs')
+    logging.info(f"date_tag: {date_tag}")
+    logging.info(f"date_attrs: {date_attrs}")
+    
     if not date_tag:
-        return "N/A", "N/A", "N/A"
+        logging.info("*" * 80)
+        return "N/A", "N/A"
     
-    date_element = item.find(date_tag, **date_attrs) if date_attrs else item.find(date_tag)
-    if not date_element:
-        return "N/A", "N/A", "N/A"
-    
-    date_text = date_element.text.strip()
-    
-    # Try to extract date from data-date attribute first
-    date = item.get('data-date', "N/A")
-    if date != "N/A":
-        try:
-            date = datetime.fromisoformat(date.replace('Z', '+00:00')).strftime('%Y-%m-%d')
-        except ValueError:
-            date = "N/A"
-    
-    # If no data-date attribute, try to parse from text
-    if date == "N/A":
-        try:
-            parsed_date = parse_date_range(date_text)
-            date = parsed_date.get('date', "N/A")
-            start_time = parsed_date.get('start_time', "N/A")
-            end_time = parsed_date.get('end_time', "N/A")
-            return date, start_time, end_time
-        except:
-            pass
-    
-    # Extract time from the text (assumes format like "9:00 am")
-    time_match = re.search(r'\d{1,2}:\d{2}\s*[ap]m', date_text)
-    time = time_match.group() if time_match else "N/A"
-    
-    return date, time, "N/A"  # We don't have end time information in most cases
+    if parse_method == "data-date":
+
+        date_element = item.find(date_tag, **date_attrs) if date_attrs else item.find(date_tag)
+        logging.info(f"date_element: {date_element}")
 
 
-def extract_image_url(item, config):
-    img_config = config.get('img', {})
-    if not img_config:
-        return "N/A"
-    
-    parse_method = img_config.get('parse_method')
-    
-    if parse_method == 'lazy-src':
-        img_tag, img_attrs = next(iter(img_config.items()))
-        img_element = item.find(img_tag, **img_attrs)
-        return img_element.get('data-lazy-src') or img_element.get('src') if img_element else "N/A"
-    
-    elif parse_method == 'srcset_220w':
-        container_tag, container_attrs = next(iter(img_config['container'].items()))
-        container = item.find(container_tag, **container_attrs)
-        if not container:
-            return "N/A"
-        img_element = container.find(img_config['tag'])
-        if not img_element or img_config['attr'] not in img_element.attrs:
-            return "N/A"
-        srcset = img_element[img_config['attr']]
-        urls = srcset.split(', ')
-        for url in urls:
-            if '220w' in url:
-                return url.split(' ')[0]
-        return urls[0].split(' ')[0] if urls else "N/A"
-    
-    elif parse_method == 'style_background':
-        container_tag, container_attrs = next(iter(img_config['container'].items()))
-        container = item.find(container_tag, **container_attrs)
-        if not container or 'style' not in container.attrs:
-            return "N/A"
-        style = container['style']
-        match = re.search(r'background-image:\s*url\("(.+?)"\)', style)
-        return match.group(1) if match else "N/A"
-    
-    return "N/A"
+        
+        if not date_element:
+            logging.info("*" * 80)
+            return "N/A", "N/A"
+        
+        date_text = date_element.text.strip()
+        logging.info(f"date_text: {date_text}")
+        
 
-def extract_location(item, config):
-    location_tag, location_attrs = next(iter(config.get('location', {}).items()), (None, None))
-    if not location_tag:
-        return "N/A"
-    
-    parent_class = config.get('location', {}).get('parent', {}).get('class')
-    parent_element = item.find('div', class_=parent_class) if parent_class else item
-    
-    location_elements = parent_element.find_all(location_tag, **location_attrs) if location_attrs else parent_element.find_all(location_tag)
-    return " | ".join([loc.text.strip() for loc in location_elements]) if location_elements else "N/A"
 
-def extract_recurrence(item, config):
-    recurrence_tag, recurrence_attrs = next(iter(config.get('recurrence', {}).items()), (None, None))
-    if not recurrence_tag:
-        return "N/A"
+        # Try to extract date from data-date attribute first
+        date = item.get('data-date', "N/A")
+        logging.info(f"date: {date}")
     
-    recurrence_element = item.find(recurrence_tag, **recurrence_attrs) if recurrence_attrs else item.find(recurrence_tag)
-    return recurrence_element.text.strip() if recurrence_element else "N/A"
+        
+        logging.info("*" * 80)
+        return date, time  
 
-def extract_category(item, config):
-    category_tag, category_attrs = next(iter(config.get('category', {}).items()), (None, None))
-    if not category_tag:
-        return "N/A"
-    
-    category_elements = item.find_all(category_tag, **category_attrs) if category_attrs else item.find_all(category_tag)
-    return [cat.text.strip() for cat in category_elements] if category_elements else ["N/A"]
 
-def extract_details(item, config):
-    details_tag, details_attrs = next(iter(config.get('details', {}).items()), (None, None))
-    if not details_tag:
-        return "N/A"
-    
-    details_element = item.find(details_tag, **details_attrs) if details_attrs else item.find(details_tag)
-    if not details_element:
-        return "N/A"
-    
-    details_text = ' '.join(details_element.stripped_strings)
-    return details_text if details_text else "N/A"
 
+####################
+# main extraction
+####################
 
 def extract_events(parsed_content, config):
     events = []
@@ -495,15 +476,10 @@ def extract_events(parsed_content, config):
     items = content_list.find_all(item_tag, **item_attrs) if item_attrs else content_list.find_all(item_tag)
 
     for item in items:
+        title, title_element = extract_title(item, config)
         event = {}
-        event['title'] = extract_title(item, config)
-        event['url'] = extract_event_url(item, config)
-        event['date'], event['start_time'], event['end_time'] = extract_date_and_time(item, config)
-        event['image_url'] = extract_image_url(item, config)
-        event['location'] = extract_location(item, config)
-        event['recurrence'] = extract_recurrence(item, config)
-        event['category'] = extract_category(item, config)
-        event['details'] = extract_details(item, config)
+        event['title'] = title
+        event['date'], event['time'] = extract_date_and_time(item, config)
         events.append(event)
     
     return events
@@ -520,12 +496,7 @@ def extract_shadow_events(parsed_content, config):
         shadow_event = {
             "title": shadow_element.select_one(config["title_selector"]).get_text(strip=True) if config.get("title_selector") else None,
             "url": shadow_element.select_one(config["url_selector"])["href"] if config.get("url_selector") else None,
-            "date": shadow_element.select_one(config["date_selector"]).get_text(strip=True) if config.get("date_selector") else None,
-            "start_time": shadow_element.select_one(config["start_time_selector"]).get_text(strip=True) if config.get("start_time_selector") else None,
-            "end_time": shadow_element.select_one(config["end_time_selector"]).get_text(strip=True) if config.get("end_time_selector") else None,
-            "location": shadow_element.select_one(config["location_selector"]).get_text(strip=True) if config.get("location_selector") else None,
-            "recurrence": shadow_element.select_one(config["recurrence_selector"]).get_text(strip=True) if config.get("recurrence_selector") else None,
-            "image_url": shadow_element.select_one(config["image_selector"])["src"] if config.get("image_selector") else None,
+
         }
         shadow_events.append(shadow_event)
     return shadow_events
@@ -549,15 +520,20 @@ def main():
     all_events = {}
     for site_name, config in SITES.items():
         url = config["url"]
+        logging.info("#" * 80)
         logging.info(f"Fetching and parsing {site_name}")
+        logging.info("#" * 80)
         html_content, driver = fetch_page(url)
         if html_content:
             if execute_debugging:
+                logging.info("=" * 80)
                 grid_search(html_content)
+                logging.info("=" * 80)
                 find_iframes(html_content)
-                check_shadow_dom(driver)
-                find_potential_containers(parsed_content)
-                capture_network_requests(site_name, driver)
+                logging.info("=" * 80)
+                # check_shadow_dom(driver)
+                # find_potential_containers(parsed_content)
+                # capture_network_requests(site_name, driver)
                 save_html(html_content, site_name)
             # Check if the site uses Shadow DOM
             if config.get("shadow"):
@@ -568,7 +544,7 @@ def main():
             else:
                 parsed_content = parse_html(html_content)
                 if execute_save_html:
-                    save_html(html_content, site_name)
+                    save_parsed(parsed_content, site_name)
 
             events = extract_events(parsed_content, config)
             all_events[site_name] = events
@@ -579,11 +555,8 @@ def main():
             logging.info(f"Extracted {len(events)} events from {site_name}")
             for event in events:
                 logging.info(f"Title: {event.get('title')}")
-                logging.info(f"URL: {event.get('url')}")
                 logging.info(f"Date: {event.get('date')}")
-                logging.info(f"Location: {event.get('location')}")
-                logging.info(f"Recurrence: {event.get('recurrence')}")
-                logging.info(f"Image URL: {event.get('image_url')}")
+
                 logging.info("-" * 40)
 
         else:
@@ -598,76 +571,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-####################
-# BUGS & TODOS
-####################
-
-
-# BUG: rewrite date function to work on all sites (output times as AM/PM)
-
-# TODO: add a price function 
-
-# TODO: separate time and date function
-
-# TODO: display image link as an image instead of a url
-
-# TODO: fix capture network requests
-
-# TODO: refactor debugging calls
-
-# TODO: do i need the chromedriver install statements? should i setup a new env and kernel for this script? containerize it?
-
-# BUG: script fails to establish connection (red herring?) when extracting shadow content on times free press
-
-# TODO: get past lightbox (choose chatt, nooga today)
-
-# TODO: create single csv for all sites together
-
-# BUG: WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7270816a7150>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/8831fc9bba6122c89f4eb4f6d4502a9f
-    # seems related to how the driver closes? all info seems to be pulled and the error happens durring transition to next site?
-
-# TODO: i have two versions of CHA guide. only need one most likely
-
-####################
-# THINGS DONE
-####################
-
-'''
-# 8-6-24
-
-- Started adding times free press
-- debugging: failed to find content list class
-    - grid search function added
-    - find iframes function added
-    - check shadow dom function added (event list appears to be in shadow dom
-    - find potential containers function added
-    - scroll page function added
-    - save html function added
-- Consolidated debugging functions into a single section for readability and maintainability
----
-
-# 8-8-24
-
-- fixed broken webdriver call: driver = webdriver.chrome(service=service)
-- added save_events_to_csv function
-- added capture_network_requests function
-- started refactoring debugging calls
-    - added booleans
-    - added some calls to main execution
-    - modified main execution to save shadow dom content if save_html is called
-    - moved logs and data to folders for easier access and to declutter the project root directory
-- added dictionary entry for Chett Library
----
-
-# 8-9-24
-
-- added dictionary entry for chatt chamber
-- added dictionary entry fo cha guides
-- separated out functions for each selector in dictionary entries
-- reorganized dictionary entries to have consistant selectors
-- search for bugs: 
-    - found: network connection broken by 'NewConnectionError'
-- refactored debugging calls (may still need more, may be fine as is)
-- implimented create_all_events_dataframe and save_all_events_to_csv functions
-'''

@@ -1,5 +1,9 @@
 <div class="fc-day-grid fc-unselectable"><div class="fc-row fc-week fc-widget-content" style=""><div class="fc-bg"><table><tbody><tr><td class="fc-day fc-widget-content fc-sun fc-other-month fc-past" data-date="2024-07-28"></td><td class="fc-day fc-widget-content fc-mon fc-other-month fc-past" data-date="2024-07-29"></td><td class="fc-day fc-widget-content fc-tue fc-other-month fc-past" data-date="2024-07-30"></td><td class="fc-day fc-widget-content fc-wed fc-other-month fc-past" data-date="2024-07-31"></td><td class="fc-day fc-widget-content fc-thu fc-past" data-date="2024-08-01"></td><td class="fc-day fc-widget-content fc-fri fc-past" data-date="2024-08-02"></td><td class="fc-day fc-widget-content fc-sat fc-past" data-date="2024-08-03"></td></tr></tbody></table></div><div class="fc-content-skeleton"><table><thead><tr><td class="fc-day-top fc-sun fc-other-month fc-past" data-date="2024-07-28"><span class="fc-day-number">28</span></td><td class="fc-day-top fc-mon fc-other-month fc-past" data-date="2024-07-29"><span class="fc-day-number">29</span></td><td class="fc-day-top fc-tue fc-other-month fc-past" data-date="2024-07-30"><span class="fc-day-number">30</span></td><td class="fc-day-top fc-wed fc-other-month fc-past" data-date="2024-07-31"><span class="fc-day-number">31</span></td><td class="fc-day-top fc-thu fc-past" data-date="2024-08-01"><span class="fc-day-number">1</span></td><td class="fc-day-top fc-fri fc-past" data-date="2024-08-02"><span class="fc-day-number">2</span></td><td class="fc-day-top fc-sat fc-past" data-date="2024-08-03"><span class="fc-day-number">3</span></td></tr></thead><tbody><tr><td rowspan="3"></td><td rowspan="3"></td><td class="fc-event-container" rowspan="3">
-<a class="fc-day-grid-event fc-h-event fc-event fc-start fc-end org-event et-Other wl-Other" href="/events/RibbonCutting%20for%20Acme%20Fusion%20Cafe-4514/details" data-show-event="true" data-show-calendar="true"><div class="fc-content"><span class="fc-time">12p</span> <span class="fc-title">Ribbon Cutting for Acme Fusion Cafe</span></div></a></td><td rowspan="3"></td><td class="fc-event-container">
+<a class="fc-day-grid-event fc-h-event fc-event fc-start fc-end org-event et-Other wl-Other" href="/events/RibbonCutting%20for%20Acme%20Fusion%20Cafe-4514/details" data-show-event="true" data-show-calendar="true">
+    <div class="fc-content">
+        <span class="fc-time">12p</span> 
+        <span class="fc-title">Ribbon Cutting for Acme Fusion Cafe</span></div></a></td>
+        <td rowspan="3"></td><td class="fc-event-container">
 <a class="fc-day-grid-event fc-h-event fc-event fc-start fc-end community-event org-event et-Councils wl-Councils" href="/events/DowntownCouncil-4478/details" data-show-event="true" data-show-calendar="true"><div class="fc-content"><span class="fc-time">7:30a</span> <span class="fc-title">Downtown Council</span></div></a></td><td class="fc-event-container" rowspan="3">
 <a class="fc-day-grid-event fc-h-event fc-event fc-start fc-end community-event org-event et-Councils wl-Councils" href="/events/OoltewahCollegedaleCouncil%20Coffee-4509/details" data-show-event="true" data-show-calendar="true"><div class="fc-content"><span class="fc-time">8:30a</span> <span class="fc-title">Ooltewah/Collegedale Council Coffee</span></div></a></td><td rowspan="3"></td></tr><tr><td class="fc-event-container">
 <a class="fc-day-grid-event fc-h-event fc-event fc-start fc-end org-event et-Other wl-Other" href="/events/TropicalSmoothie%20Cafe%20-4515/details" data-show-event="true" data-show-calendar="true"><div class="fc-content"><span class="fc-time">9a</span> <span class="fc-title">Tropical Smoothie Cafe </span></div></a></td></tr><tr><td class="fc-event-container">
@@ -30,3 +34,27 @@
 <a class="fc-day-grid-event fc-h-event fc-event fc-start fc-end community-event org-event et-Councils wl-Councils" href="/events/DowntownCouncil-4518/details" data-show-event="true" data-show-calendar="true"><div class="fc-content"><span class="fc-time">7:30a</span> <span class="fc-title">Downtown Council</span></div></a></td><td class="fc-event-container">
 <a class="fc-day-grid-event fc-h-event fc-event fc-start fc-end community-event org-event et-Councils wl-Councils" href="/events/OoltewahCollegedaleCouncil%20Coffee-4510/details" data-show-event="true" data-show-calendar="true"><div class="fc-content"><span class="fc-time">8:30a</span> <span class="fc-title">Ooltewah/Collegedale Council Coffee</span></div></a></td><td rowspan="2"></td></tr><tr><td class="fc-event-container" colspan="2">
 <a class="fc-day-grid-event fc-h-event fc-event fc-start fc-end org-event et-General wl-General" href="/events/Collegeand%20Career%20Fair%202024-4516/details" data-show-event="true" data-show-calendar="true"><div class="fc-content"><span class="fc-time">9a</span> <span class="fc-title">College and Career Fair- 2024</span></div></a></td></tr></tbody></table></div></div></div>
+
+
+"Chattanooga Chamber": {
+    "url": "https://web.chattanoogachamber.com/events/",
+    "content_list_class": {"div": {"class": "fc-content-skeleton"}},
+    "item_attr": {"a": {"class": "fc-day-grid-event"}},
+    "title": {"span": {"class": "fc-title"}},
+    "event_url": {
+        "parse_method": "tag",
+        "base_url": "https://web.chattanoogachamber.com",
+        "tag": "a", 
+        "attrs": {"class": "fc-day-grid-event", "href": True}
+    },
+    "date": {"td": {"class": "fc-day-top", "data-date": True}},
+    "time": {"span": {"class": "fc-time"}},
+    "img": {
+        "parse_method": "none",
+    },
+    "location": {"div": {"class": "fc-content"}},  # Note: Location might not be directly available
+    "recurrence": {"div": {"class": "fc-content"}},  # Note: Recurrence info might not be directly available
+    "category": {"a": {"class": True}},  # The class of the event link contains category info
+    "details": {},
+    "price": {},
+},

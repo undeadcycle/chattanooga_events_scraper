@@ -1,1024 +1,1016 @@
-2024-08-09 19:29:33,374 - INFO - Fetching and parsing Visit Chattanooga
-2024-08-09 19:29:33,547 - INFO - Chromedriver is already installed.
-2024-08-09 19:29:33,547 - INFO - ====== WebDriver manager ======
-2024-08-09 19:29:33,603 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:29:33,696 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:29:33,786 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
-2024-08-09 19:29:50,246 - INFO - Extracted 12 events from Visit Chattanooga
-2024-08-09 19:29:50,246 - INFO - Title: Chickamauga Dam Lock Through Kayak Tour with Chattanooga Guided Adventures
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/chickamauga-dam-lock-through-kayak-tour-with-chattanooga-guided-adventures/19807/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Hubert Fry Center Boatramp
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring daily until November 10, 2024
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/CGA-Chickamanga_17047717-561C-4434-B479C10F432C4937_42bd9946-ca66-4b83-9259ff2418b75f33.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Deadpool & Wolverine in IMAX!
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/deadpool-%26-wolverine-in-imax!/20885/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Tennessee Aquarium IMAX 3D Theater
-2024-08-09 19:29:50,246 - INFO - Recurrence: N/A
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/SUB6400_comp_FRM_v0220.1387_R_228096AB-B639-4512-975312EDA16B40DF_08a685ff-4a2f-45c9-bf452d06e775dbdf.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Evening Ridge Runner
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/evening-ridge-runner/18374/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:29:50,246 - INFO - Recurrence: N/A
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Tennessee-Valley-Railroad-Museum---Evening-Ridge-Runner---31MAIN_1AFAD541-C86C-4F5D-80CE5D0A357F13FB_fdc14ef5-8c1a-4d87-94ed198fef534e1b.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Exhibit Admission
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/exhibit-admission/17763/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring daily until December 23, 2024
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Tennessee-Valley-Railroad-Museum-Exhibit-Building-03-scaled_4F4495E7-023E-49F5-89D214567AE32153_fc60f811-20ec-4b1f-80574d7f0d0d1c4a.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Friday Night Wine & Live Jazz
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/friday-night-wine-%26-live-jazz/19722/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Forge Restaurant
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring weekly on Friday until January 10, 2025
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/clients/chattanooga/chattanooga_default_170b93b4-2635-4fb3-84b2-7c68ad33306f.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Hiwassee Loop Train Ride
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/hiwassee-loop-train-ride/10467/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Tennessee Valley Railroad Museum's Delano Parking Area (9401 HWY 411, Delano, TN, 37325)
-2024-08-09 19:29:50,246 - INFO - Recurrence: N/A
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/314767172_10227984540740419_2636836214744908067_n_53F3D92A-0FFB-451B-87B931E6F607659B_47b3aad8-d04c-44d1-8a32bdd62e60dc0e.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Live Music at Creekside Every Friday
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/live-music-at-creekside-every-friday/20183/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Creekside Bar + Grille
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring weekly on Friday until February 21, 2025
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/creekside_C516340B-ED3E-B6F5-DBD01900DEB8248C_c516bb3e-00d0-0e61-568e46423a3476a1.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Live Music Every Friday with Mark Andrew at Nic 'n Norman's
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/live-music-every-friday-with-mark-andrew-at-nic-n-normans/21298/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Nic & Norman's
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring weekly on Friday until December 27, 2024
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Mark-Andrew-N-N-2-copy-4_C3831E66-C2D0-DBD4-9817E27EF4CEE1BF_c3c3c441-ca34-4c70-3ebf1bdfcfd2b5eb.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Mountain Bike Rental with Chattanooga Guided Adventures
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/mountain-bike-rental-with-chattanooga-guided-adventures/19809/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Chattanooga Guided Adventures
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring daily until January 21, 2025
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Incline-Railway-Bike-Tour_E81C8BF8-A9AE-4386-99A3AE8E86E6EFF0_8c1b23e6-485b-4296-9d4b5d7719fd0143.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Music  with Jesse Jungkurth
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/music-with-jesse-jungkurth/20540/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Comedy Catch at the Choo Choo and Backstage Bar
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring weekly on Friday until April 4, 2025
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/jesseJ_4845C962-0AB4-1552-43BB08A6A5CFAE13_48576a84-f14c-d248-c0fdf1fa5a3638ed.png
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Nickajack Bat Cave Kayak Tour with Chattanooga Guided Adventures
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/nickajack-bat-cave-kayak-tour-with-chattanooga-guided-adventures/19747/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Chattanooga Guided Adventures
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring daily until October 13, 2024
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Nickajack-Bat-Cave-Sunset-Kayak-Tour_6F28E129-02C9-4D96-A9031235E67BFB56_4fca779d-b1b8-4613-9d4c7a0faa9487a5.jpg
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Title: Nightfall Free Summer Concert Series
-2024-08-09 19:29:50,246 - INFO - URL: https://www.visitchattanooga.com/events//event/nightfall-free-summer-concert-series/20966/
-2024-08-09 19:29:50,246 - INFO - Date: 2024-08-09
-2024-08-09 19:29:50,246 - INFO - Location: Miller Plaza
-2024-08-09 19:29:50,246 - INFO - Recurrence: Recurring weekly on Friday until August 30, 2024
-2024-08-09 19:29:50,246 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Screen-Shot-2024-06-11-at-3.36.49-PM_57E495D0-97CB-EED2-7FCF5F27AC236702_57f0d18d-d30a-7835-19a5bd1ab6c933df.png
-2024-08-09 19:29:50,246 - INFO - ----------------------------------------
-2024-08-09 19:29:50,246 - INFO - Fetching and parsing CHA Guide Events
-2024-08-09 19:29:50,375 - INFO - Chromedriver is already installed.
-2024-08-09 19:29:50,375 - INFO - ====== WebDriver manager ======
-2024-08-09 19:29:50,464 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:29:50,560 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:29:50,644 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
-2024-08-09 19:30:06,021 - INFO - Extracted 80 events from CHA Guide Events
-2024-08-09 19:30:06,021 - INFO - Title: Nightfall 2024
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-09
-2024-08-09 19:30:06,021 - INFO - Location: Miller Plaza & Miller Park
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-09
-2024-08-09 19:30:06,021 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: "Dive-In Movie" at the Town Pool
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-09
-2024-08-09 19:30:06,021 - INFO - Location: Town of Signal Mountain
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: Wild Wonders: A Close Encounter with Native Animals
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: Reflection Riding Arboretum & Nature Center
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: Chickamauga Turn
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: No Scrubs: 90s Dance Party
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: The Signal - Concert Hall
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: Riverfront Nights
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: Ross’s Landing
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: Chattanooga Margarita Festival
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: First Horizon Pavilion
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: An Abyss of Lurid Darkness: Artillery on Lookout Mountain
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: Chickamauga & Chattanooga National Military Park
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,021 - INFO - Title: JAWS: THE REVENGE - Beach Movie Night at Chester Frost Park
-2024-08-09 19:30:06,021 - INFO - URL: N/A
-2024-08-09 19:30:06,021 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,021 - INFO - Location: Chester Frost Park Beach
-2024-08-09 19:30:06,021 - INFO - Recurrence: 
-2024-08-09 19:30:06,021 - INFO - Image URL: N/A
-2024-08-09 19:30:06,021 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Toy Story in the Little Debbie Park
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,022 - INFO - Location: Little Debbie Park - Main Pavilion
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: The 2024 MAC Doggie Pool Pawty!
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-10
-2024-08-09 19:30:06,022 - INFO - Location: Carver Community Center
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Buskers Festival
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-11
-2024-08-09 19:30:06,022 - INFO - Location: First Horizon Pavilion
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Sunday Studio: Art Deco Dreams
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-11
-2024-08-09 19:30:06,022 - INFO - Location: Hunter Museum of American Art
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: History Tour (Ruby Falls)
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-12
-2024-08-09 19:30:06,022 - INFO - Location: Ruby Falls
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-14
-2024-08-09 19:30:06,022 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Art Deco And Dance With Ballet Esprit
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-15
-2024-08-09 19:30:06,022 - INFO - Location: Hunter Museum of American Art
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Business After Hours | Big Chicken
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-15
-2024-08-09 19:30:06,022 - INFO - Location: Big Chicken
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: The Concert: A Tribute To ABBA
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-16
-2024-08-09 19:30:06,022 - INFO - Location: Walker Theatre
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Nightfall 2024
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-16
-2024-08-09 19:30:06,022 - INFO - Location: Miller Plaza & Miller Park
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-16
-2024-08-09 19:30:06,022 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Wild Wonders: A Close Encounter with Native Animals
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-16
-2024-08-09 19:30:06,022 - INFO - Location: Reflection Riding Arboretum & Nature Center
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-17
-2024-08-09 19:30:06,022 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Chickamauga Turn
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-17
-2024-08-09 19:30:06,022 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Jamey Johnson @ Soldiers and Sailors Memorial Auditorium
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-17
-2024-08-09 19:30:06,022 - INFO - Location: Soldiers and Sailors Memorial Auditorium
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Riverfront Nights
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-17
-2024-08-09 19:30:06,022 - INFO - Location: Ross’s Landing
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-17
-2024-08-09 19:30:06,022 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Artful Yoga
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-18
-2024-08-09 19:30:06,022 - INFO - Location: Hunter Museum of American Art
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Tennessee Harp Trio Community Concert
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-18
-2024-08-09 19:30:06,022 - INFO - Location: Skyline Loft at Ruby Falls
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: History Tour (Ruby Falls)
-2024-08-09 19:30:06,022 - INFO - URL: N/A
-2024-08-09 19:30:06,022 - INFO - Date: 2024-08-19
-2024-08-09 19:30:06,022 - INFO - Location: Ruby Falls
-2024-08-09 19:30:06,022 - INFO - Recurrence: 
-2024-08-09 19:30:06,022 - INFO - Image URL: N/A
-2024-08-09 19:30:06,022 - INFO - ----------------------------------------
-2024-08-09 19:30:06,022 - INFO - Title: Night Ranger @ Walker Theatre
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-20
-2024-08-09 19:30:06,023 - INFO - Location: Walker Theatre
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-21
-2024-08-09 19:30:06,023 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Nightfall 2024
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-23
-2024-08-09 19:30:06,023 - INFO - Location: Miller Plaza & Miller Park
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-23
-2024-08-09 19:30:06,023 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-24
-2024-08-09 19:30:06,023 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Chickamauga Turn
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-24
-2024-08-09 19:30:06,023 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Riverfront Nights
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-24
-2024-08-09 19:30:06,023 - INFO - Location: Ross’s Landing
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-24
-2024-08-09 19:30:06,023 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Nate Jackson @ Walker Theatre
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-24
-2024-08-09 19:30:06,023 - INFO - Location: Walker Theatre
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Chocolate Festival
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-24
-2024-08-09 19:30:06,023 - INFO - Location: Creative Discovery Museum
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: History Tour (Ruby Falls)
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-26
-2024-08-09 19:30:06,023 - INFO - Location: Ruby Falls
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-28
-2024-08-09 19:30:06,023 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Nightfall 2024
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-30
-2024-08-09 19:30:06,023 - INFO - Location: Miller Plaza & Miller Park
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-30
-2024-08-09 19:30:06,023 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-31
-2024-08-09 19:30:06,023 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Chickamauga Turn
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-31
-2024-08-09 19:30:06,023 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Riverfront Nights
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-31
-2024-08-09 19:30:06,023 - INFO - Location: Ross’s Landing
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-08-31
-2024-08-09 19:30:06,023 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Labor Day Brunch at Whitebird/The Edwin Hotel
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-09-02
-2024-08-09 19:30:06,023 - INFO - Location: Whitebird
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: History Tour (Ruby Falls)
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,023 - INFO - Date: 2024-09-02
-2024-08-09 19:30:06,023 - INFO - Location: Ruby Falls
-2024-08-09 19:30:06,023 - INFO - Recurrence: 
-2024-08-09 19:30:06,023 - INFO - Image URL: N/A
-2024-08-09 19:30:06,023 - INFO - ----------------------------------------
-2024-08-09 19:30:06,023 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,023 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-04
-2024-08-09 19:30:06,024 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Candlelight: Tribute to Beyoncé
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-05
-2024-08-09 19:30:06,024 - INFO - Location: The Beverly Ballroom at Hotel Chalet
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-07
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chickamauga Turn
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-07
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: EVENING RIDGE RUNNER
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-07
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: History Tour (Ruby Falls)
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-09
-2024-08-09 19:30:06,024 - INFO - Location: Ruby Falls
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-11
-2024-08-09 19:30:06,024 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-14
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: History Tour (Ruby Falls)
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-16
-2024-08-09 19:30:06,024 - INFO - Location: Ruby Falls
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-18
-2024-08-09 19:30:06,024 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-21
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chickamauga Turn
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-21
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: 2024 CBD Plus Cannabis Music Festival
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-21
-2024-08-09 19:30:06,024 - INFO - Location: Coolidge Park
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chickamauga Turn
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-22
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: History Tour (Ruby Falls)
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-23
-2024-08-09 19:30:06,024 - INFO - Location: Ruby Falls
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-25
-2024-08-09 19:30:06,024 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Intermission - A celebration of the arts in Chattanooga
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-25
-2024-08-09 19:30:06,024 - INFO - Location: Chattanooga Theater Center
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chickamauga Turn
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-27
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Valley Railroad Museum
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-28
-2024-08-09 19:30:06,024 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: KIC Food Truck Festival & Expo
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-28
-2024-08-09 19:30:06,024 - INFO - Location: Kitchen Incubator of Chattanooga
-2024-08-09 19:30:06,024 - INFO - Recurrence: 
-2024-08-09 19:30:06,024 - INFO - Image URL: N/A
-2024-08-09 19:30:06,024 - INFO - ----------------------------------------
-2024-08-09 19:30:06,024 - INFO - Title: History Tour (Ruby Falls)
-2024-08-09 19:30:06,024 - INFO - URL: N/A
-2024-08-09 19:30:06,024 - INFO - Date: 2024-09-30
-2024-08-09 19:30:06,025 - INFO - Location: Ruby Falls
-2024-08-09 19:30:06,025 - INFO - Recurrence: 
-2024-08-09 19:30:06,025 - INFO - Image URL: N/A
-2024-08-09 19:30:06,025 - INFO - ----------------------------------------
-2024-08-09 19:30:06,025 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,025 - INFO - URL: N/A
-2024-08-09 19:30:06,025 - INFO - Date: 2024-10-02
-2024-08-09 19:30:06,025 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,025 - INFO - Recurrence: 
-2024-08-09 19:30:06,025 - INFO - Image URL: N/A
-2024-08-09 19:30:06,025 - INFO - ----------------------------------------
-2024-08-09 19:30:06,025 - INFO - Title: OVO – a buzzing Cirque du Soleil spectacular
-2024-08-09 19:30:06,025 - INFO - URL: N/A
-2024-08-09 19:30:06,025 - INFO - Date: 2024-10-03
-2024-08-09 19:30:06,025 - INFO - Location: McKenzie Arena
-2024-08-09 19:30:06,025 - INFO - Recurrence: 
-2024-08-09 19:30:06,025 - INFO - Image URL: N/A
-2024-08-09 19:30:06,025 - INFO - ----------------------------------------
-2024-08-09 19:30:06,025 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,025 - INFO - URL: N/A
-2024-08-09 19:30:06,025 - INFO - Date: 2024-10-05
-2024-08-09 19:30:06,025 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,025 - INFO - Recurrence: 
-2024-08-09 19:30:06,025 - INFO - Image URL: N/A
-2024-08-09 19:30:06,025 - INFO - ----------------------------------------
-2024-08-09 19:30:06,025 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,025 - INFO - URL: N/A
-2024-08-09 19:30:06,025 - INFO - Date: 2024-10-09
-2024-08-09 19:30:06,025 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,025 - INFO - Recurrence: 
-2024-08-09 19:30:06,025 - INFO - Image URL: N/A
-2024-08-09 19:30:06,025 - INFO - ----------------------------------------
-2024-08-09 19:30:06,025 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,025 - INFO - URL: N/A
-2024-08-09 19:30:06,025 - INFO - Date: 2024-10-16
-2024-08-09 19:30:06,025 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,025 - INFO - Recurrence: 
-2024-08-09 19:30:06,025 - INFO - Image URL: N/A
-2024-08-09 19:30:06,025 - INFO - ----------------------------------------
-2024-08-09 19:30:06,025 - INFO - Title: Chattanooga River Market
-2024-08-09 19:30:06,025 - INFO - URL: N/A
-2024-08-09 19:30:06,025 - INFO - Date: 2024-10-19
-2024-08-09 19:30:06,025 - INFO - Location: Tennessee Aquarium Plaza
-2024-08-09 19:30:06,025 - INFO - Recurrence: 
-2024-08-09 19:30:06,025 - INFO - Image URL: N/A
-2024-08-09 19:30:06,025 - INFO - ----------------------------------------
-2024-08-09 19:30:06,025 - INFO - Title: Chattanooga Market at Erlanger
-2024-08-09 19:30:06,025 - INFO - URL: N/A
-2024-08-09 19:30:06,025 - INFO - Date: 2024-10-23
-2024-08-09 19:30:06,025 - INFO - Location: Erlanger Medical Mall
-2024-08-09 19:30:06,025 - INFO - Recurrence: 
-2024-08-09 19:30:06,025 - INFO - Image URL: N/A
-2024-08-09 19:30:06,025 - INFO - ----------------------------------------
-2024-08-09 19:30:06,025 - INFO - Fetching and parsing Chattanooga Pulse
-2024-08-09 19:30:06,159 - INFO - Chromedriver is already installed.
-2024-08-09 19:30:06,159 - INFO - ====== WebDriver manager ======
-2024-08-09 19:30:06,239 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:30:06,323 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:30:06,408 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
-2024-08-09 19:30:20,448 - ERROR - Couldn't parse date: Aug 9, 2024 8:00 PM - 11:59 PM
-2024-08-09 19:30:20,448 - ERROR - Couldn't parse date: Aug 9, 2024 7:00 PM - 9:00 PM
-2024-08-09 19:30:20,448 - ERROR - Couldn't parse date: Aug 9, 2024 7:00 PM - 10:00 PM
-2024-08-09 19:30:20,449 - ERROR - Couldn't parse date: Aug 9, 2024 6:00 PM - 8:00 PM
-2024-08-09 19:30:20,449 - ERROR - Couldn't parse date: Aug 9, 2024 5:30 PM - 10:00 PM
-2024-08-09 19:30:20,449 - ERROR - Couldn't parse date: Aug 9, 2024 5:00 PM - 9:00 PM
-2024-08-09 19:30:20,449 - ERROR - Couldn't parse date: Aug 10, 2024 9:30 AM - 12:00 PM
-2024-08-09 19:30:20,450 - ERROR - Couldn't parse date: Aug 10, 2024 10:00 AM - 4:30 PM
-2024-08-09 19:30:20,450 - ERROR - Couldn't parse date: Aug 10, 2024 10:30 AM - 12:00 PM
-2024-08-09 19:30:20,450 - ERROR - Couldn't parse date: Aug 10, 2024 3:00 PM - 11:00 PM
-2024-08-09 19:30:20,450 - ERROR - Couldn't parse date: Aug 10, 2024 6:00 PM - 9:00 PM
-2024-08-09 19:30:20,450 - ERROR - Couldn't parse date: Aug 10, 2024 6:00 PM - 9:00 PM
-2024-08-09 19:30:20,450 - ERROR - Couldn't parse date: Aug 10, 2024 6:00 PM - 9:00 PM
-2024-08-09 19:30:20,450 - ERROR - Couldn't parse date: Aug 10, 2024 7:00 PM - 9:00 PM
-2024-08-09 19:30:20,451 - ERROR - Couldn't parse date: Aug 10, 2024 8:00 PM - 9:30 PM
-2024-08-09 19:30:20,451 - ERROR - Couldn't parse date: Aug 10, 2024 9:00 PM - 11:59 PM
-2024-08-09 19:30:20,451 - INFO - Extracted 20 events from Chattanooga Pulse
-2024-08-09 19:30:20,451 - INFO - Title: Latin Night
-2024-08-09 19:30:20,451 - INFO - URL: N/A
-2024-08-09 19:30:20,451 - INFO - Date: None
-2024-08-09 19:30:20,451 - INFO - Location: Latin Night | Bar Watson | Read more | 
-2024-08-09 19:30:20,451 - INFO - Recurrence: Concerts & Live Music, Theater & Dance
-2024-08-09 19:30:20,451 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/18619/download/Latin%20Night.png?cb=83374c6578362fe2d102e55224ace1a1&w=220&h=
-2024-08-09 19:30:20,451 - INFO - ----------------------------------------
-2024-08-09 19:30:20,451 - INFO - Title: Bat Cave Kayak Tour with Chattanooga Guided Adventures
-2024-08-09 19:30:20,451 - INFO - URL: N/A
-2024-08-09 19:30:20,451 - INFO - Date: None
-2024-08-09 19:30:20,451 - INFO - Location: Bat Cave Kayak Tour with Chattanooga Guided Adventures | Nickajack Bat Cave Maple View Recreation Area | Read more | 
-2024-08-09 19:30:20,451 - INFO - Recurrence: Education & Learning, Kids & Family, Outdoor
-2024-08-09 19:30:20,451 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30592/download/PXL_20240317_231122463.jpg?cb=dc76234db6bf6ac8c662f89b5fa96df7&w=220&h=
-2024-08-09 19:30:20,451 - INFO - ----------------------------------------
-2024-08-09 19:30:20,451 - INFO - Title: Jesse James Junkurth
-2024-08-09 19:30:20,451 - INFO - URL: N/A
-2024-08-09 19:30:20,451 - INFO - Date: None
-2024-08-09 19:30:20,451 - INFO - Location: Jesse James Junkurth | Backstage Bar | Read more | 
-2024-08-09 19:30:20,451 - INFO - Recurrence: Concerts & Live Music
-2024-08-09 19:30:20,451 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/16343/download/Jesse%20James%20Jungkurth.png?cb=d817157cd34c211a4e7067133d5042b6&w=220&h=
-2024-08-09 19:30:20,451 - INFO - ----------------------------------------
-2024-08-09 19:30:20,451 - INFO - Title: Rhyme Over Wine Spoken Word Poetry Open Mic Nights at the Winery
-2024-08-09 19:30:20,451 - INFO - URL: N/A
-2024-08-09 19:30:20,451 - INFO - Date: None
-2024-08-09 19:30:20,451 - INFO - Location: Rhyme Over Wine Spoken Word Poetry Open Mic Nights at the Winery | Lady Naps Winery | Read more
-2024-08-09 19:30:20,451 - INFO - Recurrence: Art & Exhibitions, Education & Learning, Talks & Readings
-2024-08-09 19:30:20,451 - INFO - Image URL: N/A
-2024-08-09 19:30:20,451 - INFO - ----------------------------------------
-2024-08-09 19:30:20,451 - INFO - Title: Nightfall Free Summer Concert Series
-2024-08-09 19:30:20,451 - INFO - URL: N/A
-2024-08-09 19:30:20,451 - INFO - Date: None
-2024-08-09 19:30:20,451 - INFO - Location: Nightfall Free Summer Concert Series | Miller Plaza | Read more | 
-2024-08-09 19:30:20,451 - INFO - Recurrence: Concerts & Live Music, Festivals & Fairs, Kids & Family
-2024-08-09 19:30:20,451 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30275/download/Nightfall%202024.png?cb=ff9543823510f4318dcfddd71fbb45da&w=220&h=
-2024-08-09 19:30:20,451 - INFO - ----------------------------------------
-2024-08-09 19:30:20,451 - INFO - Title: "Home and Away"
-2024-08-09 19:30:20,451 - INFO - URL: N/A
-2024-08-09 19:30:20,451 - INFO - Date: None
-2024-08-09 19:30:20,451 - INFO - Location: "Home and Away" | In-Town Gallery | Read more | 
-2024-08-09 19:30:20,451 - INFO - Recurrence: Art & Exhibitions
-2024-08-09 19:30:20,451 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30541/download/Chattanooga%20collage%20copy.jpeg?cb=79413bc09bafa89826745761c49f6e8d&w=220&h=
-2024-08-09 19:30:20,451 - INFO - ----------------------------------------
-2024-08-09 19:30:20,451 - INFO - Title: Chickamauga Dam Lock Kayak Tour
-2024-08-09 19:30:20,451 - INFO - URL: N/A
-2024-08-09 19:30:20,451 - INFO - Date: 2024-08-09
-2024-08-09 19:30:20,451 - INFO - Location: Chickamauga Dam Lock Kayak Tour | Tennessee Riverpark (Hubert Fry Center Oval) | Read more | 
-2024-08-09 19:30:20,451 - INFO - Recurrence: Education & Learning, Kids & Family, Outdoor
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30593/download/PXL_20240802_155527261%7E3.jpg?cb=acf96a4abe66f86623600a790aa0db53&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Marty Haggard: A Tribute to Merle Haggard "My Dad"
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: 2024-08-10
-2024-08-09 19:30:20,452 - INFO - Location: Marty Haggard: A Tribute to Merle Haggard "My Dad" | Calhoun's GEM Theatre | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Concerts & Live Music
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/28089/download/Marty-Haggard-2024-1024x683.png?cb=78175e58f3a506730d75a39d1f08e4e6&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Chickamauga Dam Lock Kayak Tour
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: 2024-08-10
-2024-08-09 19:30:20,452 - INFO - Location: Chickamauga Dam Lock Kayak Tour | Tennessee Riverpark (Hubert Fry Center Oval) | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Education & Learning, Kids & Family, Outdoor
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30593/download/PXL_20240802_155527261%7E3.jpg?cb=acf96a4abe66f86623600a790aa0db53&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Colors from the Garden: Natural Dyes
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: Colors from the Garden: Natural Dyes | Crabtree Farms | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Art & Exhibitions, Education & Learning, This & That
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30403/download/8.10.24%20-%20Nat%20Dye.png?cb=6c7cf7e2c56755f5a271bb061a67ff4d&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Plum Nelly Depot Art Show
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: Plum Nelly Depot Art Show | Dade County High School Event Center | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Art & Exhibitions, Markets
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/29353/download/plum%20nelly%20art.png?cb=ddf3ee51ffce0943d153a55f08a3bd00&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Beginner I Bachata Dance Course
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: Beginner I Bachata Dance Course | G2G Salsa | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Theater & Dance
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30383/download/1.png?cb=4cec7b6a243f4af676237ed5670d5665&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: JAWS: THE REVENGE - Beach Movie Night at Chester Frost Park
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: JAWS: THE REVENGE - Beach Movie Night at Chester Frost Park | Chester Frost Park Beach | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Kids & Family, Outdoor, This & That
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30581/download/Jaws%20The%20Revenge%208.10.24%20Flyer%20w%20Event%20Page%20QR.png?cb=196043c223630360ad96e8d64c72864e&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Chattanooga Margarita Festival
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: Chattanooga Margarita Festival | First Horizon Pavilion | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Festivals & Fairs
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30005/download/CMF3.jpg?cb=42efe263a9469cc33a3254e0beff23af&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Chattanooga Margarita Festival
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: Chattanooga Margarita Festival | First Horizon Pavilion | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Charity & Fundraisers, Festivals & Fairs, Food & Drink
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/28448/download/Chattanooga%20Margarita%20Festival.png?cb=0a83b136ceeb534e3195a69e25f0681a&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: The Dinner Detective Comedy Mystery Dinner Show
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: The Dinner Detective Comedy Mystery Dinner Show | DoubleTree Chattanooga Hamilton Place | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Comedy, Food & Drink
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/29928/download/72771.jpeg?cb=d076ea6417de50ae36a273548ae987ba&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Bat Cave Kayak Tour with Chattanooga Guided Adventures
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: Bat Cave Kayak Tour with Chattanooga Guided Adventures | Nickajack Bat Cave Maple View Recreation Area | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Education & Learning, Kids & Family, Outdoor
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30592/download/PXL_20240317_231122463.jpg?cb=dc76234db6bf6ac8c662f89b5fa96df7&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Klark Kint
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: Klark Kint | Songbirds | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Concerts & Live Music
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30425/download/Klark%20Kint%20Banner.png?cb=1190096bd5c830d33f5a28971eb2070f&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: No Scrubs: 90s Dance Party
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: None
-2024-08-09 19:30:20,452 - INFO - Location: No Scrubs: 90s Dance Party | The Signal - Concert Hall | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Concerts & Live Music, Theater & Dance
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30221/download/74605.jpeg?cb=9c7e0ba708945a6c6686828a70f23dd1&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Title: Chickamauga Dam Lock Kayak Tour
-2024-08-09 19:30:20,452 - INFO - URL: N/A
-2024-08-09 19:30:20,452 - INFO - Date: 2024-08-11
-2024-08-09 19:30:20,452 - INFO - Location: Chickamauga Dam Lock Kayak Tour | Tennessee Riverpark (Hubert Fry Center Oval) | Read more | 
-2024-08-09 19:30:20,452 - INFO - Recurrence: Education & Learning, Kids & Family, Outdoor
-2024-08-09 19:30:20,452 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30593/download/PXL_20240802_155527261%7E3.jpg?cb=acf96a4abe66f86623600a790aa0db53&w=220&h=
-2024-08-09 19:30:20,452 - INFO - ----------------------------------------
-2024-08-09 19:30:20,452 - INFO - Fetching and parsing Chatt Library
-2024-08-09 19:30:20,578 - INFO - Chromedriver is already installed.
-2024-08-09 19:30:20,578 - INFO - ====== WebDriver manager ======
-2024-08-09 19:30:20,659 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:30:20,744 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:30:20,829 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
-2024-08-09 19:30:37,076 - INFO - Extracted 15 events from Chatt Library
-2024-08-09 19:30:37,076 - INFO - Title: Link Up at the Library with 423 Chain Breakers
-2024-08-09 19:30:37,076 - INFO - URL: https://chattlibrary.org/event/link-up-at-the-library-with-423-chain-breakers/2024-08-09/
-2024-08-09 19:30:37,076 - INFO - Date: N/A
-2024-08-09 19:30:37,076 - INFO - Location: Downtown Library
-2024-08-09 19:30:37,076 - INFO - Recurrence: Link Up at the Library with 423 Chain Breakers
-2024-08-09 19:30:37,076 - INFO - Image URL: N/A
-2024-08-09 19:30:37,076 - INFO - ----------------------------------------
-2024-08-09 19:30:37,076 - INFO - Title: Baby Bounce at Downtown Monday, Thursday and Saturday 10am
-2024-08-09 19:30:37,076 - INFO - URL: https://chattlibrary.org/event/baby-bounce-at-downtown-monday-thursday-and-saturday-10am/2024-08-10/
-2024-08-09 19:30:37,076 - INFO - Date: N/A
-2024-08-09 19:30:37,076 - INFO - Location: Downtown Library
-2024-08-09 19:30:37,076 - INFO - Recurrence: Baby Bounce at Downtown
-2024-08-09 19:30:37,076 - INFO - Image URL: N/A
-2024-08-09 19:30:37,076 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Eastgate Library at Brainerd Farmers’ Market
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/eastgate-library-at-brainerd-farmers-market-2/2024-08-10/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Brainerd Farmers Market
-2024-08-09 19:30:37,077 - INFO - Recurrence: Eastgate Library at Brainerd Farmers’ Market
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Toddler Time at Downtown Monday, Thursday and Saturday 11am
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/toddler-time-at-downtown-monday-thursday-and-saturday-11am/2024-08-10/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Downtown Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Toddler Time at Downtown
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Saturday Skill Seekers: Kickstart Your Career After Graduation!
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/saturday-skill-seekers-3/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Eastgate Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Saturday Skill Seekers
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Art After Dark with the Hunter Museum
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/art-after-dark-with-the-hunter-museum-2/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Downtown Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: N/A
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Sunday Studios at The Hunter Museum
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/sunday-studios-at-the-hunter-museum/2024-08-11/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: The Hunter Museum
-2024-08-09 19:30:37,077 - INFO - Recurrence: Sunday Studio at The Hunter
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Baby Bounce at Downtown Monday, Thursday and Saturday 10am
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/baby-bounce-at-downtown-monday-thursday-and-saturday-10am/2024-08-12/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Downtown Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Baby Bounce at Downtown
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Music & Movement Eastgate
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/music-movement-eastgate/2024-08-12/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Eastgate Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Music & Movement Eastgate
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Toddler Time at Downtown Monday, Thursday and Saturday 11am
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/toddler-time-at-downtown-monday-thursday-and-saturday-11am/2024-08-12/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Downtown Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Toddler Time at Downtown
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Full Steam Ahead South Chatt
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/full-steam-ahead-south-chatt/2024-08-12/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: South Chattanooga Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Full Steam Ahead South Chatt
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Eastgate Authors
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/eastgate-authors/2024-08-12/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Eastgate Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Eastgate Authors
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Toddler Time at Downtown Tuesday 10am
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/toddler-time-at-downtown-tuesday-10am/2024-08-13/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Downtown Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Toddler Time at Downtown
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Baby Bounce at Eastgate Tuesday 10am
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/baby-bounce-at-eastgate-tuesday-10am/2024-08-13/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Eastgate Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Baby Bounce at Eastgate
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Title: Preschool Storytime at Northgate Tuesday 10am
-2024-08-09 19:30:37,077 - INFO - URL: https://chattlibrary.org/event/preschool-storytime-at-northgate-tuesday-10am/2024-08-13/
-2024-08-09 19:30:37,077 - INFO - Date: N/A
-2024-08-09 19:30:37,077 - INFO - Location: Northgate Library
-2024-08-09 19:30:37,077 - INFO - Recurrence: Preschool Storytime at Northgate
-2024-08-09 19:30:37,077 - INFO - Image URL: N/A
-2024-08-09 19:30:37,077 - INFO - ----------------------------------------
-2024-08-09 19:30:37,077 - INFO - Fetching and parsing Chattanooga Chamber
-2024-08-09 19:30:37,213 - INFO - Chromedriver is already installed.
-2024-08-09 19:30:37,214 - INFO - ====== WebDriver manager ======
-2024-08-09 19:30:37,300 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:30:37,387 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:30:37,486 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
-2024-08-09 19:30:46,241 - INFO - Extracted 5 events from Chattanooga Chamber
-2024-08-09 19:30:46,241 - INFO - Title: Ribbon Cutting for Acme Fusion Cafe
-2024-08-09 19:30:46,241 - INFO - URL: N/A
-2024-08-09 19:30:46,241 - INFO - Date: N/A
-2024-08-09 19:30:46,241 - INFO - Location: 12p Ribbon Cutting for Acme Fusion Cafe
-2024-08-09 19:30:46,241 - INFO - Recurrence: 12p Ribbon Cutting for Acme Fusion Cafe
-2024-08-09 19:30:46,241 - INFO - Image URL: N/A
-2024-08-09 19:30:46,241 - INFO - ----------------------------------------
-2024-08-09 19:30:46,241 - INFO - Title: Downtown Council
-2024-08-09 19:30:46,241 - INFO - URL: N/A
-2024-08-09 19:30:46,241 - INFO - Date: N/A
-2024-08-09 19:30:46,241 - INFO - Location: 7:30a Downtown Council
-2024-08-09 19:30:46,241 - INFO - Recurrence: 7:30a Downtown Council
-2024-08-09 19:30:46,241 - INFO - Image URL: N/A
-2024-08-09 19:30:46,241 - INFO - ----------------------------------------
-2024-08-09 19:30:46,241 - INFO - Title: Ooltewah/Collegedale Council Coffee
-2024-08-09 19:30:46,241 - INFO - URL: N/A
-2024-08-09 19:30:46,241 - INFO - Date: N/A
-2024-08-09 19:30:46,241 - INFO - Location: 8:30a Ooltewah/Collegedale Council Coffee
-2024-08-09 19:30:46,241 - INFO - Recurrence: 8:30a Ooltewah/Collegedale Council Coffee
-2024-08-09 19:30:46,241 - INFO - Image URL: N/A
-2024-08-09 19:30:46,241 - INFO - ----------------------------------------
-2024-08-09 19:30:46,241 - INFO - Title: Tropical Smoothie Cafe
-2024-08-09 19:30:46,241 - INFO - URL: N/A
-2024-08-09 19:30:46,241 - INFO - Date: N/A
-2024-08-09 19:30:46,241 - INFO - Location: 9a Tropical Smoothie Cafe
-2024-08-09 19:30:46,241 - INFO - Recurrence: 9a Tropical Smoothie Cafe
-2024-08-09 19:30:46,241 - INFO - Image URL: N/A
-2024-08-09 19:30:46,241 - INFO - ----------------------------------------
-2024-08-09 19:30:46,241 - INFO - Title: East Ridge Council Meeting
-2024-08-09 19:30:46,241 - INFO - URL: N/A
-2024-08-09 19:30:46,242 - INFO - Date: N/A
-2024-08-09 19:30:46,242 - INFO - Location: 11:30a East Ridge Council Meeting
-2024-08-09 19:30:46,242 - INFO - Recurrence: 11:30a East Ridge Council Meeting
-2024-08-09 19:30:46,242 - INFO - Image URL: N/A
-2024-08-09 19:30:46,242 - INFO - ----------------------------------------
-2024-08-09 19:30:46,242 - INFO - Fetching and parsing CHA Guide Things To Do
-2024-08-09 19:30:46,385 - INFO - Chromedriver is already installed.
-2024-08-09 19:30:46,385 - INFO - ====== WebDriver manager ======
-2024-08-09 19:30:46,460 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:30:46,551 - INFO - Get LATEST chromedriver version for google-chrome
-2024-08-09 19:30:46,640 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
-2024-08-09 19:30:59,954 - INFO - Extracted 6 events from CHA Guide Things To Do
-2024-08-09 19:30:59,954 - INFO - Title: Nightfall 2024
-2024-08-09 19:30:59,955 - INFO - URL: N/A
-2024-08-09 19:30:59,955 - INFO - Date: 2024-08-09
-2024-08-09 19:30:59,955 - INFO - Location: Miller Plaza & Miller Park
-2024-08-09 19:30:59,955 - INFO - Recurrence: N/A
-2024-08-09 19:30:59,955 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/6650756de1e1f46876dfaf36_nightfall.png
-2024-08-09 19:30:59,955 - INFO - ----------------------------------------
-2024-08-09 19:30:59,955 - INFO - Title: Riverfront Nights
-2024-08-09 19:30:59,955 - INFO - URL: N/A
-2024-08-09 19:30:59,955 - INFO - Date: 2024-08-10
-2024-08-09 19:30:59,955 - INFO - Location: Ross’s Landing
-2024-08-09 19:30:59,955 - INFO - Recurrence: N/A
-2024-08-09 19:30:59,955 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/66506dc8c3a254ae79e4be1c_riverfrontnigghts.png
-2024-08-09 19:30:59,955 - INFO - ----------------------------------------
-2024-08-09 19:30:59,955 - INFO - Title: Chattanooga Margarita Festival
-2024-08-09 19:30:59,955 - INFO - URL: N/A
-2024-08-09 19:30:59,955 - INFO - Date: 2024-08-10
-2024-08-09 19:30:59,955 - INFO - Location: First Horizon Pavilion
-2024-08-09 19:30:59,955 - INFO - Recurrence: N/A
-2024-08-09 19:30:59,955 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/66b517060d513bd2f5117de7_margarita.png
-2024-08-09 19:30:59,955 - INFO - ----------------------------------------
-2024-08-09 19:30:59,955 - INFO - Title: Buskers Festival
-2024-08-09 19:30:59,955 - INFO - URL: N/A
-2024-08-09 19:30:59,955 - INFO - Date: 2024-08-11
-2024-08-09 19:30:59,955 - INFO - Location: First Horizon Pavilion
-2024-08-09 19:30:59,955 - INFO - Recurrence: N/A
-2024-08-09 19:30:59,955 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/66b5d1d4fd2116a3e3e8e431_buskers.png
-2024-08-09 19:30:59,955 - INFO - ----------------------------------------
-2024-08-09 19:30:59,955 - INFO - Title: Nightfall 2024
-2024-08-09 19:30:59,955 - INFO - URL: N/A
-2024-08-09 19:30:59,955 - INFO - Date: 2024-08-16
-2024-08-09 19:30:59,955 - INFO - Location: Miller Plaza & Miller Park
-2024-08-09 19:30:59,955 - INFO - Recurrence: N/A
-2024-08-09 19:30:59,955 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/6650756de1e1f46876dfaf36_nightfall.png
-2024-08-09 19:30:59,955 - INFO - ----------------------------------------
-2024-08-09 19:30:59,955 - INFO - Title: Riverfront Nights
-2024-08-09 19:30:59,955 - INFO - URL: N/A
-2024-08-09 19:30:59,955 - INFO - Date: 2024-08-17
-2024-08-09 19:30:59,955 - INFO - Location: Ross’s Landing
-2024-08-09 19:30:59,955 - INFO - Recurrence: N/A
-2024-08-09 19:30:59,955 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/66506dc8c3a254ae79e4be1c_riverfrontnigghts.png
-2024-08-09 19:30:59,955 - INFO - ----------------------------------------
+2024-08-19 11:09:18,767 - INFO - Fetching and parsing Visit Chattanooga
+2024-08-19 11:09:18,907 - INFO - Chromedriver is already installed.
+2024-08-19 11:09:18,907 - INFO - ====== WebDriver manager ======
+2024-08-19 11:09:18,963 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:09:19,048 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:09:19,138 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-19 11:09:35,505 - INFO - Extracted 12 events from Visit Chattanooga
+2024-08-19 11:09:35,505 - INFO - Title: Chickamauga Dam Lock Through Kayak Tour with Chattanooga Guided Adventures
+2024-08-19 11:09:35,505 - INFO - URL: N/A
+2024-08-19 11:09:35,505 - INFO - Date: 2024-08-19
+2024-08-19 11:09:35,505 - INFO - Location: Hubert Fry Center Boatramp
+2024-08-19 11:09:35,505 - INFO - Recurrence: Recurring daily until November 10, 2024
+2024-08-19 11:09:35,505 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/CGA-Chickamanga_17047717-561C-4434-B479C10F432C4937_42bd9946-ca66-4b83-9259ff2418b75f33.jpg
+2024-08-19 11:09:35,505 - INFO - ----------------------------------------
+2024-08-19 11:09:35,505 - INFO - Title: Exhibit Admission
+2024-08-19 11:09:35,505 - INFO - URL: N/A
+2024-08-19 11:09:35,505 - INFO - Date: 2024-08-19
+2024-08-19 11:09:35,505 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:35,505 - INFO - Recurrence: Recurring daily until December 23, 2024
+2024-08-19 11:09:35,505 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Tennessee-Valley-Railroad-Museum-Exhibit-Building-03-scaled_4F4495E7-023E-49F5-89D214567AE32153_fc60f811-20ec-4b1f-80574d7f0d0d1c4a.jpg
+2024-08-19 11:09:35,505 - INFO - ----------------------------------------
+2024-08-19 11:09:35,505 - INFO - Title: Mountain Bike Rental with Chattanooga Guided Adventures
+2024-08-19 11:09:35,505 - INFO - URL: N/A
+2024-08-19 11:09:35,505 - INFO - Date: 2024-08-19
+2024-08-19 11:09:35,505 - INFO - Location: Chattanooga Guided Adventures
+2024-08-19 11:09:35,505 - INFO - Recurrence: Recurring daily until January 21, 2025
+2024-08-19 11:09:35,505 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Incline-Railway-Bike-Tour_E81C8BF8-A9AE-4386-99A3AE8E86E6EFF0_8c1b23e6-485b-4296-9d4b5d7719fd0143.jpg
+2024-08-19 11:09:35,505 - INFO - ----------------------------------------
+2024-08-19 11:09:35,505 - INFO - Title: Nickajack Bat Cave Kayak Tour with Chattanooga Guided Adventures
+2024-08-19 11:09:35,505 - INFO - URL: N/A
+2024-08-19 11:09:35,505 - INFO - Date: 2024-08-19
+2024-08-19 11:09:35,505 - INFO - Location: Chattanooga Guided Adventures
+2024-08-19 11:09:35,505 - INFO - Recurrence: Recurring daily until October 13, 2024
+2024-08-19 11:09:35,505 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Nickajack-Bat-Cave-Sunset-Kayak-Tour_6F28E129-02C9-4D96-A9031235E67BFB56_4fca779d-b1b8-4613-9d4c7a0faa9487a5.jpg
+2024-08-19 11:09:35,505 - INFO - ----------------------------------------
+2024-08-19 11:09:35,505 - INFO - Title: Ruby Falls History Exhibit: Celebrating 95 Years of Wonder!
+2024-08-19 11:09:35,505 - INFO - URL: N/A
+2024-08-19 11:09:35,505 - INFO - Date: 2024-08-19
+2024-08-19 11:09:35,505 - INFO - Location: Ruby Falls
+2024-08-19 11:09:35,505 - INFO - Recurrence: Recurring daily until October 20, 2024
+2024-08-19 11:09:35,505 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/exhibit_67559FE5-978B-483E-8D00CCB039CDF985_42d2cd7d-a013-4fa8-9169c14e67bb5dcb.jpg
+2024-08-19 11:09:35,505 - INFO - ----------------------------------------
+2024-08-19 11:09:35,505 - INFO - Title: "Home and Away"
+2024-08-19 11:09:35,505 - INFO - URL: N/A
+2024-08-19 11:09:35,505 - INFO - Date: 2024-08-19
+2024-08-19 11:09:35,505 - INFO - Location: In-Town Gallery
+2024-08-19 11:09:35,505 - INFO - Recurrence: Recurring daily until August 31, 2024
+2024-08-19 11:09:35,505 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Chattanooga-collage-copy_3A4D3FC1-A17E-974B-6BF212B8FF3C24B0_3a55b2a8-c680-313c-36860ca4ad8df2c3.jpg
+2024-08-19 11:09:35,505 - INFO - ----------------------------------------
+2024-08-19 11:09:35,505 - INFO - Title: History Tour - New Cave Adventure!
+2024-08-19 11:09:35,505 - INFO - URL: N/A
+2024-08-19 11:09:35,506 - INFO - Date: 2024-08-19
+2024-08-19 11:09:35,506 - INFO - Location: Ruby Falls
+2024-08-19 11:09:35,506 - INFO - Recurrence: N/A
+2024-08-19 11:09:35,506 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/History-Tour_03F38BD5-B899-4F31-B99475A7612C4AB1_ce536786-a5b0-44cc-85359e8800fa2601.jpg
+2024-08-19 11:09:35,506 - INFO - ----------------------------------------
+2024-08-19 11:09:35,506 - INFO - Title: Live Music every Tuesday & Saturday at Honey Seed
+2024-08-19 11:09:35,506 - INFO - URL: N/A
+2024-08-19 11:09:35,506 - INFO - Date: 2024-08-20
+2024-08-19 11:09:35,506 - INFO - Location: Honey Seed
+2024-08-19 11:09:35,506 - INFO - Recurrence: Recurring weekly on Tuesday, Saturday until February 25, 2025
+2024-08-19 11:09:35,506 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/honey-seed-exterior_CE982A8C-E97E-161D-6083B678CC18FA38_ce9a56a4-f41a-b43c-1cf05085385a5eff.jpg
+2024-08-19 11:09:35,506 - INFO - ----------------------------------------
+2024-08-19 11:09:35,506 - INFO - Title: Night Ranger Live In Concert
+2024-08-19 11:09:35,506 - INFO - URL: N/A
+2024-08-19 11:09:35,506 - INFO - Date: 2024-08-20
+2024-08-19 11:09:35,506 - INFO - Location: Walker Theatre
+2024-08-19 11:09:35,506 - INFO - Recurrence: N/A
+2024-08-19 11:09:35,506 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/Night-Ranger1_DA072D6B-92D7-35B3-73FF2DCE8FCF75A1_da091080-c8fd-bad9-370f64b94e15a55a.jpg
+2024-08-19 11:09:35,506 - INFO - ----------------------------------------
+2024-08-19 11:09:35,506 - INFO - Title: Live Music with Eric Kirkendoll
+2024-08-19 11:09:35,506 - INFO - URL: N/A
+2024-08-19 11:09:35,506 - INFO - Date: 2024-08-21
+2024-08-19 11:09:35,506 - INFO - Location: 1885 Grill
+2024-08-19 11:09:35,506 - INFO - Recurrence: N/A
+2024-08-19 11:09:35,506 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/eric-kirkandoll-2_C2A0F1A0-B001-0925-70F691E259936ECE_c2a9e134-deb8-87d6-b0f501363fda98ba.jpg
+2024-08-19 11:09:35,506 - INFO - ----------------------------------------
+2024-08-19 11:09:35,506 - INFO - Title: Pic-O-Dixie Senior Classic
+2024-08-19 11:09:35,506 - INFO - URL: N/A
+2024-08-19 11:09:35,506 - INFO - Date: 2024-08-21
+2024-08-19 11:09:35,506 - INFO - Location: Summit of Softball Complex
+2024-08-19 11:09:35,506 - INFO - Recurrence: Recurring daily until August 25, 2024
+2024-08-19 11:09:35,506 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/ISSA-logo_200CA104-E59D-B67D-32CB0270A86C1EB7_20126d66-f2a7-2bdd-3b0d43879d7ae657.jpg
+2024-08-19 11:09:35,506 - INFO - ----------------------------------------
+2024-08-19 11:09:35,506 - INFO - Title: Songwriters Collective
+2024-08-19 11:09:35,506 - INFO - URL: N/A
+2024-08-19 11:09:35,506 - INFO - Date: 2024-08-21
+2024-08-19 11:09:35,506 - INFO - Location: Gate 11 Distillery
+2024-08-19 11:09:35,506 - INFO - Recurrence: Recurring monthly on the 3rd Wednesday until August 21, 2024
+2024-08-19 11:09:35,506 - INFO - Image URL: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_227,q_75,w_340/v1/crm/chattanooga/collective-poster-2023_02248263-B6D4-F10B-165290B29A5310AC_02757aaa-a2a5-06b9-4a4545d66fc345a3.jpg
+2024-08-19 11:09:35,506 - INFO - ----------------------------------------
+2024-08-19 11:09:35,506 - INFO - Fetching and parsing CHA Guide Events
+2024-08-19 11:09:35,641 - INFO - Chromedriver is already installed.
+2024-08-19 11:09:35,641 - INFO - ====== WebDriver manager ======
+2024-08-19 11:09:35,754 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:09:35,845 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:09:35,931 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-19 11:09:56,124 - INFO - Extracted 80 events from CHA Guide Events
+2024-08-19 11:09:56,124 - INFO - Title: History Tour (Ruby Falls)
+2024-08-19 11:09:56,124 - INFO - URL: N/A
+2024-08-19 11:09:56,124 - INFO - Date: 2024-08-19
+2024-08-19 11:09:56,124 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,124 - INFO - Recurrence: 
+2024-08-19 11:09:56,124 - INFO - Image URL: N/A
+2024-08-19 11:09:56,124 - INFO - ----------------------------------------
+2024-08-19 11:09:56,124 - INFO - Title: Night Ranger @ Walker Theatre
+2024-08-19 11:09:56,124 - INFO - URL: N/A
+2024-08-19 11:09:56,124 - INFO - Date: 2024-08-20
+2024-08-19 11:09:56,124 - INFO - Location: Walker Theatre
+2024-08-19 11:09:56,124 - INFO - Recurrence: 
+2024-08-19 11:09:56,124 - INFO - Image URL: N/A
+2024-08-19 11:09:56,124 - INFO - ----------------------------------------
+2024-08-19 11:09:56,124 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-19 11:09:56,124 - INFO - URL: N/A
+2024-08-19 11:09:56,124 - INFO - Date: 2024-08-21
+2024-08-19 11:09:56,124 - INFO - Location: Erlanger Medical Mall
+2024-08-19 11:09:56,124 - INFO - Recurrence: 
+2024-08-19 11:09:56,124 - INFO - Image URL: N/A
+2024-08-19 11:09:56,124 - INFO - ----------------------------------------
+2024-08-19 11:09:56,124 - INFO - Title: Jazz Futures
+2024-08-19 11:09:56,124 - INFO - URL: N/A
+2024-08-19 11:09:56,124 - INFO - Date: 2024-08-22
+2024-08-19 11:09:56,124 - INFO - Location: Songbirds
+2024-08-19 11:09:56,124 - INFO - Recurrence: 
+2024-08-19 11:09:56,124 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-22
+2024-08-19 11:09:56,125 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: The Guess Who in Chattanooga
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-22
+2024-08-19 11:09:56,125 - INFO - Location: Walker Theatre
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Nightfall 2024
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-23
+2024-08-19 11:09:56,125 - INFO - Location: Miller Plaza & Miller Park
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-23
+2024-08-19 11:09:56,125 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-23
+2024-08-19 11:09:56,125 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Mold! / Briteboy / The Ego Museum - Live at Yellow Racket!
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-23
+2024-08-19 11:09:56,125 - INFO - Location: Yellow Racket Records
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Nightlife: Aquarium After-Hours
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-23
+2024-08-19 11:09:56,125 - INFO - Location: Tennessee Aquarium
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Patrick Sweany @ Songbirds
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-23
+2024-08-19 11:09:56,125 - INFO - Location: Songbirds
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Chattanooga River Market
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Tennessee Aquarium Plaza
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Chickamauga Turn
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Riverfront Nights
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Ross’s Landing
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Nate Jackson @ Walker Theatre
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Walker Theatre
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Chocolate Festival
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Creative Discovery Museum
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: OPEN SCRIBZ OPEN MIC
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Songbirds
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Rail & Hops Brewers Festival
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Chattanooga Choo Choo - Glenn Miller Gardens
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: The Zeitgeist
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Chattanooga Choo Choo (Corner Pocket)
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Inaugural Watermelon Festival
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Old McDonald Farm
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: Chocolate Festival
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-24
+2024-08-19 11:09:56,125 - INFO - Location: Creative Discovery Museum
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-25
+2024-08-19 11:09:56,125 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,125 - INFO - Recurrence: 
+2024-08-19 11:09:56,125 - INFO - Image URL: N/A
+2024-08-19 11:09:56,125 - INFO - ----------------------------------------
+2024-08-19 11:09:56,125 - INFO - Title: SHADES OF POETRY ARTIST TALK AND PERFORMANCE SHOWCASE
+2024-08-19 11:09:56,125 - INFO - URL: N/A
+2024-08-19 11:09:56,125 - INFO - Date: 2024-08-25
+2024-08-19 11:09:56,126 - INFO - Location: RISE Chattanooga
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: History Tour (Ruby Falls)
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-26
+2024-08-19 11:09:56,126 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-28
+2024-08-19 11:09:56,126 - INFO - Location: Erlanger Medical Mall
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Ben Sollee @ Songbirds
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-28
+2024-08-19 11:09:56,126 - INFO - Location: Songbirds
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-29
+2024-08-19 11:09:56,126 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: National Treasures: Party at Point Park
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-29
+2024-08-19 11:09:56,126 - INFO - Location: Point Park
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Nightfall 2024
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-30
+2024-08-19 11:09:56,126 - INFO - Location: Miller Plaza & Miller Park
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-30
+2024-08-19 11:09:56,126 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-30
+2024-08-19 11:09:56,126 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Yoga On The Bluff
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-30
+2024-08-19 11:09:56,126 - INFO - Location: Lula Lake Land Trust
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Chattanooga River Market
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-31
+2024-08-19 11:09:56,126 - INFO - Location: Tennessee Aquarium Plaza
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Chickamauga Turn
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-31
+2024-08-19 11:09:56,126 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Riverfront Nights
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-31
+2024-08-19 11:09:56,126 - INFO - Location: Ross’s Landing
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-31
+2024-08-19 11:09:56,126 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Battle of the Food Trucks Festival
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-31
+2024-08-19 11:09:56,126 - INFO - Location: Camp Jordan Arena & Arena Parking Lot
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: The Grand Market
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-31
+2024-08-19 11:09:56,126 - INFO - Location: Coolidge Park
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Open Gate Day
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-08-31
+2024-08-19 11:09:56,126 - INFO - Location: Lula Lake Land Trust
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-09-01
+2024-08-19 11:09:56,126 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Open Gate Day
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-09-01
+2024-08-19 11:09:56,126 - INFO - Location: Lula Lake Land Trust
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Labor Day Brunch at Whitebird/The Edwin Hotel
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-09-02
+2024-08-19 11:09:56,126 - INFO - Location: Whitebird
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: History Tour (Ruby Falls)
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-09-02
+2024-08-19 11:09:56,126 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,126 - INFO - ----------------------------------------
+2024-08-19 11:09:56,126 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-19 11:09:56,126 - INFO - URL: N/A
+2024-08-19 11:09:56,126 - INFO - Date: 2024-09-04
+2024-08-19 11:09:56,126 - INFO - Location: Erlanger Medical Mall
+2024-08-19 11:09:56,126 - INFO - Recurrence: 
+2024-08-19 11:09:56,126 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Candlelight: Tribute to Beyoncé
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-05
+2024-08-19 11:09:56,127 - INFO - Location: The Beverly Ballroom at Hotel Chalet
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-05
+2024-08-19 11:09:56,127 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Daniel Champagne @ Songbirds
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-05
+2024-08-19 11:09:56,127 - INFO - Location: Songbirds
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-06
+2024-08-19 11:09:56,127 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Citizens @ Songbirds
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-06
+2024-08-19 11:09:56,127 - INFO - Location: Songbirds
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Chattanooga River Market
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Tennessee Aquarium Plaza
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Chickamauga Turn
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: EVENING RIDGE RUNNER
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: BEND & BOOCH ( YOGA X KOMBUCHA)
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Chattanooga Culture
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Fall Market at the Greenway
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Greenway Park & Pavilion
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Chickamauga Jeep and Music Fest
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: The Shops of 1910
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Open Gate Day
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Lula Lake Land Trust
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Open Gate Day
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Lula Lake Land Trust
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Surviving & Thriving 2024- EXHIBITORS
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-07
+2024-08-19 11:09:56,127 - INFO - Location: Chattanooga State Community College - Health Science Center
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-08
+2024-08-19 11:09:56,127 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Grandparents' Day @ CDM
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-08
+2024-08-19 11:09:56,127 - INFO - Location: Creative Discovery Museum
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Alison Brown @ Songbirds
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-08
+2024-08-19 11:09:56,127 - INFO - Location: Songbirds
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: History Tour (Ruby Falls)
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-09
+2024-08-19 11:09:56,127 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-11
+2024-08-19 11:09:56,127 - INFO - Location: Erlanger Medical Mall
+2024-08-19 11:09:56,127 - INFO - Recurrence: 
+2024-08-19 11:09:56,127 - INFO - Image URL: N/A
+2024-08-19 11:09:56,127 - INFO - ----------------------------------------
+2024-08-19 11:09:56,127 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-19 11:09:56,127 - INFO - URL: N/A
+2024-08-19 11:09:56,127 - INFO - Date: 2024-09-12
+2024-08-19 11:09:56,127 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-13
+2024-08-19 11:09:56,128 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: Southern Drawl — Music + Food Series @ Songbirds
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-13
+2024-08-19 11:09:56,128 - INFO - Location: Songbirds
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: Mali Velasquez, Bloomsday
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-13
+2024-08-19 11:09:56,128 - INFO - Location: Cherry Street Tavern
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: Chattanooga River Market
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-14
+2024-08-19 11:09:56,128 - INFO - Location: Tennessee Aquarium Plaza
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-14
+2024-08-19 11:09:56,128 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: Andy McKee with Trevor Gordon Hall @ Songbirds
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-14
+2024-08-19 11:09:56,128 - INFO - Location: Songbirds
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: Paddle for PanCAN 2024
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-14
+2024-08-19 11:09:56,128 - INFO - Location: Suck Creek Boat Launch
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-15
+2024-08-19 11:09:56,128 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: History Tour (Ruby Falls)
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-16
+2024-08-19 11:09:56,128 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: Chattanooga Market at Erlanger
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-18
+2024-08-19 11:09:56,128 - INFO - Location: Erlanger Medical Mall
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: Gentle Walking Tour (Ruby Falls)
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-19
+2024-08-19 11:09:56,128 - INFO - Location: Ruby Falls
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Title: THE HOMEFRONT TEA ROOM
+2024-08-19 11:09:56,128 - INFO - URL: N/A
+2024-08-19 11:09:56,128 - INFO - Date: 2024-09-20
+2024-08-19 11:09:56,128 - INFO - Location: Tennessee Valley Railroad Museum
+2024-08-19 11:09:56,128 - INFO - Recurrence: 
+2024-08-19 11:09:56,128 - INFO - Image URL: N/A
+2024-08-19 11:09:56,128 - INFO - ----------------------------------------
+2024-08-19 11:09:56,128 - INFO - Fetching and parsing Chattanooga Pulse
+2024-08-19 11:09:56,261 - INFO - Chromedriver is already installed.
+2024-08-19 11:09:56,261 - INFO - ====== WebDriver manager ======
+2024-08-19 11:09:56,347 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:09:56,439 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:09:56,527 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-19 11:10:10,563 - ERROR - Couldn't parse date: Aug 19, 2024 7:00 PM - 9:00 PM
+2024-08-19 11:10:10,563 - ERROR - Couldn't parse date: Aug 19, 2024 8:00 PM - 10:00 PM
+2024-08-19 11:10:10,563 - ERROR - Couldn't parse date: Aug 19, 2024 8:45 PM - 10:44 PM
+2024-08-19 11:10:10,564 - ERROR - Couldn't parse date: Aug 20, 2024 6:00 PM - 7:00 PM
+2024-08-19 11:10:10,564 - ERROR - Couldn't parse date: Aug 20, 2024 7:00 PM - 8:30 PM
+2024-08-19 11:10:10,564 - ERROR - Couldn't parse date: Aug 20, 2024 7:00 PM - 8:30 PM
+2024-08-19 11:10:10,564 - ERROR - Couldn't parse date: Aug 20, 2024 7:00 PM - 9:00 PM
+2024-08-19 11:10:10,564 - ERROR - Couldn't parse date: Aug 20, 2024 8:45 PM - 10:44 PM
+2024-08-19 11:10:10,565 - ERROR - Couldn't parse date: Aug 21, 2024 4:00 PM - 6:00 PM
+2024-08-19 11:10:10,565 - ERROR - Couldn't parse date: Aug 21, 2024 6:00 PM - 8:00 PM
+2024-08-19 11:10:10,565 - ERROR - Couldn't parse date: Aug 21, 2024 6:00 PM - 9:00 PM
+2024-08-19 11:10:10,565 - ERROR - Couldn't parse date: Aug 21, 2024 6:30 PM - 10:00 PM
+2024-08-19 11:10:10,565 - ERROR - Couldn't parse date: Aug 21, 2024 7:00 PM - 9:00 PM
+2024-08-19 11:10:10,565 - ERROR - Couldn't parse date: Aug 21, 2024 7:00 PM - 9:00 PM
+2024-08-19 11:10:10,565 - ERROR - Couldn't parse date: Aug 21, 2024 8:45 PM - 10:44 PM
+2024-08-19 11:10:10,566 - INFO - Extracted 20 events from Chattanooga Pulse
+2024-08-19 11:10:10,566 - INFO - Title: Chickamauga Dam Lock Kayak Tour
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: 2024-08-19
+2024-08-19 11:10:10,566 - INFO - Location: Tennessee Riverpark (Hubert Fry Center Oval)
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30593/download/PXL_20240802_155527261%7E3.jpg?cb=acf96a4abe66f86623600a790aa0db53&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Bat Cave Kayak Tour with Chattanooga Guided Adventures
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: Nickajack Bat Cave Maple View Recreation Area
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30592/download/PXL_20240317_231122463.jpg?cb=dc76234db6bf6ac8c662f89b5fa96df7&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Gate 11 Monday Night Blues Jam
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: Gate 11 Distillery
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/26536/download/346267141_793828828666148_8086156455016631366_n.jpg?cb=3c93c436848f16af9266385cc275f4b8&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Alien: Romulus in IMAX!
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: Tennessee Aquarium IMAX 3D Theater
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30682/download/ALN-TF-RainElevator%20%281%29.jpg?cb=152e292048143728eaa94c7cddb2e831&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Chickamauga Dam Lock Kayak Tour
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: 2024-08-20
+2024-08-19 11:10:10,566 - INFO - Location: Tennessee Riverpark (Hubert Fry Center Oval)
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30593/download/PXL_20240802_155527261%7E3.jpg?cb=acf96a4abe66f86623600a790aa0db53&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Joggers & Lagers
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: Chattanooga Brewing Company
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/16190/download/joggers%20%26%20lagers.png?cb=ccf918643a4c2d1a569ebfe82f3ddd7c&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Paths to Pints along the Riverwalk
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: 2024-08-20
+2024-08-19 11:10:10,566 - INFO - Location: The Tap House
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/16001/download/Paths%20to%20Pints.png?cb=7f42636cc48cbabbf35f99d0f4b8e3ae&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Danimal And Friends
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: Backstage Bar
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/16361/download/Danimal%20And%20Friends%202.png?cb=ef6c5023aa32382083cfe862b4bbe0ea&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Introduction to Calm Abiding Meditation
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: St Andrews Center
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/29818/download/IMG_2882.jpeg?cb=b0051075fdfe7f7f4641797a5610fde5&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Bat Cave Kayak Tour with Chattanooga Guided Adventures
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: Nickajack Bat Cave Maple View Recreation Area
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30592/download/PXL_20240317_231122463.jpg?cb=dc76234db6bf6ac8c662f89b5fa96df7&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Alien: Romulus in IMAX!
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: Tennessee Aquarium IMAX 3D Theater
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30682/download/ALN-TF-RainElevator%20%281%29.jpg?cb=152e292048143728eaa94c7cddb2e831&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Chickamauga Dam Lock Kayak Tour
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: 2024-08-21
+2024-08-19 11:10:10,566 - INFO - Location: Tennessee Riverpark (Hubert Fry Center Oval)
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30593/download/PXL_20240802_155527261%7E3.jpg?cb=acf96a4abe66f86623600a790aa0db53&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Main Street Farmers Market
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: Chattanooga Brewing Company
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/15605/download/main%20street%20market%20new.png?cb=ae85f55f8c57352275b7718935c83aef&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Live Music with Eric Kirkendoll
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: 1885 Grill
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/18420/download/Eric%20Kirkendoll.png?cb=56fd15f4d079d6cc1ae39c0a10d88195&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,566 - INFO - Title: Fleet Feet x Oddstory Pub Run
+2024-08-19 11:10:10,566 - INFO - URL: N/A
+2024-08-19 11:10:10,566 - INFO - Date: None
+2024-08-19 11:10:10,566 - INFO - Location: OddStory Brewing Co.
+2024-08-19 11:10:10,566 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,566 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/18577/download/Pub%20Run.png?cb=adfa6e4260dd70031c50bc38ec6f0462&w=220&h=
+2024-08-19 11:10:10,566 - INFO - ----------------------------------------
+2024-08-19 11:10:10,567 - INFO - Title: Board Game Night
+2024-08-19 11:10:10,567 - INFO - URL: N/A
+2024-08-19 11:10:10,567 - INFO - Date: None
+2024-08-19 11:10:10,567 - INFO - Location: Barley Chattanooga
+2024-08-19 11:10:10,567 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,567 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/16188/download/Board%20Game%20Night.png?cb=1a9eb7353456712bd23305b4fe023bea&w=220&h=
+2024-08-19 11:10:10,567 - INFO - ----------------------------------------
+2024-08-19 11:10:10,567 - INFO - Title: Bat Cave Kayak Tour with Chattanooga Guided Adventures
+2024-08-19 11:10:10,567 - INFO - URL: N/A
+2024-08-19 11:10:10,567 - INFO - Date: None
+2024-08-19 11:10:10,567 - INFO - Location: Nickajack Bat Cave Maple View Recreation Area
+2024-08-19 11:10:10,567 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,567 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30592/download/PXL_20240317_231122463.jpg?cb=dc76234db6bf6ac8c662f89b5fa96df7&w=220&h=
+2024-08-19 11:10:10,567 - INFO - ----------------------------------------
+2024-08-19 11:10:10,567 - INFO - Title: Josey Clay
+2024-08-19 11:10:10,567 - INFO - URL: N/A
+2024-08-19 11:10:10,567 - INFO - Date: None
+2024-08-19 11:10:10,567 - INFO - Location: Doc Holidays
+2024-08-19 11:10:10,567 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,567 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/22296/download/josey-clay.jpeg?cb=70f3445dfcbc192a438b4654248f1f92&w=220&h=
+2024-08-19 11:10:10,567 - INFO - ----------------------------------------
+2024-08-19 11:10:10,567 - INFO - Title: Alien: Romulus in IMAX!
+2024-08-19 11:10:10,567 - INFO - URL: N/A
+2024-08-19 11:10:10,567 - INFO - Date: None
+2024-08-19 11:10:10,567 - INFO - Location: Tennessee Aquarium IMAX 3D Theater
+2024-08-19 11:10:10,567 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,567 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30682/download/ALN-TF-RainElevator%20%281%29.jpg?cb=152e292048143728eaa94c7cddb2e831&w=220&h=
+2024-08-19 11:10:10,567 - INFO - ----------------------------------------
+2024-08-19 11:10:10,567 - INFO - Title: Chickamauga Dam Lock Kayak Tour
+2024-08-19 11:10:10,567 - INFO - URL: N/A
+2024-08-19 11:10:10,567 - INFO - Date: 2024-08-22
+2024-08-19 11:10:10,567 - INFO - Location: Tennessee Riverpark (Hubert Fry Center Oval)
+2024-08-19 11:10:10,567 - INFO - Recurrence: N/A
+2024-08-19 11:10:10,567 - INFO - Image URL: https://www.chattanoogapulse.com/downloads/30593/download/PXL_20240802_155527261%7E3.jpg?cb=acf96a4abe66f86623600a790aa0db53&w=220&h=
+2024-08-19 11:10:10,567 - INFO - ----------------------------------------
+2024-08-19 11:10:10,567 - INFO - Fetching and parsing Chatt Library
+2024-08-19 11:10:10,692 - INFO - Chromedriver is already installed.
+2024-08-19 11:10:10,692 - INFO - ====== WebDriver manager ======
+2024-08-19 11:10:10,781 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:10:10,868 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:10:10,953 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-19 11:10:26,332 - INFO - Extracted 15 events from Chatt Library
+2024-08-19 11:10:26,332 - INFO - Title: Toddler Time at Downtown Monday, Thursday and Saturday 11am
+2024-08-19 11:10:26,332 - INFO - URL: N/A
+2024-08-19 11:10:26,332 - INFO - Date: N/A
+2024-08-19 11:10:26,332 - INFO - Location: Downtown Library
+2024-08-19 11:10:26,332 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,332 - INFO - Image URL: N/A
+2024-08-19 11:10:26,332 - INFO - ----------------------------------------
+2024-08-19 11:10:26,332 - INFO - Title: Full Steam Ahead South Chatt
+2024-08-19 11:10:26,332 - INFO - URL: N/A
+2024-08-19 11:10:26,332 - INFO - Date: N/A
+2024-08-19 11:10:26,332 - INFO - Location: South Chattanooga Library
+2024-08-19 11:10:26,332 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,332 - INFO - Image URL: N/A
+2024-08-19 11:10:26,332 - INFO - ----------------------------------------
+2024-08-19 11:10:26,332 - INFO - Title: Eastgate Authors
+2024-08-19 11:10:26,332 - INFO - URL: N/A
+2024-08-19 11:10:26,332 - INFO - Date: N/A
+2024-08-19 11:10:26,332 - INFO - Location: Eastgate Library
+2024-08-19 11:10:26,332 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,332 - INFO - Image URL: N/A
+2024-08-19 11:10:26,332 - INFO - ----------------------------------------
+2024-08-19 11:10:26,332 - INFO - Title: STEAM-Powered Fun Downtown
+2024-08-19 11:10:26,332 - INFO - URL: N/A
+2024-08-19 11:10:26,332 - INFO - Date: N/A
+2024-08-19 11:10:26,332 - INFO - Location: Downtown Library
+2024-08-19 11:10:26,332 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Toddler Time at Downtown Tuesday 10am
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Downtown Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Baby Bounce at Eastgate Tuesday 10am
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Eastgate Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Preschool Storytime at Northgate Tuesday 10am
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Northgate Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Preschool Storytime at Northgate Tuesday 11am
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Northgate Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Baby Bounce at Downtown Tuesday 12pm
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Downtown Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Full Steam Ahead Eastgate
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Eastgate Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: STEAM-Powered Fun Eastgate
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Eastgate Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Teen Volunteer Orientation
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Downtown Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Toddler Time at Northgate Wednesday 10am
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Northgate Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Toddler Time at Eastgate Wednesday 10am
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Eastgate Library
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Title: Outdoor Storytime with South Chatt
+2024-08-19 11:10:26,333 - INFO - URL: N/A
+2024-08-19 11:10:26,333 - INFO - Date: N/A
+2024-08-19 11:10:26,333 - INFO - Location: Frederick's Park
+2024-08-19 11:10:26,333 - INFO - Recurrence: N/A
+2024-08-19 11:10:26,333 - INFO - Image URL: N/A
+2024-08-19 11:10:26,333 - INFO - ----------------------------------------
+2024-08-19 11:10:26,333 - INFO - Fetching and parsing Chattanooga Chamber
+2024-08-19 11:10:26,464 - INFO - Chromedriver is already installed.
+2024-08-19 11:10:26,465 - INFO - ====== WebDriver manager ======
+2024-08-19 11:10:26,532 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:10:26,619 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:10:26,703 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-19 11:10:35,288 - INFO - Extracted 5 events from Chattanooga Chamber
+2024-08-19 11:10:35,288 - INFO - Title: Ribbon Cutting for Acme Fusion Cafe
+2024-08-19 11:10:35,288 - INFO - URL: N/A
+2024-08-19 11:10:35,288 - INFO - Date: N/A
+2024-08-19 11:10:35,288 - INFO - Location: 12p Ribbon Cutting for Acme Fusion Cafe
+2024-08-19 11:10:35,288 - INFO - Recurrence: 12p Ribbon Cutting for Acme Fusion Cafe
+2024-08-19 11:10:35,288 - INFO - Image URL: N/A
+2024-08-19 11:10:35,288 - INFO - ----------------------------------------
+2024-08-19 11:10:35,288 - INFO - Title: Downtown Council
+2024-08-19 11:10:35,288 - INFO - URL: N/A
+2024-08-19 11:10:35,288 - INFO - Date: N/A
+2024-08-19 11:10:35,288 - INFO - Location: 7:30a Downtown Council
+2024-08-19 11:10:35,288 - INFO - Recurrence: 7:30a Downtown Council
+2024-08-19 11:10:35,288 - INFO - Image URL: N/A
+2024-08-19 11:10:35,288 - INFO - ----------------------------------------
+2024-08-19 11:10:35,288 - INFO - Title: Ooltewah/Collegedale Council Coffee
+2024-08-19 11:10:35,288 - INFO - URL: N/A
+2024-08-19 11:10:35,288 - INFO - Date: N/A
+2024-08-19 11:10:35,288 - INFO - Location: 8:30a Ooltewah/Collegedale Council Coffee
+2024-08-19 11:10:35,288 - INFO - Recurrence: 8:30a Ooltewah/Collegedale Council Coffee
+2024-08-19 11:10:35,288 - INFO - Image URL: N/A
+2024-08-19 11:10:35,288 - INFO - ----------------------------------------
+2024-08-19 11:10:35,288 - INFO - Title: Tropical Smoothie Cafe
+2024-08-19 11:10:35,288 - INFO - URL: N/A
+2024-08-19 11:10:35,288 - INFO - Date: N/A
+2024-08-19 11:10:35,288 - INFO - Location: 9a Tropical Smoothie Cafe
+2024-08-19 11:10:35,288 - INFO - Recurrence: 9a Tropical Smoothie Cafe
+2024-08-19 11:10:35,288 - INFO - Image URL: N/A
+2024-08-19 11:10:35,288 - INFO - ----------------------------------------
+2024-08-19 11:10:35,288 - INFO - Title: East Ridge Council Meeting
+2024-08-19 11:10:35,288 - INFO - URL: N/A
+2024-08-19 11:10:35,288 - INFO - Date: N/A
+2024-08-19 11:10:35,288 - INFO - Location: 11:30a East Ridge Council Meeting
+2024-08-19 11:10:35,288 - INFO - Recurrence: 11:30a East Ridge Council Meeting
+2024-08-19 11:10:35,288 - INFO - Image URL: N/A
+2024-08-19 11:10:35,288 - INFO - ----------------------------------------
+2024-08-19 11:10:35,288 - INFO - Fetching and parsing CHA Guide Things To Do
+2024-08-19 11:10:35,410 - INFO - Chromedriver is already installed.
+2024-08-19 11:10:35,410 - INFO - ====== WebDriver manager ======
+2024-08-19 11:10:35,481 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:10:35,569 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-19 11:10:35,657 - INFO - Driver [/home/garner/.wdm/drivers/chromedriver/linux64/127.0.6533.119/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-19 11:10:49,953 - INFO - Extracted 5 events from CHA Guide Things To Do
+2024-08-19 11:10:49,953 - INFO - Title: Nightfall 2024
+2024-08-19 11:10:49,953 - INFO - URL: N/A
+2024-08-19 11:10:49,953 - INFO - Date: 2024-08-23
+2024-08-19 11:10:49,953 - INFO - Location: Miller Plaza & Miller Park
+2024-08-19 11:10:49,953 - INFO - Recurrence: N/A
+2024-08-19 11:10:49,953 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/6650756de1e1f46876dfaf36_nightfall.png
+2024-08-19 11:10:49,953 - INFO - ----------------------------------------
+2024-08-19 11:10:49,953 - INFO - Title: Riverfront Nights
+2024-08-19 11:10:49,953 - INFO - URL: N/A
+2024-08-19 11:10:49,953 - INFO - Date: 2024-08-24
+2024-08-19 11:10:49,953 - INFO - Location: Ross’s Landing
+2024-08-19 11:10:49,953 - INFO - Recurrence: N/A
+2024-08-19 11:10:49,953 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/66506dc8c3a254ae79e4be1c_riverfrontnigghts.png
+2024-08-19 11:10:49,953 - INFO - ----------------------------------------
+2024-08-19 11:10:49,953 - INFO - Title: OPEN SCRIBZ OPEN MIC
+2024-08-19 11:10:49,953 - INFO - URL: N/A
+2024-08-19 11:10:49,953 - INFO - Date: 2024-08-24
+2024-08-19 11:10:49,953 - INFO - Location: Songbirds
+2024-08-19 11:10:49,953 - INFO - Recurrence: N/A
+2024-08-19 11:10:49,953 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/66bf203e3a064e934931b375_SCRIBZ.png
+2024-08-19 11:10:49,953 - INFO - ----------------------------------------
+2024-08-19 11:10:49,953 - INFO - Title: Rail & Hops Brewers Festival
+2024-08-19 11:10:49,953 - INFO - URL: N/A
+2024-08-19 11:10:49,953 - INFO - Date: 2024-08-24
+2024-08-19 11:10:49,953 - INFO - Location: Chattanooga Choo Choo - Glenn Miller Gardens
+2024-08-19 11:10:49,953 - INFO - Recurrence: N/A
+2024-08-19 11:10:49,953 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/66bf21a47e9d8ee0951452d7_railhops.png
+2024-08-19 11:10:49,953 - INFO - ----------------------------------------
+2024-08-19 11:10:49,953 - INFO - Title: SHADES OF POETRY ARTIST TALK AND PERFORMANCE SHOWCASE
+2024-08-19 11:10:49,953 - INFO - URL: N/A
+2024-08-19 11:10:49,953 - INFO - Date: 2024-08-25
+2024-08-19 11:10:49,954 - INFO - Location: RISE Chattanooga
+2024-08-19 11:10:49,954 - INFO - Recurrence: N/A
+2024-08-19 11:10:49,954 - INFO - Image URL: https://cdn.prod.website-files.com/59935d164668fb0001206326/66bf2101b6c02dbd023a7157_artist%20talk.png
+2024-08-19 11:10:49,954 - INFO - ----------------------------------------
